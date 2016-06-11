@@ -8,7 +8,7 @@ library(data.table)
 library(ggplot2)
 library(plotly)
 rawData = read.csv("C:/Users/Matthew/Documents/SunshineList/Inputs/2015-combined-salary-seconded-en.csv", stringsAsFactors = F)
-rawData[,4] = as.numeric(gsub("[$,]","", rawData[,4]))
+rawData[, 4] = as.numeric(gsub("[$,]","", rawData[, 4]))
 rawData_universities = rawData[rawData$Sector == "Universities", ]
 for (i in (1:length(unique(rawData_universities$Employer)))){
   print(unique(rawData_universities$Employer)[i])
