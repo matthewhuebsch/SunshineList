@@ -107,7 +107,6 @@ ggplotly(city_vs_salary_plot)
 
 
 
-
 # Find the cost of living for city and plot against median salary for university
 
 
