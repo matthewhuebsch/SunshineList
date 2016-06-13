@@ -1,0 +1,9 @@
+{
+    "path" : "~/SunshineList",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

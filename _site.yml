@@ -1,0 +1,13 @@
+output_dir: '.'
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    mathjax: null
+    toc_depth: 3
+    toc_float:
+      collapsed: false
+    pandoc_args: [ 
+      "+RTS", "-K64m", 
+      "-RTS" 
+    ] 
