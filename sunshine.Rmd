@@ -1,22 +1,27 @@
 ```{r setup, include=FALSE}
 suppressWarnings(library(knitr))
-opts_chunk$set(out.width='900px', dpi=200)
-```
-
-#Section 1
-```{r}
 suppressWarnings(library(data.table))
 suppressWarnings(library(ggplot2))
 suppressWarnings(library(plotly))
+opts_chunk$set(out.width='900px', dpi=200)
+```
+
+#Analysis of 2015 Salaries
+##Salaries by University
+###Individual Salary Distributions
+```{r}
 rawData = read.csv("C:/Users/Matthew/Documents/SunshineList/Inputs/2015-combined-salary-seconded-en.csv", stringsAsFactors = F)
 rawData[, 4] = as.numeric(gsub("[$,]","", rawData[, 4]))
 rawData_universities = rawData[rawData$Sector == "Universities", ]
 for (i in (1:length(unique(rawData_universities$Employer)))){
   #print(unique(rawData_universities$Employer)[i])
   filtered_df = rawData_universities[rawData_universities$Employer == unique(rawData_universities$Employer)[i], ]
-  hist(filtered_df$Salary.Paid)
+  hist(filtered_df$Salary.Paid, main = paste0("Salary Distribution for ", unique(rawData_universities$Employer)[i]))
 }
+```
 
+###Salary spread
+```{r}
 # boxplot(x = rawData_universities$Salary.Paid, data = filtered_df, formula = rawData_universities$Salary.Paid ~ rawData_universities$Employer)
 top_universities = c("University of Toronto", "University of Ottawa", "University of Waterloo", "University of Western Ontario")
 set1 = unique(rawData_universities$Employer)[1:12]
@@ -38,8 +43,10 @@ ggplot(rawData_universities, aes(x=factor(Employer), y=Salary.Paid)) + geom_boxp
 ggplot(rawData_universities, aes(x=factor(Employer), y=Salary.Paid)) + geom_boxplot() + theme(axis.text.x  = element_text(angle=90, vjust=0.5)) + ylim(0,500000)
 
 rawData_universities$City = NA
+```
 
-
+## Detailed look- Brock
+```{r}
 # Find the distribution of salaries vs roles (for Brock, e.g.)
 rawData_universities_Brock = rawData_universities[rawData_universities$Employer == "Brock University", ]
 #table(rawData_universities_Brock$Job.title)
@@ -50,7 +57,10 @@ ggplot(rawData_universities_Brock, aes(x=factor(Job.title), y=Salary.Paid)) + ge
 rawData_universities_Brock_noDup = rawData_universities_Brock[(duplicated(rawData_universities_Brock$Job.title) | duplicated(rawData_universities_Brock$Job.title, fromLast = TRUE)), ]
 rawData_universities_Brock_noDup$Job.title = with(rawData_universities_Brock_noDup, reorder(Job.title, Salary.Paid, median))
 ggplot(rawData_universities_Brock_noDup, aes(x=factor(Job.title), y=Salary.Paid)) + geom_boxplot() + theme(axis.text.x  = element_text(angle=90, vjust=0.5)) + ylim(0,500000)
+```
 
+##Educational cities
+```{r}
 # Create the table condensing down to school
 table(rawData_universities$Employer)
 
