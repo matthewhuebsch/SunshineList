@@ -3,6 +3,7 @@ library(knitr)
 opts_chunk$set(out.width='900px', dpi=200)
 ```
 
+#Section 1
 ```{r}
 library(data.table)
 library(ggplot2)
@@ -41,7 +42,7 @@ rawData_universities$City = NA
 
 # Find the distribution of salaries vs roles (for Brock, e.g.)
 rawData_universities_Brock = rawData_universities[rawData_universities$Employer == "Brock University", ]
-table(rawData_universities_Brock$Job.title)
+#table(rawData_universities_Brock$Job.title)
 plot(table(rawData_universities_Brock$Job.title))
 
 ggplot(rawData_universities_Brock, aes(x=factor(Job.title), y=Salary.Paid)) + geom_boxplot() + theme(axis.text.x  = element_text(angle=90, vjust=0.5)) + ylim(0,500000)

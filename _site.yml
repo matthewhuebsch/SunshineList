@@ -1,7 +1,8 @@
 output_dir: '.'
 output:
   html_document:
-    theme: cosmo
+    toc: true	
+    css: custom.css	
     highlight: textmate
     mathjax: null
     toc_depth: 3
