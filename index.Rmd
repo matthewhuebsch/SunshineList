@@ -19,11 +19,11 @@ output:
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **R Markdown**
+# **The Sunshine List**
 
-### *Dynamic Documents for R* {style="padding-top: 0px;"}
+### *A look at public-sector salaries in Ontario* {style="padding-top: 0px;"}
 
-Welcome to Huebsch Data Science. We investigate phenomena using available data and the open-source [R statistical language](https://www.r-project.org/). 
+Every year, Ontario discloses the salaries of their public sector employees. Here we will take a look at the trends in the data: [Sunshine list](sunshine.html). 
 
 
 </div>
@@ -33,61 +33,21 @@ Welcome to Huebsch Data Science. We investigate phenomena using available data a
 </div>
 </div>
 
-## Analyses
 
-<div style="height: 20px;"></div>
-
-[Quick Tour](authoring_quick_tour.html)
-
- [R Markdown Cheat Sheet](http://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
-
-[R Markdown Reference Guide](http://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
-
-<div style="height: 10px;"></div>
-
-## Analyses
+## References
 
 <div class="row">
 <div class="col-sm-10">
 
-With the basics described above you can get started with R Markdown right away. To learn more see:
 
-* [Sunshine List](sunshine.html), a look at public sector workers in Ontario who earn more than $100,000 per year.
-
-* [R Code Chunks](authoring_rcodechunks.html), which goes into more depth on customizing the behavior of embedded R code.
-
-* [R Markdown Cheat Sheet (PDF)](http://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf), a quick guide to the most commonly used markdown syntax, knitr options, and output formats.
-
-* [R Markdown Reference Guide (PDF)](http://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf), a more comprehensive reference guide to markdown, knitr, and output format options.
-
-* [Bibliographies and Citations](authoring_bibliographies_and_citations.html), which describes how to include references in R Markdown documents.
-
-* [Interactive Documents with Shiny](authoring_shiny.html), which describes how to make R Markdown documents interactive using [Shiny](http://shiny.rstudio.com).
-
-* [Compiling Reports from R Scripts](articles_report_from_r_script.html), which describes how to compile HTML, PDF, or MS Word reports from R scripts.
-
-* Document output formats: [HTML](html_document_format.html), [PDF](pdf_document_format.html), [Word](word_document_format.html), [Markdown](markdown_document_format.html), and [GitHub](github_document_format.html).
-
-* Presentation output formats: [ioslides](ioslides_presentation_format.html), [reveal.js](revealjs_presentation_format), [Slidy](slidy_presentation_format.html), and [Beamer](beamer_presentation_format.html)
+* [Source information](https://www.ontario.ca/page/public-sector-salary-disclosure), where Ontario publishes the salaries for public sector workers in Ontario who earn more than $100,000 per year.
 
 
-For even more in-depth documentation see:
+* [R](http://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf), the open source language used to generate the analysis.
 
-* The website for the [knitr package](http://yihui.name/knitr/). Knitr is an extremely powerful tool for dynamic content generation and the website has a wealth of documentation and examples to help you utilize it to its full potential.
+* [R Studio](https://www.rstudio.com/), the IDE that was used to write this.
 
-* The full specification of [Pandoc Markdown](authoring_pandoc_markdown.html), which describes all of the markdown features and syntax available within R Markdown documents.
-
-* If you are migrating documents from R Markdown v1 or wish to continue using RMarkdown v1 see the article on [Migrating from R Markdown v1](authoring_migrating_from_v1.html).
-
-See also the R Markdown developer documentation including:
-
-* Creating re-usable [Document Templates](developer_document_templates.html)
-    
-* Guide to [Creating New Formats](developer_custom_formats.html) for R Markdown
-    
-* Adding interactive components to R Markdown documents using [HTML Widgets](developer_html_widgets.html) and [Shiny Widgets](authoring_shiny_widgets.html).
-
-* Creating [Parameterized Reports](developer_parameterized_reports.html) to re-render the same document with distinct values for various key inputs.
+* [R Markdown](http://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf), the rendering language to create the HTML report.
 
 </div>
 </div>
