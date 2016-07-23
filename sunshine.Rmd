@@ -1,3 +1,20 @@
+---
+output:
+  html_document:
+    toc: true	
+    css: custom.css	
+    highlight: textmate
+    mathjax: null
+    toc_depth: 3
+    toc_float:
+      collapsed: false
+    pandoc_args: [ 
+      "+RTS", "-K64m", 
+      "-RTS" 
+    ] 
+    
+---
+
 ```{r setup, include=FALSE}
 suppressWarnings(library(knitr))
 suppressWarnings(library(data.table))
