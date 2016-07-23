@@ -1,13 +1,13 @@
 ```{r setup, include=FALSE}
-library(knitr)
+suppressWarnings(library(knitr))
 opts_chunk$set(out.width='900px', dpi=200)
 ```
 
 #Section 1
 ```{r}
-library(data.table)
-library(ggplot2)
-library(plotly)
+suppressWarnings(library(data.table))
+suppressWarnings(library(ggplot2))
+suppressWarnings(library(plotly))
 rawData = read.csv("C:/Users/Matthew/Documents/SunshineList/Inputs/2015-combined-salary-seconded-en.csv", stringsAsFactors = F)
 rawData[, 4] = as.numeric(gsub("[$,]","", rawData[, 4]))
 rawData_universities = rawData[rawData$Sector == "Universities", ]
