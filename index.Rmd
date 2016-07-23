@@ -29,7 +29,6 @@ Welcome to Huebsch Data Science. We investigate phenomena using available data a
 </div>
 <div class="col-sm-6">
 
-![](images/RMarkdownOutputFormats.png){width=350 height=350 style="margin-top:27px;"}
 
 </div>
 </div>
@@ -38,11 +37,11 @@ Welcome to Huebsch Data Science. We investigate phenomena using available data a
 
 <div style="height: 20px;"></div>
 
-![](images/RMarkdownTour.png) [Quick Tour](authoring_quick_tour.html)
+[Quick Tour](authoring_quick_tour.html)
 
-![](images/RMarkdownCheatSheet.png) [R Markdown Cheat Sheet](http://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
+ [R Markdown Cheat Sheet](http://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
 
-![](images/RMarkdownReference.png) [R Markdown Reference Guide](http://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
+[R Markdown Reference Guide](http://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
 
 <div style="height: 10px;"></div>
 
@@ -53,7 +52,7 @@ Welcome to Huebsch Data Science. We investigate phenomena using available data a
 
 With the basics described above you can get started with R Markdown right away. To learn more see:
 
-* [Sunshine List](Sunshine.html), a look at public sector workers in Ontario who earn more than $100,000 per year.
+* [Sunshine List](sunshine.html), a look at public sector workers in Ontario who earn more than $100,000 per year.
 
 * [R Code Chunks](authoring_rcodechunks.html), which goes into more depth on customizing the behavior of embedded R code.
 
