@@ -27,7 +27,7 @@ opts_chunk$set(out.width='900px', dpi=200)
 ##Salaries by University
 ###Individual Salary Distributions
 ```{r}
-rawData = read.csv(file.path(getwd(), "Inputs", "Salary Disclosure by year", "2015", "2015-combined-salary-seconded-en.csv"), stringsAsFactors = F)
+rawData = read.csv(file.path(getwd(), "Inputs", "Salary Disclosure by year", "Curated Data", "2015", "merged_file.csv"), stringsAsFactors = F)
 rawData[, 4] = as.numeric(gsub("[$,]","", rawData[, 4]))
 rawData[, 5] = as.numeric(gsub("[$,]","", rawData[, 5]))
 rawData$Total.Compensation = rawData$Salary.Paid + rawData$Taxable.Benefits
@@ -144,4 +144,39 @@ ggplotly(city_vs_salary_plot)
 
 
 # Find the school's ranking and plot against median salary for university
+```
+
+# By year - Universities
+```{r}
+years = seq(2009, 2015, by=1)
+if(F){
+  data_list = list()
+  for (i in 1:length(years)){
+    data_list[[i]] = read.csv(file.path(getwd(), "Inputs", "Salary Disclosure by year", "Curated Data", years[i], "merged_file.csv"), stringsAsFactors = F)
+    
+    data_list[[i]]$Salary.Paid = as.numeric(gsub("[$,]","", data_list[[i]]$Salary.Paid))
+    data_list[[i]]$Taxable.Benefits = as.numeric(gsub("[$,]","", data_list[[i]]$Taxable.Benefits))
+    data_list[[i]]$Total.Compensation = data_list[[i]]$Salary.Paid + data_list[[i]]$Taxable.Benefits
+    data_list[[i]] = data_list[[i]][data_list[[i]]$Sector == "Universities", ]
+    #universities only for now
+  }
+}
+
+data_total = read.csv(file.path(getwd(), "Inputs", "Salary Disclosure by year", "Curated Data", years[1], "merged_file.csv"), stringsAsFactors = F)
+data_total = data_total[, c("Sector", "Last.name", "First.name", "Salary.Paid", "Taxable.Benefits", "Employer", "Job.title", "Calendar.Year")]
+for (i in 2:length(years)){
+  data_to_bind = read.csv(file.path(getwd(), "Inputs", "Salary Disclosure by year", "Curated Data", years[i], "merged_file.csv"), stringsAsFactors = F)
+  data_to_bind = data_to_bind[, c("Sector", "Last.name", "First.name", "Salary.Paid", "Taxable.Benefits", "Employer", "Job.title", "Calendar.Year")]
+  data_total = rbind(data_total, data_to_bind)
+}
+
+data_total$Salary.Paid = as.numeric(gsub("[$,]","", data_total$Salary.Paid))
+data_total$Taxable.Benefits = as.numeric(gsub("[$,]","", data_total$Taxable.Benefits))
+data_total$Total.Compensation = data_total$Salary.Paid + data_total$Taxable.Benefits
+data_total = data_total[data_total$Sector == "Universities", ]  # Universities only for now
+compensation_over_time_plot = ggplot(data_total, aes(x=factor(Calendar.Year), y=Total.Compensation)) + geom_boxplot() + theme(axis.text.x  = element_text(angle=90, vjust=0.5)) + ylim(0,1500000)
+ggplotly(compensation_over_time_plot)
+compensation_over_time_plot_zoomed = ggplot(data_total, aes(x=factor(Calendar.Year), y=Total.Compensation)) + geom_boxplot() + theme(axis.text.x  = element_text(angle=90, vjust=0.5)) + ylim(0,1500000) +  coord_cartesian(ylim=c(0,300000))
+ggplotly(compensation_over_time_plot_zoomed)
+
 ```
