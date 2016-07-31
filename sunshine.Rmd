@@ -19,7 +19,7 @@ output:
 suppressWarnings(library(knitr))
 suppressWarnings(library(data.table))
 suppressWarnings(library(ggplot2))
-suppressWarnings(library(plotly))
+suppressMessages(library(plotly))
 opts_chunk$set(out.width='900px', dpi=200)
 ```
 
@@ -27,13 +27,15 @@ opts_chunk$set(out.width='900px', dpi=200)
 ##Salaries by University
 ###Individual Salary Distributions
 ```{r}
-rawData = read.csv("C:/Users/Matthew/Documents/SunshineList/Inputs/2015-combined-salary-seconded-en.csv", stringsAsFactors = F)
+rawData = read.csv(file.path(getwd(), "Inputs", "Salary Disclosure by year", "2015", "2015-combined-salary-seconded-en.csv"), stringsAsFactors = F)
 rawData[, 4] = as.numeric(gsub("[$,]","", rawData[, 4]))
+rawData[, 5] = as.numeric(gsub("[$,]","", rawData[, 5]))
+rawData$Total.Compensation = rawData$Salary.Paid + rawData$Taxable.Benefits
 rawData_universities = rawData[rawData$Sector == "Universities", ]
 for (i in (1:length(unique(rawData_universities$Employer)))){
   #print(unique(rawData_universities$Employer)[i])
   filtered_df = rawData_universities[rawData_universities$Employer == unique(rawData_universities$Employer)[i], ]
-  hist(filtered_df$Salary.Paid, main = paste0("Salary Distribution for ", unique(rawData_universities$Employer)[i]))
+  hist(filtered_df$Salary.Paid, main = paste0("Compensation Distribution for ", unique(rawData_universities$Employer)[i]), xlab = "Total Compensation (Salary + Benefits)")
 }
 ```
 
@@ -62,7 +64,7 @@ ggplot(rawData_universities, aes(x=factor(Employer), y=Salary.Paid)) + geom_boxp
 rawData_universities$City = NA
 ```
 
-## Detailed look- Brock
+## Detailed look: Brock University
 ```{r}
 # Find the distribution of salaries vs roles (for Brock, e.g.)
 rawData_universities_Brock = rawData_universities[rawData_universities$Employer == "Brock University", ]
