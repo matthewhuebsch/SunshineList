@@ -162,10 +162,10 @@ if(F){
   }
 }
 
-data_total = read.csv(file.path(getwd(), "Inputs", "Salary Disclosure by year", "Curated Data", years[1], "merged_file.csv"), stringsAsFactors = F)
+data_total = read.csv(file.path(getwd(), "Inputs", "Salary Disclosure by year", "Curated Data", years[1], "total_file.csv"), stringsAsFactors = F)
 data_total = data_total[, c("Sector", "Last.name", "First.name", "Salary.Paid", "Taxable.Benefits", "Employer", "Job.title", "Calendar.Year")]
 for (i in 2:length(years)){
-  data_to_bind = read.csv(file.path(getwd(), "Inputs", "Salary Disclosure by year", "Curated Data", years[i], "merged_file.csv"), stringsAsFactors = F)
+  data_to_bind = read.csv(file.path(getwd(), "Inputs", "Salary Disclosure by year", "Curated Data", years[i], "total_file.csv"), stringsAsFactors = F)
   data_to_bind = data_to_bind[, c("Sector", "Last.name", "First.name", "Salary.Paid", "Taxable.Benefits", "Employer", "Job.title", "Calendar.Year")]
   data_total = rbind(data_total, data_to_bind)
 }
@@ -182,5 +182,10 @@ ggplotly(compensation_over_time_plot_zoomed)
 for (i in 1:length(years)){
   hist(data_total[data_total$Calendar.Year==years[i], ]$Total.Compensation, breaks = 100, xlim = c(0,300000))
 }
+
+a= hist(data_total[data_total$Calendar.Year==years[i], ]$Total.Compensation, breaks = 100, xlim = c(0,300000))
+b = data.frame(x=a$mids, r=a$counts)
+#(b <- nls( r ~ k*exp(-1/2*(x-mu)^2/sigma^2), start=c(mu=120000,sigma=5,k=1) , data = b))
+#v <- summary(b)$parameters[,"Estimate"]
 
 ```
