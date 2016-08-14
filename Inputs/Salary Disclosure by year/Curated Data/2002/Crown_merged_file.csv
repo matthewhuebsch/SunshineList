@@ -1,0 +1,1695 @@
+"","X","Employer","Last.name","First.name","Job.title","Salary.Paid","Taxable.Benefits","Calendar.Year","Sector"
+"1",1,"Alcohol
+   & Gaming Commission","BARBER","G.R. RANDY","Chair","$123,926.19","$10,179.79",2002,"Crown"
+"2",2,"Alcohol & Gaming
+   Commission","BROWN","DUNCAN","Chief Executive Officer","$208,920.19","$11,830.78",2002,"Crown"
+"3",3,"Alcohol & Gaming
+   Commission","COOPER","JERRY","Director, Legal Services","$188,931.01","$2,818.26",2002,"Crown"
+"4",4,"Alcohol & Gaming
+   Commission","D'AMBROSIO","ELVIRA","Legal Counsel","$120,543.61","$1,254.66",2002,"Crown"
+"5",5,"Alcohol & Gaming
+   Commission","GREWAL","SUKHI","Director, Electronic Gaming","$129,511.69","$1,298.54",2002,"Crown"
+"6",6,"Alcohol & Gaming
+   Commission","GUGINS","ELAINE","Director, Licensing & Registration","$121,479.39","$0.00",2002,"Crown"
+"7",7,"Alcohol & Gaming
+   Commission","HUNDECK","PETER","Director, Corporate Services","$155,985.88","$2,706.66",2002,"Crown"
+"8",8,"Alcohol & Gaming
+   Commission","KARSAN","KARIM","Deputy Dir., Licensing & Registration","$111,191.42","$1,152.10",2002,"Crown"
+"9",9,"Alcohol & Gaming
+   Commission","KLAS","KATHERINE","Director, Sector Liaison","$121,608.20","$1,236.37",2002,"Crown"
+"10",10,"Alcohol & Gaming
+   Commission","KULIS","RICHARD","Deputy Director, Legal Services","$160,882.28","$2,813.42",2002,"Crown"
+"11",11,"Alcohol & Gaming
+   Commission","MACLEAN","HEATHER","Senior Manager, Human Resources","$109,525.39","$1,128.22",2002,"Crown"
+"12",12,"Alcohol & Gaming
+   Commission","MORRIS","PHILLIP","Legal Counsel","$142,856.63","$2,528.80",2002,"Crown"
+"13",13,"Alcohol & Gaming
+   Commission","SCARNATI","JAMES","Senior Manager, Business Management","$102,926.78","$1,082.68",2002,"Crown"
+"14",14,"Alcohol & Gaming
+   Commission","ST. ONGE","VALERIE","Senior Manager, Finance & Administration","$112,525.39","$1,132.54",2002,"Crown"
+"15",15,"Alcohol & Gaming
+   Commission","TAYLOR","RICHARD","Director, Corporate Services","$138,201.11","$11,868.70",2002,"Crown"
+"16",16,"Alcohol & Gaming
+   Commission","WREN","EDWARD","Legal Counsel","$140,985.67","$2,545.28",2002,"Crown"
+"17",17,"ARB/BON/OMB","HENNESSY","PATRICK","Sr. Manager","$100,946.19","$185.12",2002,"Crown"
+"18",18,"ARB/BON/OMB","JOHNSON","DAVID","Chairman","$114,655.05","$248.40",2002,"Crown"
+"19",19,"ARB/BON/OMB","TAYLOR","GAIL","CEO","$101,908.00","$0.00",2002,"Crown"
+"20",20,"Art Gallery of Ontario","LOCHNAN","KATHARINE","Senior Curator, Prints & Drawings","$101,913.72","$299.16",2002,"Crown"
+"21",21,"Art Gallery of Ontario","MADELL","ARLENE","Director, Marketing & Communications","$111,692.43","$261.20",2002,"Crown"
+"22",22,"Art Gallery of Ontario","MAHONEY","MICHAEL","Director of Operations","$118,283.81","$337.40",2002,"Crown"
+"23",23,"Art Gallery of Ontario","O'LEARY","DEBORAH","Director, Staff & Volunteer Resources","$103,283.82","$337.40",2002,"Crown"
+"24",24,"Art Gallery of Ontario","REID","DENNIS","Chief Curator","$120,005.79","$391.84",2002,"Crown"
+"25",25,"Art Gallery of Ontario","SAVERINO","ROCCO","Director, Finance & Info. Technology","$103,283.84","$337.40",2002,"Crown"
+"26",26,"Art Gallery of Ontario","ST.MICHAEL","SHAWN","Dir., Development & Second Century Camp.","$129,842.61","$424.12",2002,"Crown"
+"27",27,"Art Gallery of Ontario","TEITELBAUM","MATTHEW","Director & CEO","$241,403.82","$31,306.36",2002,"Crown"
+"28",28,"Cancer Care Ontario","ABD-EL-MALEK","MEDHAT","Radiation Oncologist","$132,249.63","$320.14",2002,"Crown"
+"29",29,"Cancer Care Ontario","ABU-ZAHRA","HAKAM","Medical Oncologist","$180,599.36","$532.29",2002,"Crown"
+"30",30,"Cancer Care Ontario","AGBOOLA","OLVSEGUN","Radiation Oncologist","$120,065.55","$337.17",2002,"Crown"
+"31",31,"Cancer Care Ontario","ALAM","ZEENAT","Medical Oncologist","$166,746.91","$987.95",2002,"Crown"
+"32",32,"Cancer Care Ontario","ANTHES","MARGARET","Radiation Oncologist","$187,681.41","$258.55",2002,"Crown"
+"33",33,"Cancer Care Ontario","ARJUNE","BANSKUMAR","Medical Physicist","$122,998.46","$345.44",2002,"Crown"
+"34",34,"Cancer Care Ontario","ARNOLD","ANDREW","Medical Oncologist","$163,577.61","$543.71",2002,"Crown"
+"35",35,"Cancer Care Ontario","ASSURAS","JOHN","General Practitioner in Oncology","$134,608.70","$414.94",2002,"Crown"
+"36",36,"Cancer Care Ontario","BAETZ","TARA","Medical Oncologist","$108,897.87","$392.10",2002,"Crown"
+"37",37,"Cancer Care Ontario","BARNETT","ROBIN","Manager, Physics","$131,320.07","$401.60",2002,"Crown"
+"38",38,"Cancer Care Ontario","BATTISTA","JERRY","Chief Physicist II","$134,690.12","$415.82",2002,"Crown"
+"39",39,"Cancer Care Ontario","BAUMAN","GLENN","Head, Radiation Oncology","$115,101.46","$337.62",2002,"Crown"
+"40",40,"Cancer Care Ontario","BENGER","ANN","Haematologist","$163,577.61","$543.71",2002,"Crown"
+"41",41,"Cancer Care Ontario","BERRY","SCOTT","Medical Oncologist","$151,366.64","$500.17",2002,"Crown"
+"42",42,"Cancer Care Ontario","BERTOTHY","NICHELE","General Practitioner in Oncology","$114,151.82","$353.46",2002,"Crown"
+"43",43,"Cancer Care Ontario","BISSETT","RANDALL","Radiation Oncologist","$311,869.66","$387.82",2002,"Crown"
+"44",44,"Cancer Care Ontario","BOWEN","JULIE","Head, Radiation Oncology","$198,265.25","$329.08",2002,"Crown"
+"45",45,"Cancer Care Ontario","BRAMWELL-WESLEY","VIVIAN","Head, Medical Clinical Oncology","$178,575.47","$542.13",2002,"Crown"
+"46",46,"Cancer Care Ontario","BROWMAN","GEORGE","VP, Regional Cancer Services","$193,603.37","$569.34",2002,"Crown"
+"47",47,"Cancer Care Ontario","BRUNDAGE","MICHAEL","Head, Radiation Oncology","$138,548.51","$387.82",2002,"Crown"
+"48",48,"Cancer Care Ontario","BRUNSKILL","IAN","Chief Information Officer / VP, Planning","$192,125.92","$0.00",2002,"Crown"
+"49",49,"Cancer Care Ontario","BUCKSTEIN","RENA","Medical Oncologist","$123,494.29","$429.62",2002,"Crown"
+"50",50,"Cancer Care Ontario","CAIRNCROSS","GREGORY","VP, Regional Cancer Services","$159,049.51","$388.80",2002,"Crown"
+"51",51,"Cancer Care Ontario","CALIFARETTI","NADIA","Medical Oncologist","$137,860.49","$0.00",2002,"Crown"
+"52",52,"Cancer Care Ontario","CAMERON","IAN","Medical Physicist","$108,550.39","$345.18",2002,"Crown"
+"53",53,"Cancer Care Ontario","CAMPBELL","CAROLYN","Medical Oncologist","$161,336.11","$538.58",2002,"Crown"
+"54",54,"Cancer Care Ontario","CANO","PABLO","Medical Oncologist","$183,620.52","$372.38",2002,"Crown"
+"55",55,"Cancer Care Ontario","CASALE","MARIA","General Practitioner in Oncology","$111,912.37","$353.46",2002,"Crown"
+"56",56,"Cancer Care Ontario","CHAMBERS","ANN","Senior Scientist","$105,563.36","$326.12",2002,"Crown"
+"57",57,"Cancer Care Ontario","CHAN","ADRIEN","Medical Oncologist","$116,192.23","$302.14",2002,"Crown"
+"58",58,"Cancer Care Ontario","CHEN","ZONGHUA","Physicist","$103,530.90","$314.94",2002,"Crown"
+"59",59,"Cancer Care Ontario","CHOUINARD","EDMOND","Medical Oncologist","$163,577.61","$543.71",2002,"Crown"
+"60",60,"Cancer Care Ontario","CHOW","EDWARD","Radiation Oncologist","$104,550.38","$337.62",2002,"Crown"
+"61",61,"Cancer Care Ontario","CHOW","THOMAS","Physicist","$111,512.01","$325.10",2002,"Crown"
+"62",62,"Cancer Care Ontario","CLARK","CAROLYN","General Practitioner in Oncology","$111,711.99","$0.00",2002,"Crown"
+"63",63,"Cancer Care Ontario","CLEMONS","MARK","Medical Oncologist","$125,506.63","$327.66",2002,"Crown"
+"64",64,"Cancer Care Ontario","CORBETT","TOM","Radiation Oncologist","$113,948.20","$344.65",2002,"Crown"
+"65",65,"Cancer Care Ontario","COSTELLO","SHAUN","Head, Radiation Oncology","$181,464.98","$337.12",2002,"Crown"
+"66",66,"Cancer Care Ontario","COVENS","ALLEN","Head, Gynaecological Oncology","$114,682.23","$442.60",2002,"Crown"
+"67",67,"Cancer Care Ontario","COWAN","DONALD","Senior Consultant","$140,132.34","$98.28",2002,"Crown"
+"68",68,"Cancer Care Ontario","CRIPPS","CHRISTINE","Medical Oncologist","$162,653.90","$541.58",2002,"Crown"
+"69",69,"Cancer Care Ontario","CROSS","PETER","Radiation Oncologist","$115,497.81","$337.07",2002,"Crown"
+"70",70,"Cancer Care Ontario","CURTIS","JOHN","Medical Oncologist","$175,914.59","$530.65",2002,"Crown"
+"71",71,"Cancer Care Ontario","CYGLER","JOANNA","Senior Medical Physicist","$125,600.01","$396.44",2002,"Crown"
+"72",72,"Cancer Care Ontario","DANJOUX","CYRIL","Radiation Oncologist","$109,983.07","$337.62",2002,"Crown"
+"73",73,"Cancer Care Ontario","DAR","ABDUL","Radiation Oncologist","$129,910.94","$528.85",2002,"Crown"
+"74",74,"Cancer Care Ontario","DEMETZ","CATHERINE","Radiation Oncologist","$114,035.66","$336.78",2002,"Crown"
+"75",75,"Cancer Care Ontario","DENT","SUSAN","Medical Oncologist","$171,797.66","$541.58",2002,"Crown"
+"76",76,"Cancer Care Ontario","DHALIWAL","HARBHAJAN","VP, Regional Cancer Services","$254,367.49","$540.94",2002,"Crown"
+"77",77,"Cancer Care Ontario","DINGLE","BRIAN","VP, Regional Cancer Services","$188,553.48","$520.56",2002,"Crown"
+"78",78,"Cancer Care Ontario","DIXON","PETER","VP, Regional Cancer Services","$185,783.10","$540.94",2002,"Crown"
+"79",79,"Cancer Care Ontario","DRODGE","KAREN","General Practitioner in Oncology","$111,525.70","$344.52",2002,"Crown"
+"80",80,"Cancer Care Ontario","E","CHOAN","Radiation Oncologist","$111,177.69","$297.36",2002,"Crown"
+"81",81,"Cancer Care Ontario","EAPEN","LIBNI","Radiation Oncologist","$116,007.01","$337.07",2002,"Crown"
+"82",82,"Cancer Care Ontario","EISEN","ANDREA","Medical Oncologist","$131,681.68","$426.17",2002,"Crown"
+"83",83,"Cancer Care Ontario","ELLIS","PETER","Medical Oncologist","$129,032.35","$431.45",2002,"Crown"
+"84",84,"Cancer Care Ontario","EL-SAYED","SAMY","Radiation Oncologist","$107,687.75","$337.07",2002,"Crown"
+"85",85,"Cancer Care Ontario","EVANS","WILLIAM","Executive VP / Head, Clinical Programs","$302,040.25","$542.06",2002,"Crown"
+"86",86,"Cancer Care Ontario","FALKSON","CONRAD","Radiation Oncologist","$162,732.27","$258.55",2002,"Crown"
+"87",87,"Cancer Care Ontario","FARRELL","THOMAS","Physicist","$128,005.53","$365.88",2002,"Crown"
+"88",88,"Cancer Care Ontario","FAVELL","LISA","Director, Capital Planning","$162,235.14","$372.47",2002,"Crown"
+"89",89,"Cancer Care Ontario","FIGUEREDO","ALVARO","Medical Oncologist","$163,577.61","$543.71",2002,"Crown"
+"90",90,"Cancer Care Ontario","FISHER","BARBARA","Radiation Oncologist","$106,462.54","$337.62",2002,"Crown"
+"91",91,"Cancer Care Ontario","FITZGIBBON","EDWARD","General Practitioner in Oncology","$113,772.29","$352.92",2002,"Crown"
+"92",92,"Cancer Care Ontario","FRALICK","RICHARD","General Practioner in Oncology","$137,024.89","$0.00",2002,"Crown"
+"93",93,"Cancer Care Ontario","GARCIA","JOHN","Director, Prevention Unit","$126,049.34","$389.32",2002,"Crown"
+"94",94,"Cancer Care Ontario","GEORGE","RALPH","Surgical Oncologist","$112,352.97","$348.17",2002,"Crown"
+"95",95,"Cancer Care Ontario","GERIG","LEE","Head, Clinical Physics","$122,886.57","$381.42",2002,"Crown"
+"96",96,"Cancer Care Ontario","GERMOND","COLIN","Head, Medical Oncology","$242,285.40","$438.86",2002,"Crown"
+"97",97,"Cancer Care Ontario","GERTLER","STAN","Medical Oncologist","$163,033.90","$541.58",2002,"Crown"
+"98",98,"Cancer Care Ontario","GILCHRIST","JAMES","Radiation Oncologist","$107,871.93","$337.62",2002,"Crown"
+"99",99,"Cancer Care Ontario","GINSBURG","DAVID","Medical Oncologist","$130,433.98","$459.01",2002,"Crown"
+"100",100,"Cancer Care Ontario","GIRARD","ANDRE","Radiation Oncologist","$128,248.26","$337.07",2002,"Crown"
+"101",101,"Cancer Care Ontario","GOEL","RAKESH","Medical Oncologist","$162,653.90","$541.58",2002,"Crown"
+"102",102,"Cancer Care Ontario","GOH","MARY","Senior Manager, Information Systems","$100,098.34","$298.07",2002,"Crown"
+"103",103,"Cancer Care Ontario","GOSS","GLENWOOD","Medical Oncologist","$156,380.08","$529.22",2002,"Crown"
+"104",104,"Cancer Care Ontario","GREEN","ESTHER","Chief Nursing Officer","$100,128.50","$240.84",2002,"Crown"
+"105",105,"Cancer Care Ontario","GREGG","RICHARD","Medical Oncologist","$163,033.90","$540.94",2002,"Crown"
+"106",106,"Cancer Care Ontario","GRIMARD","LAVAL","Medical Oncologist","$113,965.33","$337.07",2002,"Crown"
+"107",107,"Cancer Care Ontario","GRUNFELD","EVA","Clinician Scientist","$165,760.07","$0.00",2002,"Crown"
+"108",108,"Cancer Care Ontario","GULAVITA","SUNIL","Head, Radiation Oncology","$212,831.29","$258.55",2002,"Crown"
+"109",109,"Cancer Care Ontario","HALIKOWSKI","MARVIN","General Practioner in Oncology","$224,940.43","$415.53",2002,"Crown"
+"110",110,"Cancer Care Ontario","HAMMOND","JAMES","Radiation Oncologist","$106,546.92","$337.62",2002,"Crown"
+"111",111,"Cancer Care Ontario","HAYWARD","JOSEPH","Physicist","$103,018.28","$293.23",2002,"Crown"
+"112",112,"Cancer Care Ontario","HERST","JORDAN","Medical Oncologist","$200,030.38","$438.86",2002,"Crown"
+"113",113,"Cancer Care Ontario","HEYDON","ANGELICA","Director, President's Office","$109,087.43","$320.32",2002,"Crown"
+"114",114,"Cancer Care Ontario","HIRTE","HOLGER(HAL)","Head, Medical Oncology","$182,120.54","$561.64",2002,"Crown"
+"115",115,"Cancer Care Ontario","HODSON","IAN","Radiation Oncologist","$127,280.09","$344.65",2002,"Crown"
+"116",116,"Cancer Care Ontario","HOLLENBERG","CHARLES","Senior Consultant","$126,094.56","$0.00",2002,"Crown"
+"117",117,"Cancer Care Ontario","HOLOWATY","ERIC","Director, Surveillance Unit","$135,955.11","$420.07",2002,"Crown"
+"118",118,"Cancer Care Ontario","HUAN","SUSAN","Medical Oncologist / Medical Coord, Edu.","$193,367.50","$540.94",2002,"Crown"
+"119",119,"Cancer Care Ontario","HUDSON","ALAN","President & CEO","$287,572.58","$2,923.15",2002,"Crown"
+"120",120,"Cancer Care Ontario","HUYNH","CHAU","General Practioner in Oncology","$193,951.85","$225.45",2002,"Crown"
+"121",121,"Cancer Care Ontario","IMRIE","KEVIN","Medical Oncologist","$163,033.90","$0.00",2002,"Crown"
+"122",122,"Cancer Care Ontario","ISCOE","NEILL","Medical Oncologist","$129,106.53","$414.39",2002,"Crown"
+"123",123,"Cancer Care Ontario","JOHANSON","CURTIS","Radiation Oncologist","$109,943.67","$344.65",2002,"Crown"
+"124",124,"Cancer Care Ontario","JONES","GLENN","Radiation Oncologist","$112,032.01","$405.91",2002,"Crown"
+"125",125,"Cancer Care Ontario","JONKER","DEREK","Medical Oncologist","$163,033.90","$541.58",2002,"Crown"
+"126",126,"Cancer Care Ontario","JOSHI","CHANDRA","Medical Physicist","$111,618.73","$350.75",2002,"Crown"
+"127",127,"Cancer Care Ontario","KARSAN","FARROK","Radiation Oncologist","$247,379.05","$387.82",2002,"Crown"
+"128",128,"Cancer Care Ontario","KELLER","BRIAN","Physicist","$101,644.03","$323.20",2002,"Crown"
+"129",129,"Cancer Care Ontario","KELLER","OLIVER","Medical Oncologist","$159,283.90","$459.94",2002,"Crown"
+"130",130,"Cancer Care Ontario","KENDAL","WAYNE","Radiation Oncologist","$115,523.89","$337.07",2002,"Crown"
+"131",131,"Cancer Care Ontario","KERR","ANDREW","Medical Physicist","$112,787.88","$350.75",2002,"Crown"
+"132",132,"Cancer Care Ontario","KERR","IAN","Medical Oncologist","$161,076.03","$542.13",2002,"Crown"
+"133",133,"Cancer Care Ontario","KHOSLA","NARESH","VP/Chief Financial Officer","$152,421.83","$413.34",2002,"Crown"
+"134",134,"Cancer Care Ontario","KNIGHT","ANDREW","General Practioner in Oncology","$148,022.84","$400.15",2002,"Crown"
+"135",135,"Cancer Care Ontario","KNIGHT","GREGORY","Medical Oncologist","$161,711.74","$538.58",2002,"Crown"
+"136",136,"Cancer Care Ontario","KNIGHT","SUSAN","Medical Oncologist","$163,577.61","$543.71",2002,"Crown"
+"137",137,"Cancer Care Ontario","KOCANDRLE","HANNA","General Practioner in Oncology","$108,752.82","$336.84",2002,"Crown"
+"138",138,"Cancer Care Ontario","KOCHA","WALTER","Medical Oncologist","$163,576.03","$542.13",2002,"Crown"
+"139",139,"Cancer Care Ontario","KOROPATNICK","JAMES","Director, Cancer Research Labs","$122,897.92","$300.09",2002,"Crown"
+"140",140,"Cancer Care Ontario","KOUROUKIS","TOM","Haematologist","$113,418.62","$0.00",2002,"Crown"
+"141",141,"Cancer Care Ontario","KREIGER","NANCY","Sr. Scientist / Act. Dir., Research Unit","$108,575.59","$315.79",2002,"Crown"
+"142",142,"Cancer Care Ontario","KRON","TOMAS","Senior Physicist","$127,045.57","$404.40",2002,"Crown"
+"143",143,"Cancer Care Ontario","KWOK","CHUN-BUN","Medical Physicist","$102,898.97","$304.38",2002,"Crown"
+"144",144,"Cancer Care Ontario","LACHANCE","MARY JON","Proj. Mgr, RT & Physicist Recruitment","$115,905.59","$0.00",2002,"Crown"
+"145",145,"Cancer Care Ontario","LADA","BARBARA","Radiation Oncologist","$262,054.24","$0.00",2002,"Crown"
+"146",146,"Cancer Care Ontario","LAM","KIT YING","Senior Medical Physicist","$126,414.90","$348.99",2002,"Crown"
+"147",147,"Cancer Care Ontario","LAURIE","SCOTT","Medical Oncologist","$127,898.20","$444.33",2002,"Crown"
+"148",148,"Cancer Care Ontario","LESZCZYNSKI","KONRAD","Chief Physicist","$149,176.69","$375.07",2002,"Crown"
+"149",149,"Cancer Care Ontario","LEVIN","LESLIE","Sr. Medical Advisor","$283,458.43","$540.94",2002,"Crown"
+"150",150,"Cancer Care Ontario","LEVINE","MARK","Medical Oncologist","$163,033.90","$0.00",2002,"Crown"
+"151",151,"Cancer Care Ontario","LEWIS","CRAIG","Physicist","$115,683.35","$350.31",2002,"Crown"
+"152",152,"Cancer Care Ontario","LIGHTSTONE","ALEXANDER","Physicist","$110,753.04","$338.94",2002,"Crown"
+"153",153,"Cancer Care Ontario","LOFTERS","WYCLIFFE","Head, Medical Oncology","$175,383.94","$540.94",2002,"Crown"
+"154",154,"Cancer Care Ontario","LOGAN","DIANE","Head, Medical Oncology","$179,099.07","$542.13",2002,"Crown"
+"155",155,"Cancer Care Ontario","LOHMANN","REINHARD","Medical Oncologist","$163,576.03","$542.13",2002,"Crown"
+"156",156,"Cancer Care Ontario","LOPEZ","PEDRO","Medical Oncologist","$234,991.97","$438.86",2002,"Crown"
+"157",157,"Cancer Care Ontario","LUKKA","HIMU","Head, Radiation Oncology","$144,033.48","$362.58",2002,"Crown"
+"158",158,"Cancer Care Ontario","MACDONALD","DAVID","Medical Oncologist","$163,576.03","$542.13",2002,"Crown"
+"159",159,"Cancer Care Ontario","MACKENZIE","ROBERT","Radiation Oncologist","$102,738.79","$337.62",2002,"Crown"
+"160",160,"Cancer Care Ontario","MACKILLOP","WILLIAM","Head, Community Health & Epidemiology","$148,509.68","$387.82",2002,"Crown"
+"161",161,"Cancer Care Ontario","MADARNAS","YOLANDA","Medical Oncologist","$147,379.77","$525.54",2002,"Crown"
+"162",162,"Cancer Care Ontario","MAH","KATHERINE","Senior Medical Physicist","$125,331.41","$0.00",2002,"Crown"
+"163",163,"Cancer Care Ontario","MAI","VERNA","Director, Screening Programs","$183,607.90","$540.94",2002,"Crown"
+"164",164,"Cancer Care Ontario","MAJOR","PIERRE","Medical Oncologist","$163,577.61","$543.71",2002,"Crown"
+"165",165,"Cancer Care Ontario","MALONE","SHAWN","Radiation Oncologist","$112,624.70","$337.07",2002,"Crown"
+"166",166,"Cancer Care Ontario","MARCELLUS","DEBORAH","Haematologist","$163,033.90","$0.00",2002,"Crown"
+"167",167,"Cancer Care Ontario","MAROUN","JEAN","Medical Oncologist","$172,795.16","$541.58",2002,"Crown"
+"168",168,"Cancer Care Ontario","MATHESON","GARTH","Director, Regional Planning & Admin","$108,135.59","$334.32",2002,"Crown"
+"169",169,"Cancer Care Ontario","MATHEWS","JOHN","Medical Oncologist","$158,326.10","$487.95",2002,"Crown"
+"170",170,"Cancer Care Ontario","MCGHEE","PETER","Chief Physicist","$148,188.84","$382.15",2002,"Crown"
+"171",171,"Cancer Care Ontario","MCGURK","FRANCIS","Radiation Oncologist","$149,100.70","$0.00",2002,"Crown"
+"172",172,"Cancer Care Ontario","MEYER","RALPH","Haematologist","$163,577.61","$543.71",2002,"Crown"
+"173",173,"Cancer Care Ontario","MOULIN","DWIGHT","Medical Oncologist","$133,111.88","$478.71",2002,"Crown"
+"174",174,"Cancer Care Ontario","MUI","JIM","Radiation Oncologist","$131,230.74","$300.86",2002,"Crown"
+"175",175,"Cancer Care Ontario","NEVILLE","ALAN","Medical Oncologist","$163,577.61","$543.71",2002,"Crown"
+"176",176,"Cancer Care Ontario","NOBLE","JONATHAN","Medical Oncologist","$188,192.74","$429.98",2002,"Crown"
+"177",177,"Cancer Care Ontario","O'BRIEN","PETER","Manager, Physics","$134,798.68","$415.53",2002,"Crown"
+"178",178,"Cancer Care Ontario","OKAWARA","GORDON","Radiation Oncologist","$127,118.05","$344.65",2002,"Crown"
+"179",179,"Cancer Care Ontario","OSBORNE","RAYMOND","Gynaecological Oncologist","$112,802.44","$449.47",2002,"Crown"
+"180",180,"Cancer Care Ontario","OSTAPIAK","OREST","Physicist","$114,236.94","$325.10",2002,"Crown"
+"181",181,"Cancer Care Ontario","PANJWANI","DILIP","Radiation Oncologist","$116,544.39","$336.78",2002,"Crown"
+"182",182,"Cancer Care Ontario","PATEL","MALTI","Radiation Oncologist","$110,514.07","$344.65",2002,"Crown"
+"183",183,"Cancer Care Ontario","PATTERSON","MICHAEL","Head, Medical Physics","$134,374.00","$415.99",2002,"Crown"
+"184",184,"Cancer Care Ontario","PERRY","GAD","Radiation Oncologist","$110,075.37","$337.07",2002,"Crown"
+"185",185,"Cancer Care Ontario","PETERS","VICTOR","Physicist","$129,502.13","$393.73",2002,"Crown"
+"186",186,"Cancer Care Ontario","PRICHARD","HUGH","Radiation Oncologist","$221,408.47","$387.82",2002,"Crown"
+"187",187,"Cancer Care Ontario","PRITCHARD","KATHLEEN","Head, Clinical Trials & Epidemiology","$178,607.12","$542.06",2002,"Crown"
+"188",188,"Cancer Care Ontario","PROSS","DIANE","Reg'l Med. Coord, OBSP / Clinical Asst.","$127,623.37","$394.87",2002,"Crown"
+"189",189,"Cancer Care Ontario","PROVOST","DANIEL","Medical Physicist","$104,596.66","$286.64",2002,"Crown"
+"190",190,"Cancer Care Ontario","RAAPHORST","PETER","Head, Medical Physics","$134,944.55","$418.54",2002,"Crown"
+"191",191,"Cancer Care Ontario","RAJASINGHAM","RAJ","General Practioner in Oncology","$114,151.68","$352.92",2002,"Crown"
+"192",192,"Cancer Care Ontario","RAPLEY","PATRICK","Medical Physicist","$117,527.63","$329.08",2002,"Crown"
+"193",193,"Cancer Care Ontario","RAWLINSON","ALAN","Project Mgr, Medical Physics","$135,607.43","$744.90",2002,"Crown"
+"194",194,"Cancer Care Ontario","REAUME","NEIL","Medical Oncologist","$108,591.53","$384.93",2002,"Crown"
+"195",195,"Cancer Care Ontario","REID","TRUDY","Director, Regional Planning & Admin","$113,187.42","$323.99",2002,"Crown"
+"196",196,"Cancer Care Ontario","REITER","HAROLD","Radiation Oncologist","$130,184.53","$344.65",2002,"Crown"
+"197",197,"Cancer Care Ontario","ROBERTS","WAYNE","Senior Manager, Information Systems","$119,421.97","$324.68",2002,"Crown"
+"198",198,"Cancer Care Ontario","ROBILLARD","LUCILE","General Practitioner in Oncology","$112,000.78","$352.92",2002,"Crown"
+"199",199,"Cancer Care Ontario","ROBINS","JEAN","Medical Physicist","$112,358.36","$350.75",2002,"Crown"
+"200",200,"Cancer Care Ontario","SAGAR","STEPHEN","Radiation Oncologist","$114,280.66","$365.07",2002,"Crown"
+"201",201,"Cancer Care Ontario","SAMANT","RAJIV","Radiation Oncologist","$119,475.45","$337.07",2002,"Crown"
+"202",202,"Cancer Care Ontario","SATHYA","JINKA","Radiation Oncologist","$123,528.40","$344.65",2002,"Crown"
+"203",203,"Cancer Care Ontario","SAUNDERS","DEBORAH","Medical Head, Dental Oncology","$123,844.17","$301.00",2002,"Crown"
+"204",204,"Cancer Care Ontario","SAWKA","CAROL","VP, Regional Cancer Services","$218,679.81","$533.81",2002,"Crown"
+"205",205,"Cancer Care Ontario","SCHNEIDER","KENNETH","Radiation Oncologist","$146,778.49","$320.14",2002,"Crown"
+"206",206,"Cancer Care Ontario","SCHREINER","JOHN","Chief Physicist","$123,615.44","$382.63",2002,"Crown"
+"207",207,"Cancer Care Ontario","SEGAL-NADLER","ROANNE","Medical Oncologist","$131,712.44","$459.01",2002,"Crown"
+"208",208,"Cancer Care Ontario","SENTHELAL","SENTI","Radiation Oncologist","$173,611.86","$330.33",2002,"Crown"
+"209",209,"Cancer Care Ontario","SETO","JOYCE","Project Manager, Information Systems","$102,794.29","$0.00",2002,"Crown"
+"210",210,"Cancer Care Ontario","SEXTON","FRED","General Practitioner in Oncology","$107,685.76","$332.48",2002,"Crown"
+"211",211,"Cancer Care Ontario","SHARMA","VIJESHWAR","Physicist","$104,200.00","$190.81",2002,"Crown"
+"212",212,"Cancer Care Ontario","SHEHATA","SARWAT","Radiation Oncologist","$178,066.90","$378.10",2002,"Crown"
+"213",213,"Cancer Care Ontario","SHELLEY","WENDY","Radiation Oncologist","$128,049.00","$387.82",2002,"Crown"
+"214",214,"Cancer Care Ontario","SHUMAK","RENE","Radiologist In Chief","$120,404.68","$370.86",2002,"Crown"
+"215",215,"Cancer Care Ontario","SIMUOVIC","MARKO","Surgical Oncologist","$157,577.61","$543.71",2002,"Crown"
+"216",216,"Cancer Care Ontario","SINGH","GURMIT","Director, Research","$120,896.32","$373.95",2002,"Crown"
+"217",217,"Cancer Care Ontario","SIXEL","KATHARINA","Senior Physicist","$107,246.17","$340.59",2002,"Crown"
+"218",218,"Cancer Care Ontario","SKOT","JANICE","VP, Regional Cancer Services","$130,751.63","$418.98",2002,"Crown"
+"219",219,"Cancer Care Ontario","SLINGERLAND","JOYCE","Scientist","$151,711.20","$337.62",2002,"Crown"
+"220",220,"Cancer Care Ontario","SMITH","ANNE","VP, Regional Cancer Services","$188,033.96","$540.94",2002,"Crown"
+"221",221,"Cancer Care Ontario","SNIDER","ANNE","Director, Regional Planning & Admin","$104,934.60","$316.74",2002,"Crown"
+"222",222,"Cancer Care Ontario","SPANER","DAVID","Scientist","$191,826.02","$542.06",2002,"Crown"
+"223",223,"Cancer Care Ontario","SPRINGER","COLVIN","Radiation Oncologist","$134,935.64","$320.14",2002,"Crown"
+"224",224,"Cancer Care Ontario","STERN","HARTLEY","VP, Regional Cancer Services","$170,033.88","$0.00",2002,"Crown"
+"225",225,"Cancer Care Ontario","STEVENS","ROBERT","Medical Oncologist","$161,336.11","$538.58",2002,"Crown"
+"226",226,"Cancer Care Ontario","STEWART","DAVID","Medical Oncologist","$162,653.90","$541.58",2002,"Crown"
+"227",227,"Cancer Care Ontario","SZABO","JOSEPH","Physicist","$114,802.68","$348.84",2002,"Crown"
+"228",228,"Cancer Care Ontario","SZANTO","JANOS","Senior Medical Physicist","$125,403.23","$396.44",2002,"Crown"
+"229",229,"Cancer Care Ontario","TAYLOR","DONALD","VP, HR & Organizational Development","$166,418.84","$371.40",2002,"Crown"
+"230",230,"Cancer Care Ontario","TENHUNEN","LINDA","General Practioner in Oncology","$140,399.75","$309.08",2002,"Crown"
+"231",231,"Cancer Care Ontario","TOMIAK","ANNA","Medical Oncologist","$156,995.39","$517.75",2002,"Crown"
+"232",232,"Cancer Care Ontario","TOMIAK","EVA","Medical Oncologist","$133,815.53","$203.51",2002,"Crown"
+"233",233,"Cancer Care Ontario","TOUCHIE","MICHAEL","General Practitioner in Oncology","$113,732.29","$352.92",2002,"Crown"
+"234",234,"Cancer Care Ontario","TOZER","RICHARD","Medical Oncologist","$163,577.61","$543.71",2002,"Crown"
+"235",235,"Cancer Care Ontario","TRUDEAU","MAUREEN","Head, Medical Oncology","$129,813.14","$542.06",2002,"Crown"
+"236",236,"Cancer Care Ontario","TURLEY","EVA","Senior Scientist","$105,358.38","$324.46",2002,"Crown"
+"237",237,"Cancer Care Ontario","VAN DYKE","JAKE","Chief Physicist II","$134,690.11","$415.82",2002,"Crown"
+"238",238,"Cancer Care Ontario","VANDENBERG","THEODORE","Medical Oncologist","$163,576.03","$542.13",2002,"Crown"
+"239",239,"Cancer Care Ontario","VELDHUIS","KEIMPE","General Practitioner in Oncology","$134,608.70","$414.94",2002,"Crown"
+"240",240,"Cancer Care Ontario","VERGIDIS","DIMITRIOS","Head, Systemic Therapy","$246,717.53","$540.94",2002,"Crown"
+"241",241,"Cancer Care Ontario","VERMA","SHAILENDRA","Medical Oncologist","$163,009.38","$541.58",2002,"Crown"
+"242",242,"Cancer Care Ontario","VINCENT","MARK","Medical Oncologist","$163,576.03","$542.13",2002,"Crown"
+"243",243,"Cancer Care Ontario","VORUGANTI","SACHI","Radiation Oncologist","$104,234.44","$344.65",2002,"Crown"
+"244",244,"Cancer Care Ontario","WADDELL","MARY","General Practitioner in Oncology","$113,798.36","$0.00",2002,"Crown"
+"245",245,"Cancer Care Ontario","WANG","XIAOFANG","Medical Physicist","$116,600.85","$328.30",2002,"Crown"
+"246",246,"Cancer Care Ontario","WANT","DAVID","Radiation Oncologist","$147,865.59","$294.60",2002,"Crown"
+"247",247,"Cancer Care Ontario","WARNER","ELLEN","Medical Oncologist","$163,575.96","$542.06",2002,"Crown"
+"248",248,"Cancer Care Ontario","WEINROTH","JUDITH","General Practioner in Oncology","$114,145.32","$345.88",2002,"Crown"
+"249",249,"Cancer Care Ontario","WHELAN","TIM","Radiation Oncologist","$118,904.20","$344.65",2002,"Crown"
+"250",250,"Cancer Care Ontario","WHITING","NATALIE","Palliative Care Physician","$119,860.02","$367.77",2002,"Crown"
+"251",251,"Cancer Care Ontario","WHITTON","ANTHONY","Radiation Oncologist","$193,653.29","$552.17",2002,"Crown"
+"252",252,"Cancer Care Ontario","WIERZBICKI","RAFAL","Medical Oncologist","$163,033.90","$540.94",2002,"Crown"
+"253",253,"Cancer Care Ontario","WILKINS","DAVID","Senior Medical Physicist","$108,076.13","$340.59",2002,"Crown"
+"254",254,"Cancer Care Ontario","WINQUIST","ERIC","Medical Oncologist","$163,576.03","$542.13",2002,"Crown"
+"255",255,"Cancer Care Ontario","WOLCH","GARY","General Practitioner in Oncology","$136,053.98","$414.94",2002,"Crown"
+"256",256,"Cancer Care Ontario","WONG","RAIMOND","Radiation Oncologist","$112,861.65","$344.65",2002,"Crown"
+"257",257,"Cancer Care Ontario","WOO","MILTON","Senior Physicist","$128,576.21","$396.45",2002,"Crown"
+"258",258,"Cancer Care Ontario","WRIGHT","JIM","Radiation Oncologist","$118,069.28","$344.65",2002,"Crown"
+"259",259,"Cancer Care Ontario","WYMAN","DOUGLAS","Mgr, RT Technical Support","$126,183.78","$390.95",2002,"Crown"
+"260",260,"Cancer Care Ontario","YAU","JONATHAN","Medical Oncologist / Director, Research","$193,367.50","$540.94",2002,"Crown"
+"261",261,"Cancer Care Ontario","YEUNG","TAI","Senior Physicist","$125,078.99","$356.00",2002,"Crown"
+"262",262,"Cancer Care Ontario","YOUNG","SCOTT","Medical Oncologist","$164,018.60","$368.78",2002,"Crown"
+"263",263,"Cancer Care Ontario","YOUNG","VINCENT","Medical Oncologist","$162,653.90","$541.58",2002,"Crown"
+"264",264,"Cancer Care Ontario","YOUSSEDF","YOUSSEF","Radiation Oncologist","$122,538.75","$387.82",2002,"Crown"
+"265",265,"Cancer Care Ontario","YU","EDWARD","Radiation Oncologist","$108,281.46","$337.62",2002,"Crown"
+"266",266,"Consent & Capacity
+   Board","BAY","MICHAEL","Chair","$115,153.47","$249.48",2002,"Crown"
+"267",267,"Deposit Insurance Corp.
+   of Ontario","BRYDGES","BARRY","VP Stabilization Services","$127,319.00","$10,519.00",2002,"Crown"
+"268",268,"Deposit Insurance Corp.
+   of Ontario","BURGMAN","JOHN","CIO","$109,196.00","$11,718.00",2002,"Crown"
+"269",269,"Deposit Insurance Corp.
+   of Ontario","CHARBONNEAU","ROBERT","VP Insurance","$133,200.00","$10,565.00",2002,"Crown"
+"270",270,"Deposit Insurance Corp.
+   of Ontario","FOSTER","C. WILLIAM D.","VP Asset Mngmt & Recoveries","$140,781.00","$9,914.00",2002,"Crown"
+"271",271,"Deposit Insurance Corp.
+   of Ontario","MAXWELL","JAMES","Chief Administrative & Financial Officer","$123,519.00","$11,676.00",2002,"Crown"
+"272",272,"Deposit Insurance Corp.
+   of Ontario","POPRAWA","ANDREW","President and CEO","$193,239.00","$10,624.00",2002,"Crown"
+"273",273,"Edu. Quality & Accountability Off.","JACKSON","MARGUERITE","Chief Executive Officer","$168,345.12","$318.78",2002,"Crown"
+"274",274,"Edu. Quality & Accountability Off.","JONES","RICHARD","Project Manager","$101,273.92","$201.12",2002,"Crown"
+"275",275,"Edu. Quality & Accountability Off.","KIDD","CONNIE","Mgr, Assess. Data Proj., Tech. Qty","$152,693.56","$184.50",2002,"Crown"
+"276",276,"Edu. Quality & Accountability Off.","MADDEN","PATRICK","Director, Data & Operations","$101,844.09","$98.36",2002,"Crown"
+"277",277,"Environmental Review
+   Tribunal","MCPHAIL","IAN","Chair","$128,777.23","$285.03",2002,"Crown"
+"278",278,"Financial Services
+   Commission","BARBOUR","ROBERT","Head, Investigations","$162,885.55","$185.12",2002,"Crown"
+"279",279,"Financial Services
+   Commission","BAYEFSKY","EBAN","Arbitrator","$100,992.20","$201.21",2002,"Crown"
+"280",280,"Financial Services
+   Commission","BLACKMAN","LAWRENCE","Arbitrator","$101,768.60","$201.21",2002,"Crown"
+"281",281,"Financial Services
+   Commission","BYTHELL","ANN","Ombudsman & Exec. Dir.","$144,391.73","$290.28",2002,"Crown"
+"282",282,"Financial Services
+   Commission","CAMPBELL","MALCOLM","Dir Ombudsman Servs","$119,554.89","$223.52",2002,"Crown"
+"283",283,"Financial Services
+   Commission","CAMPBELL","MARGOT","Sr. Manager, Client Services","$107,330.04","$185.12",2002,"Crown"
+"284",284,"Financial Services
+   Commission","CHAN","DENNIS","Chief Actuary, Insurance","$144,485.78","$264.36",2002,"Crown"
+"285",285,"Financial Services
+   Commission","DELLA ROCCA","LINDA","Director Corporate Services","$125,017.75","$209.28",2002,"Crown"
+"286",286,"Financial Services
+   Commission","DRAPER","DAVID","Director of Arbitrations","$149,271.24","$244.51",2002,"Crown"
+"287",287,"Financial Services
+   Commission","DUDZINSKI","BARBARA","Dir Dispute Resolution Servs","$122,078.85","$223.52",2002,"Crown"
+"288",288,"Financial Services
+   Commission","EVANS","DAVID","Arbitrator","$104,194.02","$201.21",2002,"Crown"
+"289",289,"Financial Services
+   Commission","FEALDMAN","ISOBEL","Dir. Business Planning Review","$101,839.87","$200.67",2002,"Crown"
+"290",290,"Financial Services
+   Commission","GOLFETTO","TOM","Director Pension Plans","$107,242.62","$200.93",2002,"Crown"
+"291",291,"Financial Services
+   Commission","GORDON","DAVID","Deputy Superintendent","$128,911.53","$261.41",2002,"Crown"
+"292",292,"Financial Services
+   Commission","HALL","DARLENE","Dir. Auto Insurance & Analysis","$117,297.69","$223.52",2002,"Crown"
+"293",293,"Financial Services
+   Commission","HANDLER","WILLIAM","Sr Mgr Auto Insurance Policy","$103,636.63","$185.12",2002,"Crown"
+"294",294,"Financial Services
+   Commission","HARPER","JOHN","Director Compliance","$187,183.61","$223.52",2002,"Crown"
+"295",295,"Financial Services
+   Commission","KILLORAN","JUDITH","Arbitrator","$104,191.02","$201.21",2002,"Crown"
+"296",296,"Financial Services
+   Commission","LEITCH","DAVID","Arbitrator","$101,768.60","$201.21",2002,"Crown"
+"297",297,"Financial Services
+   Commission","MA","CHUN-MING","Chief Actuary","$160,573.55","$203.97",2002,"Crown"
+"298",298,"Financial Services
+   Commission","MCMAHON","STEWART","Appeals Officer","$103,496.73","$211.83",2002,"Crown"
+"299",299,"Financial Services
+   Commission","MILLER","JOYCE","Arbitrator","$101,768.60","$201.21",2002,"Crown"
+"300",300,"Financial Services
+   Commission","MILLIGAN","ROBERT","Sr. Mgr.Life Ins / Dep.Inst. Pol","$107,188.10","$200.88",2002,"Crown"
+"301",301,"Financial Services
+   Commission","PALMER","JULAINE","Arbitrator","$113,947.08","$208.13",2002,"Crown"
+"302",302,"Financial Services
+   Commission","PERSAUD","CECIL","Sr. Manager, Examinations","$112,798.97","$185.12",2002,"Crown"
+"303",303,"Financial Services
+   Commission","RENAHAN","WILLIAM","Arbitrator","$101,768.60","$201.21",2002,"Crown"
+"304",304,"Financial Services
+   Commission","SASTRI","ANITA","Sr. Manager, Examinations","$101,941.56","$185.12",2002,"Crown"
+"305",305,"Financial Services
+   Commission","SEIFE","ASFAW","Sr. Arbitrator","$102,015.06","$208.09",2002,"Crown"
+"306",306,"Financial Services
+   Commission","SHAM","NARDEO","Sr. Manager, Quality Service","$103,946.52","$185.12",2002,"Crown"
+"307",307,"Financial Services
+   Commission","SHIP","MARTIN","Dir. Corp Pol & Public Affairs","$124,748.43","$223.52",2002,"Crown"
+"308",308,"Financial Services
+   Commission","SONE","ANNE","Arbitrator","$101,399.33","$201.21",2002,"Crown"
+"309",309,"Financial Services
+   Commission","SWANSON","GRANT","Dir. Licensing & Compliance","$121,052.85","$223.52",2002,"Crown"
+"310",310,"GO Transit","BOYLE","ROBERT","Director, Facilities Services","$106,017.04","$370.20",2002,"Crown"
+"311",311,"GO Transit","CHUNG","FRANCES","Director, Financial Services","$110,636.06","$369.84",2002,"Crown"
+"312",312,"GO Transit","JENKINS","WILLIAM","Director, Customer Services","$100,210.07","$349.92",2002,"Crown"
+"313",313,"GO Transit","MCNEIL","GARY","Managing Director","$140,639.28","$2,642.42",2002,"Crown"
+"314",314,"GO Transit","NORMAN","JEAN","Director, Corporate Services","$112,941.83","$377.40",2002,"Crown"
+"315",315,"GO Transit","PERCY","GREGORY","Director, Rail Services","$100,891.06","$352.32",2002,"Crown"
+"316",316,"GO Transit","ROBINSON","ALLAN","Director, Bus Services","$103,287.77","$360.60",2002,"Crown"
+"317",317,"Grand River Conservation
+   Authority","EMERSON","PAUL","Chief Administrative Officer","$110,215.00","$8,094.00",2002,"Crown"
+"318",318,"Hlth Prof Appl &  Review Board","CONDOS","DENNIS","Chair","$115,153.21","$0.00",2002,"Crown"
+"319",319,"Human Rights Tribunal of
+   Ontario","GARFIELD","MATTHEW","Chair","$111,073.29","$240.60",2002,"Crown"
+"320",320,"Human Rights Tribunal of
+   Ontario","LEIGHTON","MARGARET","Legal Counsel","$128,958.48","$270.93",2002,"Crown"
+"321",321,"Independent Electricity
+   Market Op.","ANDERSON","DAVID","Mgr, Quality Assurance & Development","$154,761.59","$635.20",2002,"Crown"
+"322",322,"Independent Electricity
+   Market Op.","ARMSTRONG","LOUIS","Engr / Officer - Telecom & Computer Ntwks","$103,738.87","$302.40",2002,"Crown"
+"323",323,"Independent Electricity
+   Market Op.","BABCOCK","TIM","Senior Operations Officer","$115,683.70","$478.68",2002,"Crown"
+"324",324,"Independent Electricity
+   Market Op.","BAKSI","JIM","Settlement Production Manager","$152,820.52","$623.88",2002,"Crown"
+"325",325,"Independent Electricity
+   Market Op.","BARGER","HERB","Operations Officer","$109,291.68","$446.04",2002,"Crown"
+"326",326,"Independent Electricity
+   Market Op.","BEAMER","DEREK","Corporate Policy Officer","$104,769.06","$393.12",2002,"Crown"
+"327",327,"Independent Electricity
+   Market Op.","BRINDLEY","STUART","Manager, Emergency Preparedness","$171,247.77","$814.80",2002,"Crown"
+"328",328,"Independent Electricity
+   Market Op.","BUCCIARELLI","FRANK","Section Head - IT&I","$104,868.00","$412.56",2002,"Crown"
+"329",329,"Independent Electricity
+   Market Op.","BURNS","STEPHEN","Sr. Engineer / Tch. Officer - Market Limits","$105,467.38","$449.28",2002,"Crown"
+"330",330,"Independent Electricity
+   Market Op.","BURRELL","CARL","Senior Regulatory Analyst","$110,151.86","$358.56",2002,"Crown"
+"331",331,"Independent Electricity
+   Market Op.","CAMPBELL","BRUCE","VP - Corporate & Legal Affairs","$327,886.98","$1,393.20",2002,"Crown"
+"332",332,"Independent Electricity
+   Market Op.","CAMPBELL","STEPHEN","Engineer/Officer - Database","$104,883.78","$360.36",2002,"Crown"
+"333",333,"Independent Electricity
+   Market Op.","CARSON","BILL","Manager - IT Operations","$142,076.40","$549.24",2002,"Crown"
+"334",334,"Independent Electricity
+   Market Op.","CHAN","KEN","Sr Engr / Tech Off - Mrkt Limits / Sys Cap","$126,644.72","$457.44",2002,"Crown"
+"335",335,"Independent Electricity
+   Market Op.","CHANDLER","HARRY","Director - Market Assmt & Compliance","$206,080.98","$939.60",2002,"Crown"
+"336",336,"Independent Electricity
+   Market Op.","CHARLAND","MARIO","Senior Operations Officer","$125,784.18","$449.28",2002,"Crown"
+"337",337,"Independent Electricity
+   Market Op.","CHIANG","ED","Section Head - IT&I","$258,957.55","$205.45",2002,"Crown"
+"338",338,"Independent Electricity
+   Market Op.","CHIU","WANG","Senior Engineer / Officer - Solutions","$134,667.73","$457.44",2002,"Crown"
+"339",339,"Independent Electricity
+   Market Op.","CHUNG","JO","Treasury Analyst","$102,843.78","$360.36",2002,"Crown"
+"340",340,"Independent Electricity
+   Market Op.","CHUNG","SIMON","Senior Engineer / Officer - Database","$128,930.04","$466.72",2002,"Crown"
+"341",341,"Independent Electricity
+   Market Op.","COOPER","STEVE","Senior Engineer / Technical Officer","$115,312.42","$518.64",2002,"Crown"
+"342",342,"Independent Electricity
+   Market Op.","CORNFIELD","BRIAN","Operations Officer","$110,951.50","$411.48",2002,"Crown"
+"343",343,"Independent Electricity
+   Market Op.","COWBOURNE","DEREK","Vice President - Market Services","$328,640.64","$1,510.08",2002,"Crown"
+"344",344,"Independent Electricity
+   Market Op.","DANG","NORM","Section Head - IT&I","$102,726.00","$474.84",2002,"Crown"
+"345",345,"Independent Electricity
+   Market Op.","DE SANTIS","ALBERTO","Eng r/ Tech. Officer - Wholesale Metering","$101,579.82","$447.12",2002,"Crown"
+"346",346,"Independent Electricity
+   Market Op.","DELLOW","MALCOLM","Engineer / Officer - Solutions","$124,973.29","$408.24",2002,"Crown"
+"347",347,"Independent Electricity
+   Market Op.","DICKSON","PAT","Manager, Human Resources","$145,231.59","$519.75",2002,"Crown"
+"348",348,"Independent Electricity
+   Market Op.","DORAN","PAT","Section Head - Market Forecasts & Intgrn","$130,782.04","$565.04",2002,"Crown"
+"349",349,"Independent Electricity
+   Market Op.","DOVE","KEVIN","Communications Manager","$206,855.51","$293.22",2002,"Crown"
+"350",350,"Independent Electricity
+   Market Op.","DRENTH","JASON","Operations Officer","$104,508.51","$388.08",2002,"Crown"
+"351",351,"Independent Electricity
+   Market Op.","DREW","DENNIS","Senior Engineer / Technical Officer","$112,945.18","$423.84",2002,"Crown"
+"352",352,"Independent Electricity
+   Market Op.","FAHMY","GAMAL","Senior Engineer / Officer - Solutions","$116,838.65","$474.84",2002,"Crown"
+"353",353,"Independent Electricity
+   Market Op.","FAIRCHILD","JOHN","Senior Operations Officer","$132,342.98","$474.84",2002,"Crown"
+"354",354,"Independent Electricity
+   Market Op.","FALSETTI","RON","Senior Engineer / Technical Officer","$117,802.58","$453.30",2002,"Crown"
+"355",355,"Independent Electricity
+   Market Op.","FALVO","MICHAEL","Section Head - System Capability","$118,695.85","$695.62",2002,"Crown"
+"356",356,"Independent Electricity
+   Market Op.","FARRUGIA","ROGER","Senior Engineer / Technical Officer","$102,337.40","$427.38",2002,"Crown"
+"357",357,"Independent Electricity
+   Market Op.","FINDLAY","J. AL","Manager, Customer Relations","$173,369.64","$916.08",2002,"Crown"
+"358",358,"Independent Electricity
+   Market Op.","FINKBEINER","DARREN","Manager, Design Authority","$117,494.82","$434.04",2002,"Crown"
+"359",359,"Independent Electricity
+   Market Op.","FONG","CLEMENT","Section Head - IT&I","$128,440.01","$530.09",2002,"Crown"
+"360",360,"Independent Electricity
+   Market Op.","FREIRE","JOSEPH","Senior Engineer / Officer - Settlements","$131,110.80","$457.44",2002,"Crown"
+"361",361,"Independent Electricity
+   Market Op.","GATT","PAUL","Section Head - IT&I","$110,203.20","$522.90",2002,"Crown"
+"362",362,"Independent Electricity
+   Market Op.","GEMMILL","JEFF","Senior Operations Officer","$116,747.38","$345.60",2002,"Crown"
+"363",363,"Independent Electricity
+   Market Op.","GENOVESE","VITO","Senior Engineer / Technical Officer","$113,843.94","$358.56",2002,"Crown"
+"364",364,"Independent Electricity
+   Market Op.","GIBBONS","ROBERT","Manager - Long Term Forecasts & Assmts","$150,980.37","$797.28",2002,"Crown"
+"365",365,"Independent Electricity
+   Market Op.","GIKE","RUSSELL","Engineer / Officer - Shift Control","$119,124.76","$510.60",2002,"Crown"
+"366",366,"Independent Electricity
+   Market Op.","GILMORE","STEW","Engr / Tchncl Offcr - Mkt Frcsts & Intgrn","$105,953.08","$424.77",2002,"Crown"
+"367",367,"Independent Electricity
+   Market Op.","GOOCH","STEVE","Senior Engineer / Officer - Solutions","$126,964.49","$439.08",2002,"Crown"
+"368",368,"Independent Electricity
+   Market Op.","GOULDING","DAVID","President & Chief Executive Officer","$598,143.58","$2,246.52",2002,"Crown"
+"369",369,"Independent Electricity
+   Market Op.","HARPER","HAROLD","Section Head - IT&I","$105,582.69","$464.64",2002,"Crown"
+"370",370,"Independent Electricity
+   Market Op.","HARRISON","CYNTHIA","Senior Engineer / Officer - Settlements","$105,272.08","$412.56",2002,"Crown"
+"371",371,"Independent Electricity
+   Market Op.","HAY","LAWRENCE","Superintendent - Operations","$139,152.86","$546.36",2002,"Crown"
+"372",372,"Independent Electricity
+   Market Op.","HENDERSON","PETE","Section Head - Consistent Set Management","$139,011.76","$609.35",2002,"Crown"
+"373",373,"Independent Electricity
+   Market Op.","HESS","TOM","Superintendent - Operations","$160,616.17","$525.96",2002,"Crown"
+"374",374,"Independent Electricity
+   Market Op.","HILL","WARREN","Market Relations Consultant","$100,527.05","$356.40",2002,"Crown"
+"375",375,"Independent Electricity
+   Market Op.","HINE","GREGORY","Sr Engr / Tech. Officer - Assessments","$105,091.13","$369.36",2002,"Crown"
+"376",376,"Independent Electricity
+   Market Op.","HOSICK","HOWARD","Senior Engineer / Technical Officer","$113,625.46","$498.24",2002,"Crown"
+"377",377,"Independent Electricity
+   Market Op.","HOY","DAVID","Senior Engineer / Officer - Systems","$107,593.08","$436.92",2002,"Crown"
+"378",378,"Independent Electricity
+   Market Op.","INDEWEY","RICK","Senior Operations Officer","$143,975.08","$480.00",2002,"Crown"
+"379",379,"Independent Electricity
+   Market Op.","INGMAN","NICHOLAS","Project Engineer - Planning & Delivery","$112,000.14","$390.96",2002,"Crown"
+"380",380,"Independent Electricity
+   Market Op.","ISBER","MIKE","Market Relations Consultant","$106,398.11","$339.12",2002,"Crown"
+"381",381,"Independent Electricity
+   Market Op.","ISLAM","HELAL","Engineer /T echnical Officer","$121,948.69","$336.20",2002,"Crown"
+"382",382,"Independent Electricity
+   Market Op.","JOHNSON","LEN","Operations Officer","$104,290.02","$396.12",2002,"Crown"
+"383",383,"Independent Electricity
+   Market Op.","JONES","ROWAN","Supervisor - Wholesale Metering","$106,493.69","$410.40",2002,"Crown"
+"384",384,"Independent Electricity
+   Market Op.","JUTRAS","JAMES","Section Head - IT&I","$116,100.28","$428.88",2002,"Crown"
+"385",385,"Independent Electricity
+   Market Op.","KALINOVICH","MIKE","Human Resources Consultant","$112,591.88","$667.77",2002,"Crown"
+"386",386,"Independent Electricity
+   Market Op.","KALRA","NIKHILESH","Engineer/Officer - Database","$110,923.51","$365.04",2002,"Crown"
+"387",387,"Independent Electricity
+   Market Op.","KANDOLA","HARDEEP","Senior Engineer / Technical Officer","$115,434.33","$465.00",2002,"Crown"
+"388",388,"Independent Electricity
+   Market Op.","KAPTEYN","ROBERT","Asst Operations Officer","$100,659.01","$367.68",2002,"Crown"
+"389",389,"Independent Electricity
+   Market Op.","KATHURIA","RAJ","Market Information Analyst","$128,619.51","$448.50",2002,"Crown"
+"390",390,"Independent Electricity
+   Market Op.","KELBERT","JIM","Senior Analyst - Rule Amendment","$109,767.30","$457.44",2002,"Crown"
+"391",391,"Independent Electricity
+   Market Op.","KIM","JONG","Mrkt Opns Development Program Officer","$124,124.00","$378.84",2002,"Crown"
+"392",392,"Independent Electricity
+   Market Op.","KITCHEN","BRUCE","Senior Operations Officer","$117,346.56","$426.72",2002,"Crown"
+"393",393,"Independent Electricity
+   Market Op.","KLAHSEN","PETER","Engineer / Officer - Shift Control","$120,593.89","$488.04",2002,"Crown"
+"394",394,"Independent Electricity
+   Market Op.","KLINE","HEATHER","Supervisor - Mrkt Accounting & Reporting","$103,960.54","$403.92",2002,"Crown"
+"395",395,"Independent Electricity
+   Market Op.","KOT","JOHN","Senior Engineer / Officer - Systems","$110,881.40","$449.28",2002,"Crown"
+"396",396,"Independent Electricity
+   Market Op.","KOZLIK","KEN","Director - Client Support","$212,282.16","$845.64",2002,"Crown"
+"397",397,"Independent Electricity
+   Market Op.","LAD","DILIP","Engr / Officer - Telecom & Computer Ntwks","$104,078.42","$345.60",2002,"Crown"
+"398",398,"Independent Electricity
+   Market Op.","LAFOYIANNIS","PETER","Supervisor - Market Information Services","$115,296.63","$436.92",2002,"Crown"
+"399",399,"Independent Electricity
+   Market Op.","LAM","LISA","Sr Engr / Technical Officer - Settlements","$127,393.33","$459.60",2002,"Crown"
+"400",400,"Independent Electricity
+   Market Op.","LANGFORD","TIM","Operations Officer","$106,780.48","$295.92",2002,"Crown"
+"401",401,"Independent Electricity
+   Market Op.","LEE","DON","Director - Business Development","$212,761.85","$971.40",2002,"Crown"
+"402",402,"Independent Electricity
+   Market Op.","LEE","FRANK","Senior Engineer / Officer - Database","$125,918.88","$455.28",2002,"Crown"
+"403",403,"Independent Electricity
+   Market Op.","LEONARD","TED","Corporate Controller","$147,928.21","$797.28",2002,"Crown"
+"404",404,"Independent Electricity
+   Market Op.","LIMBRICK","WILLIAM","Vice President - IT&I","$304,628.46","$1,360.80",2002,"Crown"
+"405",405,"Independent Electricity
+   Market Op.","LINDENMAYR","ERIC","Engineer / Officer - Systems","$123,124.77","$423.84",2002,"Crown"
+"406",406,"Independent Electricity
+   Market Op.","LOCKE","BRUCE","Section Head - IT&I","$129,639.32","$451.44",2002,"Crown"
+"407",407,"Independent Electricity
+   Market Op.","LOUIE","CHAK","Senior Engineer / Technical Officer","$111,788.66","$459.36",2002,"Crown"
+"408",408,"Independent Electricity
+   Market Op.","LUBEK","JACK","Senior Analyst - Market Assessment","$107,221.67","$486.24",2002,"Crown"
+"409",409,"Independent Electricity
+   Market Op.","LYLE","ALEXANDER","Senior Engineer / Officer - Systems","$110,992.28","$408.48",2002,"Crown"
+"410",410,"Independent Electricity
+   Market Op.","LYN","TYRONE","Section Head - IT&I","$138,441.53","$469.80",2002,"Crown"
+"411",411,"Independent Electricity
+   Market Op.","MACKAY","BRUCE","Manager - Contracts & Agreements","$155,854.88","$351.00",2002,"Crown"
+"412",412,"Independent Electricity
+   Market Op.","MACKENZIE","JOHN","Supervisor - Market Rules","$105,634.61","$408.24",2002,"Crown"
+"413",413,"Independent Electricity
+   Market Op.","MAGUIRE","DANNY","Senior Operations Officer","$129,001.01","$449.28",2002,"Crown"
+"414",414,"Independent Electricity
+   Market Op.","MALIK","YASIN","Manager, Facilities & Asset Management","$140,088.08","$821.04",2002,"Crown"
+"415",415,"Independent Electricity
+   Market Op.","MALO","ADRIAN","Sr. Exchange Engineer / Officer","$118,711.40","$531.00",2002,"Crown"
+"416",416,"Independent Electricity
+   Market Op.","MARCUS","MICHEL","Engineer / Officer - Solutions","$107,500.76","$264.06",2002,"Crown"
+"417",417,"Independent Electricity
+   Market Op.","MARIA","GAMAL","Manager - Technical Integration","$150,826.53","$947.16",2002,"Crown"
+"418",418,"Independent Electricity
+   Market Op.","MARTIN","DAN","Senior Operations Officer","$126,210.42","$451.20",2002,"Crown"
+"419",419,"Independent Electricity
+   Market Op.","MARTIN","DAVID","Operations Officer","$103,346.30","$352.62",2002,"Crown"
+"420",420,"Independent Electricity
+   Market Op.","MARX","MICHAEL","Senior Operations Officer","$119,118.48","$479.58",2002,"Crown"
+"421",421,"Independent Electricity
+   Market Op.","MCCLOY","ROBERT","Engineer / Tech. Officer - Settlements","$106,041.72","$474.84",2002,"Crown"
+"422",422,"Independent Electricity
+   Market Op.","MCLELLAN","GARY","Superintendent - Operations","$117,559.60","$565.92",2002,"Crown"
+"423",423,"Independent Electricity
+   Market Op.","MCVEETY","MICHAEL","Senior Operations Officer","$114,768.45","$474.84",2002,"Crown"
+"424",424,"Independent Electricity
+   Market Op.","MEYER","GARRY","Senior Operations Officer","$133,865.54","$485.04",2002,"Crown"
+"425",425,"Independent Electricity
+   Market Op.","MILLER","ALLAN","Senior Engineer / Technical Officer","$126,164.53","$518.64",2002,"Crown"
+"426",426,"Independent Electricity
+   Market Op.","MISNER","BRAD","Section Head - IT&I","$108,520.11","$397.44",2002,"Crown"
+"427",427,"Independent Electricity
+   Market Op.","MONIZE","FRANCIS","Corporate Policy Officer","$100,682.40","$464.64",2002,"Crown"
+"428",428,"Independent Electricity
+   Market Op.","MORRIS","ELIZABETH","Manager, Market Relations","$128,305.34","$587.90",2002,"Crown"
+"429",429,"Independent Electricity
+   Market Op.","MURPHY","PAUL","Chief Operating Officer","$323,106.35","$1,008.48",2002,"Crown"
+"430",430,"Independent Electricity
+   Market Op.","MURRAY","ROSS","Operations Officer","$100,900.87","$369.36",2002,"Crown"
+"431",431,"Independent Electricity
+   Market Op.","MURRAY","YVONNE C","Manager, Audit","$130,975.82","$326.88",2002,"Crown"
+"432",432,"Independent Electricity
+   Market Op.","NEUMAN","ROGER","Senior Engineer / Technical Officer","$110,053.05","$421.68",2002,"Crown"
+"433",433,"Independent Electricity
+   Market Op.","NOBLE","KERRY","Mgr, Planning, Delivery & Applications","$135,110.04","$634.73",2002,"Crown"
+"434",434,"Independent Electricity
+   Market Op.","PARCEY","TODD","Senior Operations Officer","$121,298.21","$439.81",2002,"Crown"
+"435",435,"Independent Electricity
+   Market Op.","PATERSON","WILLIAM","Engineer / Officer - Shift Control","$112,668.82","$432.48",2002,"Crown"
+"436",436,"Independent Electricity
+   Market Op.","PENN","RICHARD","Manager, Market Assessment","$158,780.16","$810.00",2002,"Crown"
+"437",437,"Independent Electricity
+   Market Op.","PETERSEN","PAUL","Team Leader - EIE Functional Strategy","$102,350.23","$501.14",2002,"Crown"
+"438",438,"Independent Electricity
+   Market Op.","PETTITT","W. (BILL)","System Architect","$118,403.94","$469.80",2002,"Crown"
+"439",439,"Independent Electricity
+   Market Op.","PHILLIPS","CARMELA","Senior Market Relations Consultant","$100,903.38","$439.08",2002,"Crown"
+"440",440,"Independent Electricity
+   Market Op.","PHILLIPS","DREW","Supervisor Training & Education","$114,950.93","$531.00",2002,"Crown"
+"441",441,"Independent Electricity
+   Market Op.","PITCHELL","KIM","Senior Engineer / Technical Officer","$114,319.22","$493.08",2002,"Crown"
+"442",442,"Independent Electricity
+   Market Op.","RADAN","MIKE","Section Head - Market Limits","$178,741.76","$599.30",2002,"Crown"
+"443",443,"Independent Electricity
+   Market Op.","REYNOLDS","TERRY","Operations Officer","$108,445.69","$406.32",2002,"Crown"
+"444",444,"Independent Electricity
+   Market Op.","RIVARD","BRIAN","Senior Analyst - Market Assessment","$101,465.39","$382.32",2002,"Crown"
+"445",445,"Independent Electricity
+ 
+   Market Op.","ROBITAILLE","DAVID","Senior Engineer / Technical Officer","$111,529.78","$411.48",2002,"Crown"
+"446",446,"Independent Electricity
+   Market Op.","ROCHESTER","DANIEL","Superv. Engr. / Tech Off - Assessments","$105,924.24","$474.84",2002,"Crown"
+"447",447,"Independent Electricity
+   Market Op.","SCHAEDLICH","KLAUS","Senior Exchange Engineer / Officer","$102,624.80","$494.40",2002,"Crown"
+"448",448,"Independent Electricity
+   Market Op.","SCHLAG","STEVE","Engineer / Officer - Shift Control","$113,009.33","$429.48",2002,"Crown"
+"449",449,"Independent Electricity
+   Market Op.","SCHMIDT","DAN","Manager, Market Facilitation","$168,406.44","$900.24",2002,"Crown"
+"450",450,"Independent Electricity
+   Market Op.","SCHNEIDER","HORST","Section Head-Infrastructure&Axclry Srvcs","$115,274.79","$382.32",2002,"Crown"
+"451",451,"Independent Electricity
+   Market Op.","SCOTT","CHRIS","Senior Engineer / Officer - Systems","$100,539.47","$421.68",2002,"Crown"
+"452",452,"Independent Electricity
+   Market Op.","SEPA","TOIVO ROY","Business Strategist","$104,521.12","$428.88",2002,"Crown"
+"453",453,"Independent Electricity
+   Market Op.","SERGEJEWICH","PETER","Director, Market Development","$196,756.40","$799.20",2002,"Crown"
+"454",454,"Independent Electricity
+   Market Op.","SHALABY","AMIR","Mgr, Regulatory & Government Affairs","$184,334.54","$971.52",2002,"Crown"
+"455",455,"Independent Electricity
+   Market Op.","SHERKEY","GARY","Vice President Finance, CFO & Treasurer","$200,680.73","$1,516.32",2002,"Crown"
+"456",456,"Independent Electricity
+   Market Op.","SIMS","DON","Engr/Officer - Telecom & Computer Ntwks","$103,875.54","$422.28",2002,"Crown"
+"457",457,"Independent Electricity
+   Market Op.","SINCLAIR","ROB","Senior Engineer / Officer - Solutions","$136,375.84","$449.28",2002,"Crown"
+"458",458,"Independent Electricity
+   Market Op.","SPRINGGAY","GUY","Senior Market Relations Consultant","$110,011.29","$452.28",2002,"Crown"
+"459",459,"Independent Electricity
+   Market Op.","STEVENS","CHRIS","Director - Settlements","$211,165.68","$995.58",2002,"Crown"
+"460",460,"Independent Electricity
+   Market Op.","STEWART","ROY","General Counsel & Secretary","$237,169.33","$1,036.80",2002,"Crown"
+"461",461,"Independent Electricity
+   Market Op.","STUBBERT","DAVE","Superintendent - Operations","$131,102.88","$525.96",2002,"Crown"
+"462",462,"Independent Electricity
+   Market Op.","STURGEON","DAN","Operations Officer","$112,770.54","$396.12",2002,"Crown"
+"463",463,"Independent Electricity
+   Market Op.","SWANT","FRED","Engineer / Officer - Shift Control","$106,931.31","$386.70",2002,"Crown"
+"464",464,"Independent Electricity
+   Market Op.","TAKATA","RICHARD","Engineer / Officer - Shift Control","$117,539.92","$444.60",2002,"Crown"
+"465",465,"Independent Electricity
+   Market Op.","TANG","CHI","Section Head - Models & Data","$115,373.69","$576.20",2002,"Crown"
+"466",466,"Independent Electricity
+   Market Op.","TENCH","DON","Manager, Consistent Information Set","$155,775.15","$852.72",2002,"Crown"
+"467",467,"Independent Electricity
+   Market Op.","THOMAS","DOUGLAS","Director of Finance","$241,888.41","$628.60",2002,"Crown"
+"468",468,"Independent Electricity
+   Market Op.","THOMAS","NORMAN","Director - Human Resources","$210,644.37","$1,034.88",2002,"Crown"
+"469",469,"Independent Electricity
+   Market Op.","TSAI","DAVID","Senior Analyst - Surveillance","$108,994.46","$452.28",2002,"Crown"
+"470",470,"Independent Electricity
+   Market Op.","TSE","NORMAN","Power Billing System Analyst","$129,209.02","$421.68",2002,"Crown"
+"471",471,"Independent Electricity
+   Market Op.","VENDITTI","MICHAEL","Senior Engineer / Officer - Solutions","$110,524.74","$382.32",2002,"Crown"
+"472",472,"Independent Electricity
+   Market Op.","VERT","JAMES","Senior Operations Officer","$128,431.65","$474.84",2002,"Crown"
+"473",473,"Independent Electricity
+   Market Op.","VISCA","JOHN","Manager - Technology Support","$121,713.30","$932.04",2002,"Crown"
+"474",474,"Independent Electricity
+   Market Op.","WALDEN","DALE","Senior Operations Officer","$122,069.21","$447.63",2002,"Crown"
+"475",475,"Independent Electricity
+   Market Op.","WARREN","KIM","Manager, Shift Operations","$159,501.74","$539.04",2002,"Crown"
+"476",476,"Independent Electricity
+   Market Op.","WATSON","ALLAN","Operations Officer","$100,569.41","$345.12",2002,"Crown"
+"477",477,"Independent Electricity
+   Market Op.","WILBUR","BILL","Engineer / Technical Officer - Settlements","$106,941.82","$360.72",2002,"Crown"
+"478",478,"Independent Electricity
+   Market Op.","WILLIAMS","RALPH","Superintendent - Operations","$144,416.79","$536.16",2002,"Crown"
+"479",479,"Independent Electricity
+   Market Op.","WILSON","MARK","Superintendent - Operations","$139,473.84","$510.60",2002,"Crown"
+"480",480,"Independent Electricity
+   Market Op.","WONG","VICTOR","Manager, Settlement Support","$186,236.56","$293.04",2002,"Crown"
+"481",481,"Independent Electricity
+   Market Op.","WOO","BILL","Sr Engr / Tech Off - Mrkt Limits / Sys Cap","$113,477.21","$452.28",2002,"Crown"
+"482",482,"Independent Electricity
+   Market Op.","WOO","PETER","Senior Engineer / Officer - Systems","$114,473.97","$452.28",2002,"Crown"
+"483",483,"Independent Electricity
+   Market Op.","WRIGHT HILBIG","RHONDA","Supvsr-Compliance & Dispute Resolution","$107,675.96","$413.64",2002,"Crown"
+"484",484,"Independent Electricity
+   Market Op.","WYNN","CHAS","Section Head - IT&I","$102,897.79","$489.30",2002,"Crown"
+"485",485,"Independent Electricity
+   Market Op.","WYNN","JAN","Engineer / Officer - Systems","$113,788.64","$421.68",2002,"Crown"
+"486",486,"Independent Electricity
+   Market Op.","YI","JAMES","Senior Engineer / Officer - Systems","$120,865.96","$464.76",2002,"Crown"
+"487",487,"Independent Electricity
+   Market Op.","ZAWORSKI","RICHARD","Engr / Tech. Officer - Wholesale Metering","$106,523.02","$447.12",2002,"Crown"
+"488",488,"Independent Electricity
+   Market Op.","ZIEGLER","BARRY","Superintendent - Operations","$136,344.71","$561.60",2002,"Crown"
+"489",489,"LCBO","ASHDOWN","TONY","Director, Human Resources Development","$117,228.46","$276.81",2002,"Crown"
+"490",490,"LCBO","BARTUCCI","RON","Director, Traffic, Customs & Excise","$108,091.22","$263.29",2002,"Crown"
+"491",491,"LCBO","BONIC","JACQUELINE","VP, Store Dev. & Real Estate","$146,099.62","$335.76",2002,"Crown"
+"492",492,"LCBO","BOURRE","DON","Director, Eastern Region","$122,698.27","$1,151.89",2002,"Crown"
+"493",493,"LCBO","BRANDT","ANDREW","Chair & CEO","$125,035.77","$5,000.00",2002,"Crown"
+"494",494,"LCBO","BROWNING","ALEX","Sr. VP, Finance & Administration","$166,485.04","$9,949.79",2002,"Crown"
+"495",495,"LCBO","BUCK","PETER","Director, Human Resources Services","$138,052.86","$317.31",2002,"Crown"
+"496",496,"LCBO","BURNS","TAMARA","VP, Merchandising","$146,895.76","$342.84",2002,"Crown"
+"497",497,"LCBO","CARDINAL","NANCY","VP, Marketing Communications","$147,099.62","$335.76",2002,"Crown"
+"498",498,"LCBO","CHU","HANG-SUN","Sr. Systems Analyst","$103,481.51","$211.11",2002,"Crown"
+"499",499,"LCBO","CLEVELY","R.","Director, Central Region","$100,957.77","$1,186.06",2002,"Crown"
+"500",500,"LCBO","COLLINS","ROBERT","Director, Customer Insights","$122,462.43","$282.19",2002,"Crown"
+"501",501,"LCBO","DAVIO","R.","Manager, Pricing Administration","$102,581.62","$259.02",2002,"Crown"
+"502",502,"LCBO","DOWNEY","ROBERT","Sr. VP, Sales & Marketing","$160,028.42","$9,937.99",2002,"Crown"
+"503",503,"LCBO","DUTTON","ROB","Dir., Fin. Planning & Economic Dev.","$146,099.62","$335.76",2002,"Crown"
+"504",504,"LCBO","ECKER","ROY","VP, Operations","$158,171.79","$4,445.36",2002,"Crown"
+"505",505,"LCBO","FARRELL","MICHAEL","Director, Wholesale Customer Mgmt.","$135,335.86","$317.31",2002,"Crown"
+"506",506,"LCBO","FISHER","R. G.","Director, Western Region","$143,474.26","$339.51",2002,"Crown"
+"507",507,"LCBO","FITZPATRICK","MARY","Sr. VP, Gen. Counsel & Corp. Secretary","$166,485.04","$9,949.79",2002,"Crown"
+"508",508,"LCBO","GEE","LARRY","Executive VP & Chief Operating Officer","$218,286.39","$128.28",2002,"Crown"
+"509",509,"LCBO","GRANT","KEITH","Director, Special Projects","$101,198.01","$275.00",2002,"Crown"
+"510",510,"LCBO","GREEN","MICHAEL","Solicitor","$131,913.93","$317.31",2002,"Crown"
+"511",511,"LCBO","HOLLOWAY","BRIAN","Director, Application Systems","$133,158.93","$317.31",2002,"Crown"
+"512",512,"LCBO","KANE","MURRAY","Sr. VP, Human Resources","$166,485.04","$9,949.79",2002,"Crown"
+"513",513,"LCBO","KELLY","HUGH","Sr. VP, Information Technology","$166,485.04","$9,949.79",2002,"Crown"
+"514",514,"LCBO","KENNEDY","WILLIAM","Exec. Director, Corp. Communications","$146,099.62","$335.76",2002,"Crown"
+"515",515,"LCBO","KER","J. G.","Executive Director, Corporate Policy","$142,186.58","$323.31",2002,"Crown"
+"516",516,"LCBO","LAMANTIA","M.","Sr. Systems Analyst","$105,045.82","$211.11",2002,"Crown"
+"517",517,"LCBO","LANDY","RANDI","Category Director, Beers & Sp. Markets","$114,920.26","$283.23",2002,"Crown"
+"518",518,"LCBO","LYONS","CAROL","Controller","$135,335.86","$317.31",2002,"Crown"
+"519",519,"LCBO","MACGREGOR","MARALISA","Director, Supply Chain","$147,235.11","$313.95",2002,"Crown"
+"520",520,"LCBO","MARSHALL","DAVE","Director, Northern Region","$138,052.86","$1,164.31",2002,"Crown"
+"521",521,"LCBO","MARTIN","JOHN","Sr. VP, Logistics","$161,315.81","$9,949.79",2002,"Crown"
+"522",522,"LCBO","MCGRATH","BRUCE","Sr. Systems Analyst","$105,465.33","$211.11",2002,"Crown"
+"523",523,"LCBO","MCNEE","J. (ANDREW)","Solicitor","$122,266.06","$303.72",2002,"Crown"
+"524",524,"LCBO","MISETICH","DAVID","Inventory Manager","$107,736.77","$248.22",2002,"Crown"
+"525",525,"LCBO","MOGK-EDWARDS","SHARI","Category Director, Spirits","$114,920.26","$283.23",2002,"Crown"
+"526",526,"LCBO","MURPHY","PETER","Director, Conventional Warehousing","$135,335.86","$317.31",2002,"Crown"
+"527",527,"LCBO","MUTLAK","TERESA","Dir., Financial Reporting & Technology","$105,905.26","$265.53",2002,"Crown"
+"528",528,"LCBO","O'BRIEN","BARRY","Director, Corporate Affairs","$120,861.64","$277.71",2002,"Crown"
+"529",529,"LCBO","PETER","N. ROBERT","President and C.O.O.","$211,172.13","$10,911.01",2002,"Crown"
+"530",530,"LCBO","PIZZOLATO","BRUCE","Director, Durham Facility","$115,251.05","$291.60",2002,"Crown"
+"531",531,"LCBO","RAMSAY","GARY","Director, Application Systems","$135,335.86","$317.31",2002,"Crown"
+"532",532,"LCBO","RENTON","ALISON","Solicitor","$136,672.20","$316.95",2002,"Crown"
+"533",533,"LCBO","RUSSELL","KEVIN","Manager, Retail Planning","$100,429.75","$237.54",2002,"Crown"
+"534",534,"LCBO","SALVISBURG","A.","Director, Customer Service & Admin.","$132,957.06","$507.95",2002,"Crown"
+"535",535,"LCBO","SCHMIDT","LINDA","Inventory Manager","$102,331.69","$250.74",2002,"Crown"
+"536",536,"LCBO","SHERWOOD","GARFIELD","Sr. VP, Retail","$166,485.04","$5,163.25",2002,"Crown"
+"537",537,"LCBO","SOLEAS","GEORGE","VP, Quality Assurance","$139,704.84","$326.28",2002,"Crown"
+"538",538,"LCBO","STANLEY","THOMAS","Director, I.T. Infrastructure","$101,002.53","$253.03",2002,"Crown"
+"539",539,"LCBO","STEPHENS","MIKE","District Manager","$103,616.10","$323.37",2002,"Crown"
+"540",540,"LCBO","SUTTON","SHELLEY","Director, Strategic Planning","$120,602.49","$277.71",2002,"Crown"
+"541",541,"LCBO","TUGHAN","WILLIAM","Director, Loss Prevention & Security","$118,483.64","$277.71",2002,"Crown"
+"542",542,"LCBO","TURNER","JIM","Director, Western Region","$122,698.27","$435.89",2002,"Crown"
+"543",543,"LCBO","VAN KESSEL","RENEE","Solicitor","$126,743.54","$314.79",2002,"Crown"
+"544",544,"LCBO","WALKER","R. LILA","Director, Compensation & HR Admin.","$118,291.17","$276.81",2002,"Crown"
+"545",545,"LCBO","WHITELAW","RICHARD","Treasurer","$126,204.98","$308.37",2002,"Crown"
+"546",546,"LCBO","WILSON","T. J.","VP, Vintages","$143,224.62","$335.76",2002,"Crown"
+"547",547,"LCBO","YAZEJIAN","LEVON","Director, General Audit","$118,955.87","$277.71",2002,"Crown"
+"548",548,"LCBO","ZACHAR","WAYNE","Director, Employee Relations","$138,052.86","$317.31",2002,"Crown"
+"549",549,"Licence Appeal Tribunal","DOMBEK","CARL","Chair, Licence Appeal Tribunal","$159,379.36","$339.54",2002,"Crown"
+"550",550,"McMichael Canadian Art
+   Collection","ERVIN","MICHAEL","Chief Financial Officer","$110,000.00","$0.00",2002,"Crown"
+"551",551,"McMichael Canadian Art
+   Collection","VARGA","VINCENT","Executive Director & CEO","$118,000.00","$6,000.00",2002,"Crown"
+"552",552,"Metro. Toronto Convention
+   Ctr. Corp.","FERNANDES","ANGELO","Executive Chef","$160,723.14","$6,296.51",2002,"Crown"
+"553",553,"Metro. Toronto Convention
+   Ctr. Corp.","HOUGHTON","JOHN","VP Sales & Marketing","$172,684.63","$6,433.19",2002,"Crown"
+"554",554,"Metro. Toronto Convention
+   Ctr. Corp.","KWOK","ANNIE","Director of Catering","$150,850.27","$589.70",2002,"Crown"
+"555",555,"Metro. Toronto Convention
+   Ctr. Corp.","LEE","ESTHER","VP HR & Administration","$134,977.28","$563.18",2002,"Crown"
+"556",556,"Metro. Toronto Convention
+   Ctr. Corp.","LILLEYMAN","TIMOTHY","Food & Beverage Director","$154,723.14","$5,159.63",2002,"Crown"
+"557",557,"Metro. Toronto Convention
+   Ctr. Corp.","QUATTROCIOCCHI","VINCE","VP of Operations","$113,853.21","$6,898.48",2002,"Crown"
+"558",558,"Metro. Toronto Convention
+   Ctr. Corp.","SMITH","BARRY","President & CEO","$290,761.71","$9,664.55",2002,"Crown"
+"559",559,"Metro. Toronto Convention
+   Ctr. Corp.","STODDART","CAROLE","VP Customer Services","$113,992.47","$8,404.98",2002,"Crown"
+"560",560,"Niagara Escarpment
+   Commission","FRAWLEY","MARK","Director , NEC","$166,361.26","$354.44",2002,"Crown"
+"561",561,"Niagara Parks Commission","BROOKER","ROBERT F.","Assistant General Manager","$123,194.64","$355.71",2002,"Crown"
+"562",562,"Niagara Parks Commission","KERNAHAN","JOHN A.","General Manager","$131,864.36","$8,695.07",2002,"Crown"
+"563",563,"Niagara Parks Commission","MCILVEEN","ROBERT J.","Sr. Dir Community Services","$103,425.65","$231.19",2002,"Crown"
+"564",564,"Niagara Parks Commission","MOLD","MURRAY","Sr. Dir. Marketing & Bus. Dev.","$101,486.24","$231.19",2002,"Crown"
+"565",565,"Niagara Parks Commission","MURPHY","NICHOLAS","Sr. Dir. Technical Services","$103,425.65","$231.19",2002,"Crown"
+"566",566,"Niagara Parks Commission","NODEN","JOEL","Sr. Dir. Retail, Attrac, Heritage","$103,425.65","$231.19",2002,"Crown"
+"567",567,"Niagara Parks Commission","POLTL","ALOIS","Sr. Dir. Food Services","$103,425.65","$926.69",2002,"Crown"
+"568",568,"OECA/OTEO","ARNOLD","CLARA","Director, Human Resources","$110,400.00","$1,105.00",2002,"Crown"
+"569",569,"OECA/OTEO","BASSETT","ISABEL","Chair & Chief Executive Officer","$115,000.00","$13,298.00",2002,"Crown"
+"570",570,"OECA/OTEO","BLACKBURN","RUSSELL","Host/ Producer","$125,581.00","$850.00",2002,"Crown"
+"571",571,"OECA/OTEO","BUTTIGNOL","RUDY","Creative Head, Doc. Drama & Network","$111,063.00","$1,161.00",2002,"Crown"
+"572",572,"OECA/OTEO","COLE","ELLEN T.","Director, Communications","$101,641.00","$1,063.00",2002,"Crown"
+"573",573,"OECA/OTEO","ELLINGSON","PAT","Creative Head, Child. & Daytime Program.","$113,821.00","$1,193.00",2002,"Crown"
+"574",574,"OECA/OTEO","GRANT","DOUG","Creative Head, Current Affairs","$119,200.00","$1,249.00",2002,"Crown"
+"575",575,"OECA/OTEO","HADDON","BETH","Managing Dir. English Programming Srvcs","$126,822.00","$1,330.00",2002,"Crown"
+"576",576,"OECA/OTEO","PAIKIN","STEVE","Host/ Producer","$170,821.00","$2,406.00",2002,"Crown"
+"577",577,"OECA/OTEO","PAQUIN","CLAUDETTE","Managing Dir. French Programming Srvcs","$116,316.00","$1,217.00",2002,"Crown"
+"578",578,"OECA/OTEO","ROBOCK","LEE","General Mgr & Chief Operating Officer","$134,000.00","$3,347.00",2002,"Crown"
+"579",579,"OECA/OTEO","TAYLOR","PAMELA","Director Legal Services","$106,981.00","$1,105.00",2002,"Crown"
+"580",580,"OECA/OTEO","TODD","PAULA","Host/ Producer","$160,870.00","$1,105.00",2002,"Crown"
+"581",581,"Office of the Employer
+   Advisor","STUTZ","JEFFREY","Director","$103,194.51","$223.52",2002,"Crown"
+"582",582,"Office of the Employer
+   Advisor","ZACKS","MICHAEL","General Counsel","$138,264.07","$294.48",2002,"Crown"
+"583",583,"Office of the Worker Advisor","HALONEN","JORMA","District Manager, Northern Region","$150,940.99","$157.10",2002,"Crown"
+"584",584,"OMERS","ABBOTT","RUTH","Exe. Coor., Corporate Affairs Projects","$117,725.15","$448.09",2002,"Crown"
+"585",585,"OMERS","ABREU","MARIO","Portfolio Manager, Real Estate","$177,764.91","$528.45",2002,"Crown"
+"586",586,"OMERS","ALAVIAN","RAHY","Mgr, Investment Performance & Reporting","$125,486.08","$491.01",2002,"Crown"
+"587",587,"OMERS","BALE","BARB","Sr. Portfolio Manager, Core Fund","$232,225.70","$643.00",2002,"Crown"
+"588",588,"OMERS","BEATTY","CHRISTINA","Manager, User Acceptance and Support","$113,594.85","$434.39",2002,"Crown"
+"589",589,"OMERS","BELCOURT","GLENN","Portfolio Manager, Mortgages","$184,405.09","$543.18",2002,"Crown"
+"590",590,"OMERS","BENAWRA","BEN","Assoc. Portfolio Mgr, Private Plcmnts - Debt","$125,857.67","$448.16",2002,"Crown"
+"591",591,"OMERS","BESWICK","MICHAEL","Sr. VP, Pensions","$381,160.72","$16,767.51",2002,"Crown"
+"592",592,"OMERS","BETHUNE","CRAIG","Portfolio Manager, Core Fund","$130,008.06","$468.08",2002,"Crown"
+"593",593,"OMERS","BROWN","JENNIFER","VP, Pension Administration","$143,238.01","$602.08",2002,"Crown"
+"594",594,"OMERS","BUIE","JOHN","VP, Corporate Planning and Budgeting","$186,017.38","$659.56",2002,"Crown"
+"595",595,"OMERS","BURGESS","LYNN","Sr. Portfolio Mgr, Public / Private Debt","$250,695.93","$643.00",2002,"Crown"
+"596",596,"OMERS","CALDER","CAROLE","Manager, Member Services","$121,820.68","$489.12",2002,"Crown"
+"597",597,"OMERS","CARLIN","CATHY","Sr. Portfolio Manager, Small Cap Fund","$207,539.33","$614.32",2002,"Crown"
+"598",598,"OMERS","CLARK","LYNN","VP, Strategic Rsrch & Invest. Risk Mgmnt","$224,422.26","$543.00",2002,"Crown"
+"599",599,"OMERS","CONNOR","KIRBY","Sr. Portfolio Manager, Fixed Income","$161,150.04","$517.49",2002,"Crown"
+"600",600,"OMERS","COURTEMANCHE","JANE","VP, Corporate Communications","$124,785.65","$470.90",2002,"Crown"
+"601",601,"OMERS","COWAN","IAN","Team Leader, Network Svcs","$123,307.51","$379.24",2002,"Crown"
+"602",602,"OMERS","DAVEY","MARGARET","Mgr, Data Analysis & Stat. Reporting","$113,860.71","$427.10",2002,"Crown"
+"603",603,"OMERS","DONEGAN","JAMES","Sr. Portfolio Manager, External Funds","$201,550.73","$564.78",2002,"Crown"
+"604",604,"OMERS","DUSZAK","ZBIGNIEW","Sr. Systems Analyst, Pension Systems","$101,722.95","$388.27",2002,"Crown"
+"605",605,"OMERS","EASTMAN","EDITH","Portfolio Manager, Fixed Income","$185,037.51","$545.43",2002,"Crown"
+"606",606,"OMERS","ELLIS","TERESA","Assoc. Portfolio Mgr, Small Cap Fund","$110,291.23","$404.51",2002,"Crown"
+"607",607,"OMERS","ESTABROOKS","DAVID","VP, Financial Svcs","$165,295.75","$612.97",2002,"Crown"
+"608",608,"OMERS","FAIR","LINDA","Manager, Information Resource Centre","$100,101.12","$387.82",2002,"Crown"
+"609",609,"OMERS","FARMER","LEONARD","Sr. Portfolio Manager, Mortgages","$190,855.04","$568.83",2002,"Crown"
+"610",610,"OMERS","FOTHERINGHAM","ROBERT","VP, Derivatives & Passive Investments","$270,300.03","$728.06",2002,"Crown"
+"611",611,"OMERS","FUNSTON","EVELYNN","VP, Pension Systems","$217,551.31","$661.31",2002,"Crown"
+"612",612,"OMERS","GAGNON","KIMBERLY","VP, Corporate Infrastructure","$143,373.36","$534.48",2002,"Crown"
+"613",613,"OMERS","GARDINER","GREGORY","Senior Analyst, Investment Systems","$108,010.54","$412.52",2002,"Crown"
+"614",614,"OMERS","GATZIOS","GUS","Mgr, Plann. & Performance Benchmarking","$143,502.37","$531.15",2002,"Crown"
+"615",615,"OMERS","GLADSTONE","WAYNE","Sr. VP, Finance and Administration","$296,023.11","$13,511.63",2002,"Crown"
+"616",616,"OMERS","GLEDHILL","STEPHEN","VP, Accounting and Financial Services","$121,377.26","$320.52",2002,"Crown"
+"617",617,"OMERS","GRANT","DAVID","Portfolio Manager, Private Placements","$184,045.67","$543.18",2002,"Crown"
+"618",618,"OMERS","GRAY","MONTY","Sr. VP, Portfolio Management - Offices","$172,414.28","$383.46",2002,"Crown"
+"619",619,"OMERS","GRIMLEY","EILEEN","Assoc. Portfolio Mgr, Small Cap Fund","$115,799.17","$443.48",2002,"Crown"
+"620",620,"OMERS","GUNN","TOM","Sr. VP, Investments","$548,229.75","$1,380.94",2002,"Crown"
+"621",621,"OMERS","HEWITT","CHRISTIAN","Analyst, Network Support - Production","$111,888.23","$347.75",2002,"Crown"
+"622",622,"OMERS","HILLS","GRAHAM","VP, Pension Policy and Communication","$161,601.40","$611.53",2002,"Crown"
+"623",623,"OMERS","HUNTER","LINDA","Consultant, Human Resources","$135,022.91","$0.00",2002,"Crown"
+"624",624,"OMERS","IRESON","DAVID","Project Manager, Pooled Fund Trust","$123,912.85","$0.00",2002,"Crown"
+"625",625,"OMERS","JAMES","EDWARD A","Team Leader, Application Architecture","$135,054.65","$462.98",2002,"Crown"
+"626",626,"OMERS","JARVIS","PETER","VP, Fixed Income & Alternative Assets","$313,442.22","$803.04",2002,"Crown"
+"627",627,"OMERS","JORDAN","JACQUELINE","Project Manager, PSI","$118,805.41","$0.00",2002,"Crown"
+"628",628,"OMERS","KEHOE","MICHAEL","Mgr, Custody Relations & Fin. Policy","$103,712.73","$406.49",2002,"Crown"
+"629",629,"OMERS","KEMPER","PAUL","Portfolio Manager, Real Estate","$187,540.94","$543.63",2002,"Crown"
+"630",630,"OMERS","KINROSS","IAN","Manager, Pension Communication","$105,196.42","$405.59",2002,"Crown"
+"631",631,"OMERS","KNIGHT","GARY","Sr. Portfolio Manager, Indexed Equities","$222,542.22","$591.91",2002,"Crown"
+"632",632,"OMERS","KOZAK","KEVIN","Manager, Budget and Operational Costing","$123,192.85","$495.24",2002,"Crown"
+"633",633,"OMERS","KRALJ","SINISA","Relationship Manager, Investment Systems","$108,864.70","$429.35",2002,"Crown"
+"634",634,"OMERS","LAM","ANGELA","Portfolio Mgr, Private Placements - Debt","$170,172.86","$371.25",2002,"Crown"
+"635",635,"OMERS","LATIMER","MICHAEL","Managing Dir., OMERS Realty Corp.","$427,984.49","$615.03",2002,"Crown"
+"636",636,"OMERS","LECKMAN","DEBRA","VP, Public Equities","$296,826.05","$803.04",2002,"Crown"
+"637",637,"OMERS","LEE","DAVID","Portfolio Manager, Fixed Income","$184,083.58","$544.98",2002,"Crown"
+"638",638,"OMERS","LOACH","ELIZABETH","Portfolio Manager, Private Placements","$148,340.50","$545.43",2002,"Crown"
+"639",639,"OMERS","LOEWRIGKEIT","WILFRIED","VP, Information Technology Services","$138,538.40","$473.76",2002,"Crown"
+"640",640,"OMERS","MAK","RAYMOND","Sr. Systems Analyst, Corporate Systems","$119,233.90","$412.97",2002,"Crown"
+"641",641,"OMERS","MELCHIOR","LISA","Portfolio Manager, Private Placements","$160,310.54","$376.79",2002,"Crown"
+"642",642,"OMERS","MENARD","YANNICK","Assoc. Portfolio Mgr, External Funds","$105,017.77","$461.90",2002,"Crown"
+"643",643,"OMERS","MIDDAUGH","S. CRAIG","Portfolio Manager, Core Fund","$163,083.39","$509.73",2002,"Crown"
+"644",644,"OMERS","MISTRY","CHANDRAKANT","Database Admin., Applic. Architecture","$101,636.58","$344.02",2002,"Crown"
+"645",645,"OMERS","MORRISON","JOHN","Sr. VP, Portfolio Management - Retail","$148,975.59","$257.53",2002,"Crown"
+"646",646,"OMERS","NARAYANAN","RANJIT","Senior Analyst, Private Equities","$101,412.57","$379.36",2002,"Crown"
+"647",647,"OMERS","NEWHOOK","LAWRENCE","Assoc. Portfolio Mgr, Alternative Strat.","$120,850.17","$441.14",2002,"Crown"
+"648",648,"OMERS","NOLAN","PATRICIA","Executive Asst., Office of the President","$113,968.20","$428.45",2002,"Crown"
+"649",649,"OMERS","OAKLEY","DEBBIE","Sr. VP, Corporate Affairs","$249,670.00","$836.70",2002,"Crown"
+"650",650,"OMERS","PAGET","MARITA","Mgr, Tech. Infrastructure & Operations","$193,380.80","$549.05",2002,"Crown"
+"651",651,"OMERS","PALADINO","FLORETTA","VP, Human Resources","$133,080.92","$609.64",2002,"Crown"
+"652",652,"OMERS","PARR","DONNA","Sr. Portfolio Mgr, Private Placements","$221,299.61","$605.86",2002,"Crown"
+"653",653,"OMERS","PETO","DIANE","Portfolio Manager, Equity Trading","$182,475.86","$545.43",2002,"Crown"
+"654",654,"OMERS","PRESTON","DEBRA","Manager, Pension Policy","$114,634.62","$440.56",2002,"Crown"
+"655",655,"OMERS","RAMASAWMY","RENGA","Relationship Manager, Pension Systems","$169,391.18","$566.58",2002,"Crown"
+"656",656,"OMERS","RICHMOND","DALE","President & CEO","$442,070.00","$30,695.02",2002,"Crown"
+"657",657,"OMERS","ROBINEAU","ROGER","Senior Manager, Investment Policy","$147,946.12","$510.63",2002,"Crown"
+"658",658,"OMERS","ROGERS","DAVID","VP, Private Place. / Merchant Banking","$311,099.36","$799.89",2002,"Crown"
+"659",659,"OMERS","SARGEANT","NOELLE","Project Mgr, Corp. Planning Initiatives","$125,563.92","$492.90",2002,"Crown"
+"660",660,"OMERS","SENST","GRAHAM","VP, Real Estate","$317,595.33","$803.04",2002,"Crown"
+"661",661,"OMERS","SO","KENNY","Sr. Business
+   Analyst, IMI Project","$103,495.48","$0.00",2002,"Crown"
+"662",662,"OMERS","SOONG","LOLA","Team Leader, System Integration Services","$116,850.27","$468.56",2002,"Crown"
+"663",663,"OMERS","TSOUVALIS","JENNY","VP, Investment Operations & Applications","$159,165.03","$586.24",2002,"Crown"
+"664",664,"OMERS","TUCK","DAVID","Sr. Mgr, Compensation & HR Operations","$156,705.44","$524.22",2002,"Crown"
+"665",665,"OMERS","VEERMAN","MICHAEL","Manager, Pension Accounting","$104,680.40","$381.95",2002,"Crown"
+"666",666,"OMERS","WALKER","MELVILLE","Team Leader, Production Control","$143,877.04","$420.40",2002,"Crown"
+"667",667,"OMERS","WILSON","FIONA","Portfolio Mgr, Global Derivative Invest.","$100,410.22","$408.99",2002,"Crown"
+"668",668,"OMERS","WINKLER","WALTER","Relationship Manger, Corporate Systems","$162,723.72","$540.60",2002,"Crown"
+"669",669,"OMERS","WYSZYNSKI","CHRISTINE","Portfolio Manager, Indexed Equities","$125,981.02","$456.12",2002,"Crown"
+"670",670,"OMERS","YU","PERCY","Team Leader, Pension Sys. Main. & Supp.","$123,354.34","$486.69",2002,"Crown"
+"671",671,"Ont. Parole & Earned
+   Release Board","THEORET","J.LOUIS","Chair","$122,086.06","$259.72",2002,"Crown"
+"672",672,"Ont.Civillian Comm. on
+   Police Srvcs","CHITRA","MURRAY","Chair","$164,715.65","$350.92",2002,"Crown"
+"673",673,"Ont.Farm Products
+   Marketing Comm.","STORK","RODNEY","Chair, Ontario Farm Products Mrktg Comm.","$135,497.53","$275.96",2002,"Crown"
+"674",674,"Ontario Clean Water
+   Agency","ATKINSON","DANIEL","VP, Operations","$143,136.23","$220.28",2002,"Crown"
+"675",675,"Ontario Clean Water
+   Agency","BAKER","BRENDA","VP, Finance and Admin.","$110,991.23","$193.52",2002,"Crown"
+"676",676,"Ontario Clean Water
+   Agency","BOOTH","GARY","Operations Mgr.","$107,971.48","$152.60",2002,"Crown"
+"677",677,"Ontario Clean Water
+   Agency","BOUILLON","GASTON","Operations Mgr.","$103,014.65","$160.56",2002,"Crown"
+"678",678,"Ontario Clean Water
+   Agency","BRADY","MICHAEL","General Counsel","$160,680.08","$339.54",2002,"Crown"
+"679",679,"Ontario Clean Water
+   Agency","CARTER","JOHN","Mgr., Project Dev. & Tech. Serv.","$101,510.61","$206.08",2002,"Crown"
+"680",680,"Ontario Clean Water
+   Agency","EDWARDS","DAVID","Operations Mgr., Biosolids","$107,503.18","$152.60",2002,"Crown"
+"681",681,"Ontario Clean Water
+   Agency","ETHIER","MARC","Regional Operations Mgr.","$106,528.82","$178.22",2002,"Crown"
+"682",682,"Ontario Clean Water
+   Agency","GRAHAM","CLIFFORD","Operations Mgr.","$110,791.36","$140.99",2002,"Crown"
+"683",683,"Ontario Clean Water
+   Agency","GRIFFITH","CARL","Chief Executive Officer","$145,580.65","$290.28",2002,"Crown"
+"684",684,"Ontario Clean Water
+   Agency","KEMPENAAR","GARY","Regional Operations Mgr.","$112,490.93","$161.68",2002,"Crown"
+"685",685,"Ontario Clean Water
+   Agency","KIND","ROBIN","Asst. General Counsel","$136,860.61","$276.38",2002,"Crown"
+"686",686,"Ontario Clean Water
+   Agency","MANCINI","TONI","Mgr., Corporate Planning","$140,492.58","$185.12",2002,"Crown"
+"687",687,"Ontario Clean Water
+   Agency","NEELY","DAVID","Mgr., Process Compliance & CDF","$100,483.43","$136.88",2002,"Crown"
+"688",688,"Ontario Clean Water
+   Agency","PONTONE","DANTE","VP, Information Technology","$112,443.23","$223.52",2002,"Crown"
+"689",689,"Ontario Clean Water
+   Agency","QUARISA","FRANK","VP, Project Dev. & Tech. Serv.","$102,833.00","$201.37",2002,"Crown"
+"690",690,"Ontario Clean Water
+   Agency","REID","NICK","General Mgr., South Peel","$120,115.71","$185.12",2002,"Crown"
+"691",691,"Ontario Clean Water
+   Agency","SASAKI","LAUREN","Legal Counsel","$102,129.23","$210.30",2002,"Crown"
+"692",692,"Ontario Clean Water
+   Agency","SCOTT","PAUL","Chief Executive Officer","$126,284.56","$313.50",2002,"Crown"
+"693",693,"Ontario Clean Water
+   Agency","WICKSON","LOUISE","VP, Finance and Admin.","$109,016.39","$223.52",2002,"Crown"
+"694",694,"Ontario Clean Water
+   Agency","WILLIAMS","GORD","Regional Operations Mgr.","$105,429.59","$156.13",2002,"Crown"
+"695",695,"Ontario Council of
+   Regents","MCARDLE","IAN","Executive Director, OCR","$109,016.39","$223.52",2002,"Crown"
+"696",696,"Ontario Development
+   Corporation","SPIK","PETER","Director, Loan Administration","$111,355.67","$223.52",2002,"Crown"
+"697",697,"Ontario Energy Board","CAPPADOCIA","ROBERT","Director, Corporate Services","$110,957.01","$223.52",2002,"Crown"
+"698",698,"Ontario Energy Board","DOMINY","GEORGE","Vice Chair","$126,777.83","$116.24",2002,"Crown"
+"699",699,"Ontario Energy Board","LAUGHREN","FLOYD","Chair, Ontario Energy Board","$122,627.69","$0.00",2002,"Crown"
+"700",700,"Ontario Energy Board","MILLS","ELIZABETH","Director, Regulatory Affairs","$110,957.01","$223.52",2002,"Crown"
+"701",701,"Ontario Energy Board","VLAHOS","PAUL","Vice Chair","$103,194.51","$223.52",2002,"Crown"
+"702",702,"Ontario Energy Board","YOUNG","JOHN","General Manager","$142,146.00","$280.05",2002,"Crown"
+"703",703,"Ontario Exports Inc.","CRISPINO","LEONARD","President & CEO, OEI","$106,113.07","$52.26",2002,"Crown"
+"704",704,"Ontario Exports Inc.","FOUNTAIN","VALERIE","VP, International Markets","$106,938.92","$221.40",2002,"Crown"
+"705",705,"Ontario Exports Inc.","SLAUENWHITE","JOHN","VP, International Markets","$106,516.40","$223.52",2002,"Crown"
+"706",706,"Ontario Exports Inc.","WAHBA","ALADIN","VP, International Markets","$110,635.61","$222.45",2002,"Crown"
+"707",707,"Ontario Exports Inc.","WINCHESTER","BONNIE","President & CEO, OEI","$127,039.52","$261.51",2002,"Crown"
+"708",708,"Ontario Financing
+   Authority","ALLAIN","CHARLES","Manager, Debt Management","$166,183.13","$280.42",2002,"Crown"
+"709",709,"Ontario Financing
+   Authority","BROADBENT","KEN","Manager, Foreign Exch.","$116,689.09","$201.95",2002,"Crown"
+"710",710,"Ontario Financing
+   Authority","CAMPOS","JOSE IGNACIO","Director, Risk Control","$145,606.80","$272.02",2002,"Crown"
+"711",711,"Ontario Financing
+   Authority","COKE","ROBERT","ADM, Strategic Research","$146,365.81","$284.94",2002,"Crown"
+"712",712,"Ontario Financing
+   Authority","DEVINE","JAMES","Mgr. Mtn & Private Placements","$153,425.69","$264.36",2002,"Crown"
+"713",713,"Ontario Financing
+   Authority","GOURLEY","MICHAEL","Vice Chair & CEO","$129,593.50","$3,426.83",2002,"Crown"
+"714",714,"Ontario Financing
+   Authority","GUINN","SUSAN","Director, Prov. of Ont. Sav. Off.","$118,293.51","$208.80",2002,"Crown"
+"715",715,"Ontario Financing
+   Authority","HAINSWORTH","ANDREW","Manager, Funding","$152,507.69","$264.36",2002,"Crown"
+"716",716,"Ontario Financing
+   Authority","LOGIE","JOHN","Mgr, Financial Engineering","$116,804.89","$202.44",2002,"Crown"
+"717",717,"Ontario Financing
+   Authority","MANNING","MICHAEL","Director, Debt Management","$228,811.69","$369.12",2002,"Crown"
+"718",718,"Ontario Financing
+   Authority","MAYMAN","GADI","Exec. Dir., Capital Markets","$247,787.68","$462.17",2002,"Crown"
+"719",719,"Ontario Financing
+   Authority","MOSZYNSKI","CHRISTINE","Director, Capital Mrkts Treasury","$125,913.33","$240.62",2002,"Crown"
+"720",720,"Ontario Financing
+   Authority","PETERS","DAVID","Manager, Derivatives","$151,024.85","$264.36",2002,"Crown"
+"721",721,"Ontario Financing
+   Authority","RALPH","R","Director, Corporate Finance","$146,285.54","$263.64",2002,"Crown"
+"722",722,"Ontario Financing
+   Authority","RUSSELL","KEN","Legal Counsel","$138,264.07","$294.48",2002,"Crown"
+"723",723,"Ontario Financing
+   Authority","SIMPSON","COREY","Legal Counsel","$152,789.84","$325.51",2002,"Crown"
+"724",724,"Ontario Heritage
+   Foundation","MERCER","MARJORIE","Executive Director","$144,020.04","$290.28",2002,"Crown"
+"725",725,"Ontario Highway Transport
+   Board","STANLEY","GARY","Chairman O H T B","$111,864.99","$0.00",2002,"Crown"
+"726",726,"Ontario Human Rights
+   Commission","BROADLEY","M. ANDREA","Executive Director","$133,957.38","$290.28",2002,"Crown"
+"727",727,"Ontario Human Rights
+   Commission","DHIR","RAJ","Counsel","$101,089.92","$0.00",2002,"Crown"
+"728",728,"Ontario Human Rights
+   Commission","EDWARDS","NEIL","Dir., Mediation & Investigation Services","$117,675.83","$223.52",2002,"Crown"
+"729",729,"Ontario Human Rights
+   Commission","GRIFFIN","ANTHONY","Senior Counsel","$156,130.08","$331.87",2002,"Crown"
+"730",730,"Ontario Human Rights
+   Commission","LARSEN","FRANCOIS","Director Policy & Public Education","$105,539.31","$196.51",2002,"Crown"
+"731",731,"Ontario Human Rights
+   Commission","NORTON","KEITH","Chief Commissioner","$135,740.80","$270.00",2002,"Crown"
+"732",732,"Ontario Human Rights
+   Commission","PIKE","CATHY","Counsel","$113,549.20","$241.62",2002,"Crown"
+"733",733,"Ontario Human Rights
+   Commission","RAJAN","PRABHU","Counsel","$101,865.87","$201.20",2002,"Crown"
+"734",734,"Ontario Human Rights
+   Commission","SCHWARTZ","HART","Director, Legal Unit","$146,894.21","$309.30",2002,"Crown"
+"735",735,"Ontario Labour Relations
+   Board","LEBI","RONALD","Board Solicitor","$157,114.10","$152.42",2002,"Crown"
+"736",736,"Ontario Labour Relations
+   Board","MARVY","LEN","Board Solicitor","$145,516.72","$248.11",2002,"Crown"
+"737",737,"Ontario Labour Relations
+   Board","PARKER","TIM","Director / Registrar","$147,797.25","$223.52",2002,"Crown"
+"738",738,"Ontario Labour Relations
+   Board","STELMASZYNSKI","VOY","Board Solicitor","$107,505.72","$228.76",2002,"Crown"
+"739",739,"Ontario Labour Relations
+   Board","WHITAKER","KEVIN","Chair","$131,855.50","$0.00",2002,"Crown"
+"740",740,"Ontario Lottery and
+   Gaming Corp.","ARONSON","DONALD","Director, Corp. Events & Comm. Rel.","$108,791.25","$202.16",2002,"Crown"
+"741",741,"Ontario Lottery and
+   Gaming Corp.","AUBE","MICHEL","Sr Manager, Corporate Security","$101,210.42","$188.28",2002,"Crown"
+"742",742,"Ontario Lottery and
+   Gaming Corp.","BABALIS","CHRISTOS","Site General Manager","$101,623.85","$184.62",2002,"Crown"
+"743",743,"Ontario Lottery and
+   Gaming Corp.","BAILEY","ROD","General Manager","$135,416.92","$237.71",2002,"Crown"
+"744",744,"Ontario Lottery and
+   Gaming Corp.","BARBARO","RON","Chief Executive Officer","$360,213.59","$7,377.25",2002,"Crown"
+"745",745,"Ontario Lottery and
+   Gaming Corp.","BARNETT","KENNETH","Director, New Business & Dev.","$118,461.69","$2,032.82",2002,"Crown"
+"746",746,"Ontario Lottery and
+   Gaming Corp.","BELL-MURRAY","LISA","Director, Corp. Acct. & Rpt.","$147,049.51","$256.99",2002,"Crown"
+"747",747,"Ontario Lottery and
+   Gaming Corp.","BERDOWSKI","ALAN","SVP, Lottery Division","$201,370.65","$8,041.23",2002,"Crown"
+"748",748,"Ontario Lottery and
+   Gaming Corp.","BORTOLUSSI","ROY","Director, Jackpot & Value Brands","$131,693.24","$238.17",2002,"Crown"
+"749",749,"Ontario Lottery and
+   Gaming Corp.","BROWN","GREGORY","Director e-Business","$115,628.58","$225.41",2002,"Crown"
+"750",750,"Ontario Lottery and
+   Gaming Corp.","BURTON","TIMOTHY","Director, Taxation","$128,435.85","$243.23",2002,"Crown"
+"751",751,"Ontario Lottery and
+   Gaming Corp.","CALDERONE","BART","Director, Strategic Projects","$144,290.93","$257.07",2002,"Crown"
+"752",752,"Ontario Lottery and
+   Gaming Corp.","CAMERON","CHRIS","Dir, Challenge & Winning Feeling","$112,265.60","$204.66",2002,"Crown"
+"753",753,"Ontario Lottery and
+   Gaming Corp.","CAMPBELL","ALEXANDER","Director, Customer Service","$129,092.37","$222.86",2002,"Crown"
+"754",754,"Ontario Lottery and
+   Gaming Corp.","CARVALHO","ANTONIO","VP, Corp. Planning & e-Business","$172,836.04","$2,055.97",2002,"Crown"
+"755",755,"Ontario Lottery and
+   Gaming Corp.","CHORONZEY","KAREN","Dir, HR Strategic Alliances","$104,809.55","$194.19",2002,"Crown"
+"756",756,"Ontario Lottery and
+   Gaming Corp.","COOPER","JEFF","Director, Customer & Channel M","$135,833.38","$1,515.92",2002,"Crown"
+"757",757,"Ontario Lottery and
+   Gaming Corp.","COWIE","GEOFFREY","Senior Legal Counsel","$106,942.10","$187.92",2002,"Crown"
+"758",758,"Ontario Lottery and
+   Gaming Corp.","CRAIG","RON","Dir, Develop & Implementation","$130,068.82","$242.85",2002,"Crown"
+"759",759,"Ontario Lottery and
+   Gaming Corp.","CRAWFORD","MONA","Director, Sales & Service Initiatives","$121,747.03","$213.00",2002,"Crown"
+"760",760,"Ontario Lottery and
+   Gaming Corp.","CRONIN","JAMES","Sr Manager Public Relations","$134,615.50","$248.91",2002,"Crown"
+"761",761,"Ontario Lottery and
+   Gaming Corp.","DALTON","EARL","Sr VP, Finance & Admin.","$201,370.65","$9,700.73",2002,"Crown"
+"762",762,"Ontario Lottery and
+   Gaming Corp.","DEANS","WAYNE","Director, Internal Audit","$126,678.29","$231.69",2002,"Crown"
+"763",763,"Ontario Lottery and
+   Gaming Corp.","DI MAURIZIO","MORY","General Manager","$109,943.15","$191.63",2002,"Crown"
+"764",764,"Ontario Lottery and
+   Gaming Corp.","FERRARA","FRANCESCO","Senior Legal Counsel","$123,479.90","$195.05",2002,"Crown"
+"765",765,"Ontario Lottery and
+   Gaming Corp.","FIORAVANTI","WALTER","VP, Human Resources","$181,613.58","$14,812.29",2002,"Crown"
+"766",766,"Ontario Lottery and
+   Gaming Corp.","FLYNN","LARRY","Sr. VP, Marketing & Customer Dev.","$188,666.99","$7,022.27",2002,"Crown"
+"767",767,"Ontario Lottery and
+   Gaming Corp.","FRAIR","ROBERT","Project Director - ERM","$124,176.57","$229.18",2002,"Crown"
+"768",768,"Ontario Lottery and
+   Gaming Corp.","GAGESCH","KARL","Vice President, Finance","$146,900.72","$14,323.02",2002,"Crown"
+"769",769,"Ontario Lottery and
+   Gaming Corp.","GIBBONS","BRENDA","Director, Procurement & Admin.","$130,629.47","$240.99",2002,"Crown"
+"770",770,"Ontario Lottery and
+   Gaming Corp.","GLENAT","SUELLEN","Dir., Employee Relations & Comm.","$114,178.19","$7,627.30",2002,"Crown"
+"771",771,"Ontario Lottery and
+   Gaming Corp.","GRAY","RICHARD","Director, Fin Plan, Budget & A","$109,655.01","$185.42",2002,"Crown"
+"772",772,"Ontario Lottery and
+   Gaming Corp.","HENDERSON","MARK","Director, Regional Operations","$122,047.06","$285.06",2002,"Crown"
+"773",773,"Ontario Lottery and
+   Gaming Corp.","HILL","DOUGLAS","Relationship Manager","$119,297.39","$217.53",2002,"Crown"
+"774",774,"Ontario Lottery and
+   Gaming Corp.","KO","RONALD","Director, Bingo Gaming","$108,399.60","$195.52",2002,"Crown"
+"775",775,"Ontario Lottery and
+   Gaming Corp.","KOZNIUK","BOB","VP, Charity & Aboriginal Casin","$212,286.92","$13,253.25",2002,"Crown"
+"776",776,"Ontario Lottery and
+   Gaming Corp.","KURDYLA","DAVID","VP, Solutions Delivery","$103,269.22","$5,205.24",2002,"Crown"
+"777",777,"Ontario Lottery and
+   Gaming Corp.","KYLE","BRIAN","Director, New Business Dev","$115,297.16","$206.68",2002,"Crown"
+"778",778,"Ontario Lottery and
+   Gaming Corp.","LAPOINTE","CATHERINE","Director, Operate & Maintain","$110,340.69","$208.86",2002,"Crown"
+"779",779,"Ontario Lottery and
+   Gaming Corp.","LOCKE","ROBERT","Dir., Facilities Maintenance","$126,452.26","$1,985.64",2002,"Crown"
+"780",780,"Ontario Lottery and
+   Gaming Corp.","LONGMAN","ROBERT","Key Account Manager","$104,165.05","$2,043.57",2002,"Crown"
+"781",781,"Ontario Lottery and
+   Gaming Corp.","MACDONALD","SHARON","Director, Planning & Controls","$140,737.63","$269.10",2002,"Crown"
+"782",782,"Ontario Lottery and
+   Gaming Corp.","MADDOCKS","DAVID","Director, Development","$136,208.43","$2,291.21",2002,"Crown"
+"783",783,"Ontario Lottery and
+   Gaming Corp.","MAGEE","MARK","Site General Manager","$110,306.63","$208.59",2002,"Crown"
+"784",784,"Ontario Lottery and
+   Gaming Corp.","MARINELLI","THOMAS","Chief Technology Officer","$185,499.76","$283.49",2002,"Crown"
+"785",785,"Ontario Lottery and
+   Gaming Corp.","MARKKULA","LEO","Director, Treasury","$124,760.66","$229.18",2002,"Crown"
+"786",786,"Ontario Lottery and
+   Gaming Corp.","MCPHEE","TERRY","General Manager","$117,785.22","$200.79",2002,"Crown"
+"787",787,"Ontario Lottery and
+   Gaming Corp.","MICUCCI","PAUL","VP, Racetrack Dev. & Operations","$201,944.16","$2,316.95",2002,"Crown"
+"788",788,"Ontario Lottery and
+   Gaming Corp.","MITCHELL","BILL","Dir, Solutions Delivery RT&CC","$149,718.53","$95.83",2002,"Crown"
+"789",789,"Ontario Lottery and
+   Gaming Corp.","MYERS","DAVID","VP, Sales & Service","$161,042.40","$2,944.07",2002,"Crown"
+"790",790,"Ontario Lottery and
+   Gaming Corp.","NIEDER","MICHAEL","VP, Information Technology","$201,697.65","$8,439.14",2002,"Crown"
+"791",791,"Ontario Lottery and
+   Gaming Corp.","PALMER","BRIAN","Dir., Process & Implementation","$113,709.20","$211.80",2002,"Crown"
+"792",792,"Ontario Lottery and
+   Gaming Corp.","PERUGINI","TONY","Mgr., FinPlan Commercial Casinos","$105,237.28","$196.83",2002,"Crown"
+"793",793,"Ontario Lottery and
+   Gaming Corp.","PETERS","INGRID","VP, Legal and Compliance","$197,679.66","$8,475.45",2002,"Crown"
+"794",794,"Ontario Lottery and
+   Gaming Corp.","PRGOMET","JOHN","Dir., HR Programs & Infrastructure","$119,144.06","$212.28",2002,"Crown"
+"795",795,"Ontario Lottery and
+   Gaming Corp.","RENNIE","KAREN","Site General Manager","$111,465.81","$172.35",2002,"Crown"
+"796",796,"Ontario Lottery and
+   Gaming Corp.","ROZELUK","JERRY","Director, Regional Operations","$121,611.54","$3,189.23",2002,"Crown"
+"797",797,"Ontario Lottery and
+   Gaming Corp.","SELDON DIMOCK","VERITY","Dir., Performance & Learning","$113,042.05","$211.65",2002,"Crown"
+"798",798,"Ontario Lottery and
+   Gaming Corp.","SEPKOWSKI","MATT","Dir., Marketing & Cust. Development","$110,150.27","$195.60",2002,"Crown"
+"799",799,"Ontario Lottery and
+   Gaming Corp.","SMITH","GEOFF","General Manager","$136,411.10","$223.42",2002,"Crown"
+"800",800,"Ontario Lottery and
+   Gaming Corp.","STREICH","ROBERT","Manager, Lotteries","$102,710.88","$173.97",2002,"Crown"
+"801",801,"Ontario Lottery and
+   Gaming Corp.","THORBURN","DAVID","Site General Manager","$103,618.89","$164.67",2002,"Crown"
+"802",802,"Ontario Lottery and
+   Gaming Corp.","TOMIE","ADRIANA","Director, Shared Services","$136,840.75","$256.15",2002,"Crown"
+"803",803,"Ontario Lottery and
+   Gaming Corp.","UHREN","CAMERON","General Manager","$137,256.77","$226.97",2002,"Crown"
+"804",804,"Ontario Lottery and
+   Gaming Corp.","WALKER","STUART","General Manager","$127,247.44","$208.80",2002,"Crown"
+"805",805,"Ontario Lottery and
+   Gaming Corp.","WHITMELL","DERECK","Director, Solutions Delivery","$115,078.13","$208.99",2002,"Crown"
+"806",806,"Ontario Lottery and
+   Gaming Corp.","WISTERNOFF","JOHN","VP, Lottery Marketing","$160,955.35","$7,497.32",2002,"Crown"
+"807",807,"Ontario Lottery and
+   Gaming Corp.","WOOD","BRIAN","Chief Operating Officer","$283,786.49","$2,826.55",2002,"Crown"
+"808",808,"Ontario Lottery and
+   Gaming Corp.","YAMMINE","GEORGES","Director of Operations","$150,405.38","$6,387.94",2002,"Crown"
+"809",809,"Ontario Lottery and
+   Gaming Corp.","ZELISNEY","JACKIE","Casino Manager","$116,082.03","$206.70",2002,"Crown"
+"810",810,"Ontario Northland
+   Transport. Comm.","CARMICHAEL","STEVEN","VP, Transportation Services","$122,772.00","$809.28",2002,"Crown"
+"811",811,"Ontario Northland
+   Transport. Comm.","CHURCH","DEAN","Trainman","$102,249.76","$112.00",2002,"Crown"
+"812",812,"Ontario Northland
+   Transport. Comm.","DONNELLY","KEVIN","VP, Finance & Administration","$112,046.40","$732.48",2002,"Crown"
+"813",813,"Ontario Northland
+   Transport. Comm.","GOWLETT","SONNY","Trainman","$114,375.89","$112.00",2002,"Crown"
+"814",814,"Ontario Northland
+   Transport. Comm.","HOFFERD","BRIAN","Engineman","$103,866.90","$112.00",2002,"Crown"
+"815",815,"Ontario Northland
+   Transport. Comm.","HUTTON","ROBERT","Acting President","$116,544.40","$755.32",2002,"Crown"
+"816",816,"Ontario Northland
+   Transport. Comm.","LACHARITY","BERNARD","Trainman","$101,466.39","$112.00",2002,"Crown"
+"817",817,"Ontario Northland
+   Transport. Comm.","MARSHALL","MERVIN","Engineman","$108,675.08","$112.00",2002,"Crown"
+"818",818,"Ontario Northland
+   Transport. Comm.","O'GRADY","KELLY","Engineman","$101,140.77","$112.00",2002,"Crown"
+"819",819,"Ontario Northland
+   Transport. Comm.","PICARD","LAURENT","Trainman","$108,665.95","$112.00",2002,"Crown"
+"820",820,"Ontario Northland
+   Transport. Comm.","SEGUIN","GERALD","Engineman","$102,863.78","$112.00",2002,"Crown"
+"821",821,"Ontario Northland
+   Transport. Comm.","THOMPSON","RUSSELL","Counsel","$125,133.00","$809.28",2002,"Crown"
+"822",822,"Ontario Northland
+   Transport. Comm.","WHEELER","BRIAN","VP, ONTelcom","$122,772.00","$809.28",2002,"Crown"
+"823",823,"Ontario Northland
+   Transport. Comm.","WOOD","DENNIS","Engineman","$101,656.71","$112.00",2002,"Crown"
+"824",824,"Ontario Pension Board","BOWDEN","LINDA","Vice President, Corporate Services","$154,160.17","$284.82",2002,"Crown"
+"825",825,"Ontario Pension Board","EVAGELOU","ANTONIA","Vice President, Plan Administration","$143,240.51","$275.67",2002,"Crown"
+"826",826,"Ontario Pension Board","FARRUGIA","JOE","Director, Planning & Information Tech.","$132,851.57","$251.01",2002,"Crown"
+"827",827,"Ontario Pension Board","FULLER","MARK","Executive VP, Gen. Counsel & Secretary","$248,673.71","$418.17",2002,"Crown"
+"828",828,"Ontario Pension Board","KAY","ROBERT","Sr. Vice President Investments","$218,194.53","$369.96",2002,"Crown"
+"829",829,"Ontario Pension Board","LU","LEONARD","President","$273,993.16","$450.27",2002,"Crown"
+"830",830,"Ontario Pension Board","SHENA","PETER","Vice President, Policy & Research","$150,963.88","$279.78",2002,"Crown"
+"831",831,"Ontario Pension Board","SYCAMORE","DARLA","Treasurer & Director, Treasury & Finance","$124,111.88","$237.03",2002,"Crown"
+"832",832,"Ontario Pension Board","WEISS","DONALD","Chairman & CEO","$207,795.26","$329.79",2002,"Crown"
+"833",833,"Ontario Place","CHRZAN","TOM","Assistant General Manager","$100,121.58","$205.34",2002,"Crown"
+"834",834,"Ontario Place","HUTCHESON","LESLIE","General Manager","$124,006.06","$164.82",2002,"Crown"
+"835",835,"Ontario Racing Commission","BOURGEOIS","DONALD","Solicitor","$129,553.61","$255.36",2002,"Crown"
+"836",836,"Ontario Racing Commission","FERNANDES","GREGORY","Director of Finance and Administration","$108,527.11","$2,170.87",2002,"Crown"
+"837",837,"Ontario Racing Commission","MAJOR","JEAN","Executive Director","$149,385.13","$3,851.19",2002,"Crown"
+"838",838,"Ontario Racing Commission","STONE","W","Director of Racing","$108,527.11","$207.52",2002,"Crown"
+"839",839,"Ontario Realty
+   Corporation","BROWN","DOUGLAS J.","Regional Vice-President (East)","$122,273.42","$615.59",2002,"Crown"
+"840",840,"Ontario Realty
+   Corporation","BUDD","ROBERT","VP, Regional Vice-President (Sales)","$132,499.08","$342.29",2002,"Crown"
+"841",841,"Ontario Realty
+   Corporation","CONTESTABILE","JOHN","Vice-President Asset Review","$139,650.13","$360.36",2002,"Crown"
+"842",842,"Ontario Realty
+   Corporation","CURSIO","JOHN G. P.","Manager, Project & Construction Services","$111,889.52","$288.08",2002,"Crown"
+"843",843,"Ontario Realty
+   Corporation","FARRUGIA","MARYLEE","Executive VP & General Counsel","$201,078.55","$14,715.61",2002,"Crown"
+"844",844,"Ontario Realty
+   Corporation","GREGORY","LINDA","Vice-President Controller","$158,982.72","$687.96",2002,"Crown"
+"845",845,"Ontario Realty
+   Corporation","HANKINSON","JAMES","VP, Special Projects Marketing","$108,530.86","$0.00",2002,"Crown"
+"846",846,"Ontario Realty
+   Corporation","HARD","WILLIAM G. T.","Vice-President Financial Planning","$120,974.45","$305.50",2002,"Crown"
+"847",847,"Ontario Realty
+   Corporation","LABELLE","HUBERT","Regional Vice-President (North)","$129,178.63","$333.05",2002,"Crown"
+"848",848,"Ontario Realty
+   Corporation","LAMBIE","TOBIN","Sr. VP, Corp. Relations & Public Affairs","$146,796.64","$11,955.37",2002,"Crown"
+"849",849,"Ontario Realty
+   Corporation","LEROUX","PETER","Executive VP, Facility Services","$224,388.16","$17,058.90",2002,"Crown"
+"850",850,"Ontario Realty
+   Corporation","MASSIAH","ERWIN","Regional Vice-President (GTA)","$140,895.57","$364.76",2002,"Crown"
+"851",851,"Ontario Realty
+   Corporation","MAZZOTTA","ANGELA","Vice-President Facility Support Services","$134,980.00","$347.49",2002,"Crown"
+"852",852,"Ontario Realty
+   Corporation","MCCREERY","WILLIAM","Senior Project Manager","$110,732.94","$297.32",2002,"Crown"
+"853",853,"Ontario Realty
+   Corporation","MIELE","TONY","President & Chief Executive Officer","$227,503.64","$15,004.74",2002,"Crown"
+"854",854,"Ontario Realty
+   Corporation","NEALLY","ROBERT","Senior Project Manager","$109,144.56","$293.80",2002,"Crown"
+"855",855,"Ontario Realty
+   Corporation","NOEL","RICHARD","Senior Project Manager (Team Lead)","$102,515.72","$274.88",2002,"Crown"
+"856",856,"Ontario Realty
+   Corporation","OAKES","G. PETER","Chief Financial Officer & Treasurer","$129,069.21","$14,633.73",2002,"Crown"
+"857",857,"Ontario Realty
+   Corporation","PLAMONDON","DANIEL","Vice-President Project Management","$135,430.37","$350.09",2002,"Crown"
+"858",858,"Ontario Realty
+   Corporation","ROBINSON","LORI","Vice-President Asset Planning","$129,178.63","$333.05",2002,"Crown"
+"859",859,"Ontario Realty
+   Corporation","SEARCHFIELD","BRADLEY","Exec. VP, Real Estate & Sales Div.","$224,388.16","$16,614.01",2002,"Crown"
+"860",860,"Ontario Realty
+   Corporation","STOROZUK","JAMES","Vice-President Information Technology","$131,057.06","$640.33",2002,"Crown"
+"861",861,"Ontario Realty
+   Corporation","TOH","YEE SENG","Project Manager Forensic Audit Review","$100,124.00","$0.00",2002,"Crown"
+"862",862,"Ontario Realty
+   Corporation","VAN VLIET","JOHN","Regional Vice-President (Southwest)","$129,178.63","$333.05",2002,"Crown"
+"863",863,"Ontario Realty
+   Corporation","WATKINS","REG","Senior Project Manager","$110,234.98","$297.32",2002,"Crown"
+"864",864,"Ontario Rental Housing
+   Tribunal","PUTA-CHEKWE","CHISANGA","Chair","$109,916.29","$238.12",2002,"Crown"
+"865",865,"Ontario Review Board","CARRUTHERS","DOUGLAS","Chair","$115,548.67","$0.00",2002,"Crown"
+"866",866,"Ontario Science Centre","BENNETT","JOANN","Director, Business Development","$100,254.96","$200.22",2002,"Crown"
+"867",867,"Ontario Science Centre","GORECKI","BERNARD","Director, Marketing & Visitor Services","$109,604.07","$209.58",2002,"Crown"
+"868",868,"Ontario Science Centre","HARDING","KATHLEEN","Human Resources Consultant","$112,407.55","$151.63",2002,"Crown"
+"869",869,"Ontario Science Centre","LEWIS","LESLEY","Director General & CEO","$144,065.15","$290.28",2002,"Crown"
+"870",870,"Ontario Science Centre","MARTIN","JENNIFER","Director, Visitor Experience","$102,865.05","$203.66",2002,"Crown"
+"871",871,"Ontario Science Centre","TROOP","GRANT","Director, Business Planning & Operations","$100,154.53","$197.94",2002,"Crown"
+"872",872,"Ontario Securities
+   Commission","ALEXOPOULOS","TULA","Special Advisor to the Chair","$127,818.15","$197.61",2002,"Crown"
+"873",873,"Ontario Securities
+   Commission","ANTONIOU","NOULLA","Senior Accountant","$105,235.61","$243.67",2002,"Crown"
+"874",874,"Ontario Securities
+   Commission","BECK","JOAN","Senior Legal Counsel","$150,845.52","$458.74",2002,"Crown"
+"875",875,"Ontario Securities
+   Commission","BERTOIA","JULIE","Senior Accountant","$140,996.71","$229.71",2002,"Crown"
+"876",876,"Ontario Securities
+   Commission","BLUMBERGER","EREZ","Legal Counsel","$136,520.88","$562.16",2002,"Crown"
+"877",877,"Ontario Securities
+   Commission","BOARDMAN","SALLY","Manager, Human Resources","$108,776.06","$242.65",2002,"Crown"
+"878",878,"Ontario Securities
+   Commission","BRIDGE","MARRIANNE","Manager, Compliance","$152,366.60","$311.70",2002,"Crown"
+"879",879,"Ontario Securities
+   Commission","BRITTON","MATTHEW","Senior Litigation Counsel","$144,984.41","$253.79",2002,"Crown"
+"880",880,"Ontario Securities
+   Commission","BROWN","DAVID","Chair","$552,000.10","$9,835.12",2002,"Crown"
+"881",881,"Ontario Securities
+   Commission","BROWN","MICHAEL","Legal Counsel","$111,646.64","$175.87",2002,"Crown"
+"882",882,"Ontario Securities
+   Commission","BUREAUD","JEAN-PAUL","Legal Counsel","$130,040.62","$231.35",2002,"Crown"
+"883",883,"Ontario Securities
+   Commission","BUTLER","BRIAN","Manager, Investigations","$179,210.94","$664.08",2002,"Crown"
+"884",884,"Ontario Securities
+   Commission","BYERS","CHRISTOPHER","Legal Counsel","$106,338.67","$179.14",2002,"Crown"
+"885",885,"Ontario Securities
+   Commission","BYRNES","ROBERT","Deputy Director, Information Technology","$166,918.49","$1,411.63",2002,"Crown"
+"886",886,"Ontario Securities
+   Commission","CARCHRAE","JOHN","Chief Accountant","$207,060.83","$298.80",2002,"Crown"
+"887",887,"Ontario Securities
+   Commission","CASIERO","VINCENT","Investigation Counsel","$120,692.05","$204.62",2002,"Crown"
+"888",888,"Ontario Securities
+   Commission","CHAUKOS","PAT","Senior Accountant / Legal Counsel","$136,745.30","$611.94",2002,"Crown"
+"889",889,"Ontario Securities
+   Commission","CHISHOLM","YVONNE","Litigation Counsel","$134,149.76","$288.21",2002,"Crown"
+"890",890,"Ontario Securities
+   Commission","CHO","PETER","Senior Forensic Accountant","$139,917.50","$684.70",2002,"Crown"
+"891",891,"Ontario Securities
+   Commission","CHUNG","YUMEE","Legal Counsel","$105,101.42","$170.76",2002,"Crown"
+"892",892,"Ontario Securities
+   Commission","CLARKIN","BRIAN","Senior Forensic Accountant","$146,414.36","$230.16",2002,"Crown"
+"893",893,"Ontario Securities
+   Commission","COLLINS","STEPHANIE","Forensic Accountant","$103,301.76","$167.49",2002,"Crown"
+"894",894,"Ontario Securities
+   Commission","CORBETT","HUGH","Litigation Counsel","$117,404.64","$327.32",2002,"Crown"
+"895",895,"Ontario Securities
+   Commission","COTTRELL","JOHN","Senior Forensic Accountant","$114,605.96","$643.74",2002,"Crown"
+"896",896,"Ontario Securities
+   Commission","COWDERY","REBECCA","Mgr, Investment Funds Regulatory Reform","$187,999.18","$294.12",2002,"Crown"
+"897",897,"Ontario Securities
+   Commission","DANIELS","KATHRYN","Litigation Counsel","$145,186.00","$397.52",2002,"Crown"
+"898",898,"Ontario Securities
+   Commission","DASIL","MERILYN","Senior Legal Counsel","$142,141.64","$218.67",2002,"Crown"
+"899",899,"Ontario Securities
+   Commission","DAVIS","ROBERT","Commissioner","$105,800.00","$0.00",2002,"Crown"
+"900",900,"Ontario Securities
+   Commission","DAY","ROBERT","Manager, Business Planning & Reporting","$132,504.95","$212.90",2002,"Crown"
+"901",901,"Ontario Securities
+   Commission","DE LINT","DIRK","Legal Counsel","$133,875.94","$286.06",2002,"Crown"
+"902",902,"Ontario Securities
+   Commission","DE VERTEUIL","MICHAEL","Senior Forensic Accountant","$133,202.15","$224.53",2002,"Crown"
+"903",903,"Ontario Securities
+   Commission","DEMPSEY","PAUL","Manager, Investment Funds","$165,618.62","$273.31",2002,"Crown"
+"904",904,"Ontario Securities
+   Commission","DI LIETO","ROSSANA","Senior Legal Counsel","$131,937.65","$233.87",2002,"Crown"
+"905",905,"Ontario Securities
+   Commission","DUBLIN","JULIA","Senior Legal Counsel","$165,417.76","$679.82",2002,"Crown"
+"906",906,"Ontario Securities
+   Commission","DUNDAS","LINDA","Senior Derivatives Specialist","$131,248.02","$611.52",2002,"Crown"
+"907",907,"Ontario Securities
+   Commission","EVANS","KATHARINE","Legal Counsel","$102,939.69","$376.05",2002,"Crown"
+"908",908,"Ontario Securities
+   Commission","FALLONE","JOANNA","Manager, Case Assessment","$162,160.36","$272.79",2002,"Crown"
+"909",909,"Ontario Securities
+   Commission","FUNG","CARLIN","Senior Accountant","$104,368.35","$175.89",2002,"Crown"
+"910",910,"Ontario Securities
+   Commission","FYDELL","BARBARA","Legal Counsel","$115,031.69","$190.75",2002,"Crown"
+"911",911,"Ontario Securities
+   Commission","GERHART","MARSHA","Senior Legal Counsel","$152,178.13","$558.82",2002,"Crown"
+"912",912,"Ontario Securities
+   Commission","GILKES","DAVID","Manager, Registrant Regulation","$120,820.97","$221.30",2002,"Crown"
+"913",913,"Ontario Securities
+   Commission","GOLDBERG","RHONDA","Legal Counsel","$108,747.56","$210.64",2002,"Crown"
+"914",914,"Ontario Securities
+   Commission","GORMAN","KELLY","Senior Accountant","$109,222.98","$204.31",2002,"Crown"
+"915",915,"Ontario Securities
+   Commission","GREENGLASS","SUSAN","Senior Legal Counsel","$167,219.93","$258.58",2002,"Crown"
+"916",916,"Ontario Securities
+   Commission","GUNN","GEORGE","Manager, Surveillance","$135,928.65","$1,304.89",2002,"Crown"
+"917",917,"Ontario Securities
+   Commission","HAYWARD","PAUL","Legal Counsel","$105,316.75","$178.24",2002,"Crown"
+"918",918,"Ontario Securities
+   Commission","HUBLEY","MICHAEL","Assistant Manager, Investigations","$121,769.32","$1,086.22",2002,"Crown"
+"919",919,"Ontario Securities
+   Commission","HUGHES","JOHN","Manager, Continuous Disclosure","$161,563.35","$263.55",2002,"Crown"
+"920",920,"Ontario Securities
+   Commission","JEPSON","CHRISTOPHER","Legal Counsel","$118,391.30","$227.58",2002,"Crown"
+"921",921,"Ontario Securities
+   Commission","JIWANI","NUREZ","Director, Regulatory Coordination","$133,251.49","$0.00",2002,"Crown"
+"922",922,"Ontario Securities
+   Commission","KANJI","NAIZAM","Legal Counsel","$112,380.32","$185.62",2002,"Crown"
+"923",923,"Ontario Securities
+   Commission","KENNEDY","MELISSA","Manager, Litigation","$165,057.68","$359.33",2002,"Crown"
+"924",924,"Ontario Securities
+   Commission","KOHL","ROBERT","Senior Legal Counsel","$162,242.94","$265.85",2002,"Crown"
+"925",925,"Ontario Securities
+   Commission","KOOR","ELLE","Manager, NRD Project","$158,336.33","$240.34",2002,"Crown"
+"926",926,"Ontario Securities
+   Commission","LEUNG","ANTOINETTE","Senior Accountant","$130,399.46","$208.33",2002,"Crown"
+"927",927,"Ontario Securities
+   Commission","LO","YVONNE","Senior Forensic Accountant","$116,621.24","$193.56",2002,"Crown"
+"928",928,"Ontario Securities
+   Commission","MACCREADY","CHARLES","Senior Legal Counsel","$125,302.37","$277.42",2002,"Crown"
+"929",929,"Ontario Securities
+   Commission","MACFARLANE","CHARLES","Executive Director","$383,305.12","$7,791.56",2002,"Crown"
+"930",930,"Ontario Securities
+   Commission","MAINVILLE","CHANTAL","Legal Counsel","$112,501.82","$1,158.23",2002,"Crown"
+"931",931,"Ontario Securities
+   Commission","MANARIN","KAREN","Litigation Counsel","$130,277.43","$234.45",2002,"Crown"
+"932",932,"Ontario Securities
+   Commission","MARTIN GORELLE","KRISTA","Senior Legal Counsel","$155,757.79","$255.24",2002,"Crown"
+"933",933,"Ontario Securities
+   Commission","MARTIN SIDEY","DONNA","Legal Counsel","$160,937.52","$309.66",2002,"Crown"
+"934",934,"Ontario Securities
+   Commission","MCCALLUM","SUSAN","Senior Legal Counsel","$126,790.12","$213.39",2002,"Crown"
+"935",935,"Ontario Securities
+   Commission","MCCOMBE","DEBORAH","Geologist","$130,577.19","$557.91",2002,"Crown"
+"936",936,"Ontario Securities
+   Commission","MCCURDY","DAVID","Trading Systems Specialist","$120,096.09","$229.26",2002,"Crown"
+"937",937,"Ontario Securities
+   Commission","MCGREGOR","MARK","Manager, Technology Services","$107,649.71","$706.86",2002,"Crown"
+"938",938,"Ontario Securities
+   Commission","MCINNIS","CAMERON","Senior Accountant","$124,282.08","$568.66",2002,"Crown"
+"939",939,"Ontario Securities
+   Commission","MCKALL","DARREN","Legal Counsel","$113,667.27","$186.99",2002,"Crown"
+"940",940,"Ontario Securities
+   Commission","MCMANUS","MARK","Manager, Inquiries & Contact Centre","$108,241.67","$1,477.28",2002,"Crown"
+"941",941,"Ontario Securities
+   Commission","MOORE","PAUL","Vice Chair","$376,549.82","$7,803.18",2002,"Crown"
+"942",942,"Ontario Securities
+   Commission","MOORE","TERRY","Legal Counsel","$134,315.14","$431.54",2002,"Crown"
+"943",943,"Ontario Securities
+   Commission","MULIMA","MARK","Legal Counsel","$101,914.97","$0.00",2002,"Crown"
+"944",944,"Ontario Securities
+   Commission","NANIA","VIRAF","Senior Accountant","$113,802.66","$263.48",2002,"Crown"
+"945",945,"Ontario Securities
+   Commission","NASTER","JAY","Special Counsel","$261,507.24","$282.60",2002,"Crown"
+"946",946,"Ontario Securities
+   Commission","OSENI","SARAH","Legal Counsel","$125,651.49","$288.16",2002,"Crown"
+"947",947,"Ontario Securities
+   Commission","PARE","MAXIME","Senior Legal Counsel","$154,378.74","$685.68",2002,"Crown"
+"948",948,"Ontario Securities
+   Commission","PAUL","MARGO","Manager, Finance Team 1","$183,607.30","$287.94",2002,"Crown"
+"949",949,"Ontario Securities
+   Commission","PAVALOW","RANDEE","Director, Capital Markets","$200,637.46","$382.39",2002,"Crown"
+"950",950,"Ontario Securities
+   Commission","PETLOCK","CINDY","Manager, Market Regulation","$150,469.26","$245.90",2002,"Crown"
+"951",951,"Ontario Securities
+   Commission","PETROFF","THOMAS","Senior Market Analyst","$105,259.20","$180.01",2002,"Crown"
+"952",952,"Ontario Securities
+   Commission","PILIPAVICIUS","RIMA","Senior Forensic Accountant","$126,882.32","$222.71",2002,"Crown"
+"953",953,"Ontario Securities
+   Commission","PILKEY","SCOTT","Senior Investigation Counsel","$159,058.12","$519.70",2002,"Crown"
+"954",954,"Ontario Securities
+   Commission","POWLEY","RANDALL","Chief Economist","$155,320.86","$257.10",2002,"Crown"
+"955",955,"Ontario Securities
+   Commission","RAMSAY","ANNE","Senior Accountant","$141,068.60","$218.10",2002,"Crown"
+"956",956,"Ontario Securities
+   Commission","SANJOTO","WINNIE","Legal Counsel","$101,306.76","$159.17",2002,"Crown"
+"957",957,"Ontario Securities
+   Commission","SANKAR","LEVI","Investigation Counsel","$128,710.63","$226.02",2002,"Crown"
+"958",958,"Ontario Securities
+   Commission","SHAY","RALPH","Director, Take Over Bids","$175,971.76","$290.92",2002,"Crown"
+"959",959,"Ontario Securities
+   Commission","SMITH","IAN","Litigation Counsel","$165,932.16","$260.35",2002,"Crown"
+"960",960,"Ontario Securities
+   Commission","SODEN","KATHRYN","Director, Corporate Finance","$135,047.69","$486.80",2002,"Crown"
+"961",961,"Ontario Securities
+   Commission","SPENCER","MARY ANN","Director, Corporate Services","$198,442.98","$312.26",2002,"Crown"
+"962",962,"Ontario Securities
+   Commission","STERN","TRACEY","Senior Legal Counsel","$142,329.83","$225.56",2002,"Crown"
+"963",963,"Ontario Securities
+   Commission","STEVENSON","JOHN","Secretary to the Commission","$167,365.83","$275.16",2002,"Crown"
+"964",964,"Ontario Securities
+   Commission","STOW","NANCY","Mgr, IEF Research & Dev. Support Srvcs","$107,884.43","$182.82",2002,"Crown"
+"965",965,"Ontario Securities
+   Commission","SUPERINA","JOHANNA","Senior Litigation Counsel","$171,596.61","$265.91",2002,"Crown"
+"966",966,"Ontario Securities
+   Commission","SWITZER","FRANK","Director, Communications","$157,823.56","$291.67",2002,"Crown"
+"967",967,"Ontario Securities
+   Commission","TEDESCO","FELICIA","Assistant Manager, Compliance","$144,356.21","$653.45",2002,"Crown"
+"968",968,"Ontario Securities
+   Commission","TILLIE","MARCEL","Senior Accountant","$141,477.65","$680.33",2002,"Crown"
+"969",969,"Ontario Securities
+   Commission","TOLEDANO","LORI","Forensic Accountant","$101,252.71","$364.70",2002,"Crown"
+"970",970,"Ontario Securities
+   Commission","TOO","BYRON","Manager, Application Services","$112,236.24","$228.56",2002,"Crown"
+"971",971,"Ontario Securities
+   Commission","TSATSOS","IRENE","Senior Accountant","$121,424.25","$201.40",2002,"Crown"
+"972",972,"Ontario Securities
+   Commission","VRANIC","IVA","Manager, Finance Team 2","$171,498.98","$279.31",2002,"Crown"
+"973",973,"Ontario Securities
+   Commission","WATSON","MICHAEL","Director, Enforcement","$229,413.17","$380.22",2002,"Crown"
+"974",974,"Ontario Securities
+   Commission","WELSH","DOUG","Legal Counsel","$110,764.92","$188.37",2002,"Crown"
+"975",975,"Ontario Securities
+   Commission","WETSTON","HOWARD","Vice Chair","$399,549.82","$7,803.18",2002,"Crown"
+"976",976,"Ontario Securities
+   Commission","WHILER","RICK","Senior Accountant","$139,551.40","$235.74",2002,"Crown"
+"977",977,"Ontario Securities
+   Commission","WOLBURGH JENAH","SUSAN","Gen. Counsel & Dir., International Aff.","$214,813.60","$340.58",2002,"Crown"
+"978",978,"Ontario SuperBuild Corp.","DENTON","FRANK","Executive Director","$116,754.06","$232.22",2002,"Crown"
+"979",979,"Ontario SuperBuild Corp.","HARE","GEOFFREY","ADM, Capital Infrastructure","$154,148.65","$290.28",2002,"Crown"
+"980",980,"Ontario SuperBuild Corp.","HUGHES","WILLIAM","Director, Infras. Strategies","$107,982.63","$215.68",2002,"Crown"
+"981",981,"Ontario SuperBuild Corp.","HUOT","JACQUES","VP, Public - Private Infrast. Part.","$253,308.55","$29,576.00",2002,"Crown"
+"982",982,"Ontario SuperBuild Corp.","LINDSAY","DAVID","President & CEO, Ontario SuperBuild Corp","$321,090.49","$9,039.40",2002,"Crown"
+"983",983,"Ontario SuperBuild Corp.","MCINNIS-CONTRACTOR","RODA","Director, External Relations","$110,270.33","$223.52",2002,"Crown"
+"984",984,"Ontario SuperBuild Corp.","RAFI","M","VP & ADM, Hydro One","$150,208.40","$290.28",2002,"Crown"
+"985",985,"Ontario SuperBuild Corp.","TAYLOR","JOHN","Director, Public-Private Infras. Strat.","$110,957.01","$223.52",2002,"Crown"
+"986",986,"Ontario Trillium
+   Foundation","ELSE","PATRICIA","Director","$113,730.71","$6,620.43",2002,"Crown"
+"987",987,"Ontario Trillium
+   Foundation","FRAMPTON","DARLENE","Director","$103,697.07","$4,453.20",2002,"Crown"
+"988",988,"Ontario Trillium
+   Foundation","LABELLE-DAVEY","DIANE","Director","$112,984.58","$7,843.01",2002,"Crown"
+"989",989,"Ontario Trillium
+   Foundation","PASHLEY","ANNE","VP, Finance & Administration","$118,633.83","$8,172.54",2002,"Crown"
+"990",990,"Ontario Trillium
+   Foundation","ROBIN","CARDOZO","CEO","$181,499.90","$10,472.53",2002,"Crown"
+"991",991,"Ontario Trillium
+   Foundation","WAXMAN","GAYLE","Director","$112,984.58","$6,572.65",2002,"Crown"
+"992",992,"Ottawa Congress Centre","CULLITON","JOAN","Executive Vice President","$148,453.88","$16,356.27",2002,"Crown"
+"993",993,"Ottawa Congress Centre","HAMILTON","DAVID","President","$152,499.88","$15,706.35",2002,"Crown"
+"994",994,"Ottawa Congress Centre","OIS","MICHAEL","Executive Chef","$105,203.86","$8,386.26",2002,"Crown"
+"995",995,"Ottawa Congress Centre","SEGUIN","PETER","Vice President, Catering / Promotions","$114,328.79","$8,986.95",2002,"Crown"
+"996",996,"Pay Equity Commission","CHYCZIJ","RON","Review Officer","$149,398.09","$170.41",2002,"Crown"
+"997",997,"Pay Equity Commission","DUKOVICH","SENKA","Legal Counsel","$149,284.19","$0.00",2002,"Crown"
+"998",998,"Pay Equity Commission","PARSON","DIANE","Review Officer","$142,896.48","$170.71",2002,"Crown"
+"999",999,"Pay Equity Commission","PEERS","ANN","Commissioner","$104,789.09","$97.63",2002,"Crown"
+"1000",1000,"Pay Equity Commission","ROSSER","BEVERLY","Director, Pay Equity Programs","$140,980.39","$220.28",2002,"Crown"
+"1001",1001,"Pay Equity Hearings
+   Tribunal","CUMMINGS","MARY ELLEN","Alternate Chair","$115,261.89","$0.00",2002,"Crown"
+"1002",1002,"Public Service Appeals
+   Board","STICKLAND","LAWRENCE","Registrar","$106,668.08","$209.58",2002,"Crown"
+"1003",1003,"Royal Ontario Museum","BAKER","DR. ALLAN","Head, CBCB","$107,407.54","$301.66",2002,"Crown"
+"1004",1004,"Royal Ontario Museum","BARNETT","ROBERT","VP, Gallery Dev't","$119,686.52","$341.27",2002,"Crown"
+"1005",1005,"Royal Ontario Museum","BECKEL","MARGARET","COO / Secretary to the Board","$200,617.00","$8,056.10",2002,"Crown"
+"1006",1006,"Royal Ontario Museum","COLLINS","DR. DESMOND","Head, Palaeobiology","$102,803.95","$289.65",2002,"Crown"
+"1007",1007,"Royal Ontario Museum","DARLING","DR. CHRIS","Senior Curator","$100,869.15","$269.68",2002,"Crown"
+"1008",1008,"Royal Ontario Museum","ENGSTROM","MARK","Director, Research","$107,740.03","$302.62",2002,"Crown"
+"1009",1009,"Royal Ontario Museum","GRAESSER","WILLIAM","Exec. Director, Finance","$105,637.45","$301.08",2002,"Crown"
+"1010",1010,"Royal Ontario Museum","HUSHION","ANTHONY","VP, Exhibits, Programs & NMR","$144,119.89","$396.50",2002,"Crown"
+"1011",1011,"Royal Ontario Museum","KOESTER","CHRISTOPHER","Exec. Director, HR & OD","$107,206.66","$301.08",2002,"Crown"
+"1012",1012,"Royal Ontario Museum","PETERS","JOEL","VP, Marketing & Commercial Dev't","$124,490.71","$354.71",2002,"Crown"
+"1013",1013,"Royal Ontario Museum","RAHIMI","DAN","Director, Collections Management","$105,637.45","$301.08",2002,"Crown"
+"1014",1014,"Royal Ontario Museum","SHAIKOLI","AL","Exec. Director, Facilities","$105,637.45","$301.08",2002,"Crown"
+"1015",1015,"Royal Ontario Museum","SHOREMAN","MICHAEL","Senior VP, Business & Capital Dev't","$163,948.07","$467.22",2002,"Crown"
+"1016",1016,"Royal Ontario Museum","SUES","HANS-DIETER","VP, Collections & Research","$138,060.90","$377.64",2002,"Crown"
+"1017",1017,"Royal Ontario Museum","THORSELL","WILLIAM","President & CEO","$234,697.95","$1,684.92",2002,"Crown"
+"1018",1018,"Royal Ontario Museum","WICKS","DR. FRED","Head, Earth Sciences","$102,205.33","$288.46",2002,"Crown"
+"1019",1019,"Science North","MARCHBANK","JAMES","CEO","$131,218.00","$11,220.00",2002,"Crown"
+"1020",1020,"Social Benefits
+   Tribunal/SARB","SHARMA","MARILYN","Chair, SBT / SARB","$145,580.65","$290.28",2002,"Crown"
+"1021",1021,"St. Lawrence Parks
+   Commission","HUGHES","BARRY","Mgr Parks & Recreation","$102,184.31","$192.43",2002,"Crown"
+"1022",1022,"St. Lawrence Parks
+   Commission","PARADIS","MICHAEL","General Manager","$141,716.65","$290.28",2002,"Crown"
+"1023",1023,"St. Lawrence Parks
+   Commission","ROBERTSON","L. JOHN","Manager, Fort Henry","$104,164.13","$192.93",2002,"Crown"
+"1024",1024,"Toronto & Reg. Conservation Auth.","DENNEY","BRIAN","Director, Watershed Mgmt","$102,521.00","$477.00",2002,"Crown"
+"1025",1025,"Toronto & Reg.
+   Conservation Auth.","MATHER","J.CRAIG","CAO / Secretary-Treasurer","$117,900.00","$490.00",2002,"Crown"
+"1026",1026,"Wine Council of Ontario","FRANKLIN","LINDA","President","$159,999.84","$20,000.04",2002,"Crown"
+"1027",1027,"Workplace Safety &
+   Ins. App. Trib.","GOLDSTEIN","MARVIN","Publications Counsel","$104,409.49","$226.24",2002,"Crown"
+"1028",1028,"Workplace Safety &
+   Ins. App. Trib.","PREST","CAROLE","Counsel To Chair","$149,977.87","$325.00",2002,"Crown"
+"1029",1029,"Workplace Safety &
+   Ins. App. Trib.","REVINGTON","DANIEL","Tribunal General Counsel","$140,932.08","$304.91",2002,"Crown"
+"1030",1030,"Workplace Safety &
+   Ins. App. Trib.","STRACHAN","IAN","Tribunal Chair","$104,888.67","$227.28",2002,"Crown"
+"1031",1031,"WSIB","ABRAMS","BRENDA E.","Legal Counsel","$112,913.06","$228.74",2002,"Crown"
+"1032",1032,"WSIB","ACHAR","RAMACH ANDRA","Medical Consultant","$147,437.12","$247.25",2002,"Crown"
+"1033",1033,"WSIB","ADAMO","VALERIE","VP, Info Services and CIO","$181,361.80","$316.32",2002,"Crown"
+"1034",1034,"WSIB","AH-YOONG","GEORGES","Project Director","$109,062.32","$211.56",2002,"Crown"
+"1035",1035,"WSIB","ALLINGHAM","RICHARD","Director, Research and Evaluation","$116,925.24","$237.06",2002,"Crown"
+"1036",1036,"WSIB","ANGOVE","LINDA","Corporate Secretary","$124,773.29","$239.74",2002,"Crown"
+"1037",1037,"WSIB","ANSTEY","CALVIN","Director, Transportation Sector","$110,475.66","$228.50",2002,"Crown"
+"1038",1038,"WSIB","ARGUE","ROBERT","Director, Applications Development","$112,459.76","$228.82",2002,"Crown"
+"1039",1039,"WSIB","ARONSHTAM","MASHA","Medical Consultant","$128,858.01","$266.74",2002,"Crown"
+"1040",1040,"WSIB","ARVISAIS","J.","Medical Consultant","$135,341.45","$266.74",2002,"Crown"
+"1041",1041,"WSIB","BAIN","DONNA","Exec. Dir., Health Services Management","$154,622.71","$276.90",2002,"Crown"
+"1042",1042,"WSIB","BELANGER","ADELE MARIE","Legal Counsel","$109,538.84","$224.18",2002,"Crown"
+"1043",1043,"WSIB","BELL","SUSAN","Director, Central Claims Processing","$117,727.19","$229.30",2002,"Crown"
+"1044",1044,"WSIB","BENNETTO","JOHN","Director, Services Sector","$109,219.46","$221.30",2002,"Crown"
+"1045",1045,"WSIB","BISHOP","M.","Medical Consultant","$131,377.45","$266.74",2002,"Crown"
+"1046",1046,"WSIB","BROWN","ELIZABETH","Legal Counsel","$112,769.67","$230.74",2002,"Crown"
+"1047",1047,"WSIB","BURTON","NEIL","Director, Client Server Development","$120,461.81","$234.50",2002,"Crown"
+"1048",1048,"WSIB","CAMPBELL","CLARK","Dir., Munic. Edu. & Electrical Utilities","$108,361.46","$223.94",2002,"Crown"
+"1049",1049,"WSIB","CAMPBELL","COLIN","Security Architect","$117,847.03","$159.03",2002,"Crown"
+"1050",1050,"WSIB","CANTLIE","GEORGE","Medical Consultant","$128,858.01","$266.74",2002,"Crown"
+"1051",1051,"WSIB","CHAIN","MARYBELLE","Medical Consultant","$128,858.01","$266.74",2002,"Crown"
+"1052",1052,"WSIB","CHAN","THOMAS","VP, Finance & Corp Services & CFO","$181,846.91","$322.40",2002,"Crown"
+"1053",1053,"WSIB","CHEN","KATHY","Sr. Special Database","$111,598.82","$164.84",2002,"Crown"
+"1054",1054,"WSIB","CLEARY","FLOREEN","Director, Pre 1990 Claims","$110,942.60","$223.62",2002,"Crown"
+"1055",1055,"WSIB","CUDE","BEVERLEY","Director, Technology Services","$129,089.09","$231.14",2002,"Crown"
+"1056",1056,"WSIB","DAVID","LAWRENCE","Medical Consultant","$128,858.01","$266.74",2002,"Crown"
+"1057",1057,"WSIB","DE DOMENICO","IVAN J.","Medical Consultant","$129,574.08","$266.74",2002,"Crown"
+"1058",1058,"WSIB","DESLAURIERS","JEAN","Medical Consultant","$125,757.20","$257.74",2002,"Crown"
+"1059",1059,"WSIB","DJAN","P. A.","Medical Consultant","$146,427.28","$247.25",2002,"Crown"
+"1060",1060,"WSIB","DORCAS","DOW","Medical Consultant","$125,402.63","$0.00",2002,"Crown"
+"1061",1061,"WSIB","DOUGLAS","RICHARD ALEXANDER","Director, Employee Relations","$130,015.19","$259.25",2002,"Crown"
+"1062",1062,"WSIB","DSOUZA","IRENE","Medical Consultant","$106,752.37","$224.95",2002,"Crown"
+"1063",1063,"WSIB","DUDLEY","JOHN","Assoc. Director / Physician","$140,420.59","$284.50",2002,"Crown"
+"1064",1064,"WSIB","FAHMY","NADIA","Director, Admin Services","$111,943.16","$231.38",2002,"Crown"
+"1065",1065,"WSIB","FEDDER","JONATHAN E","Director, (Managing) Legal","$108,803.68","$219.25",2002,"Crown"
+"1066",1066,"WSIB","FIELD","PAUL","Director, Small Business","$107,099.38","$216.98",2002,"Crown"
+"1067",1067,"WSIB","FORSYTH-PETROV","DEBORAH","Director, Systems and Collections","$119,893.25","$164.27",2002,"Crown"
+"1068",1068,"WSIB","FORTH","KENNETH","Director, Agriculture","$103,644.08","$211.20",2002,"Crown"
+"1069",1069,"WSIB","FORTIN","CLAIRE MARIE","Dir., Med. Occupational Disease Policy","$105,912.41","$217.78",2002,"Crown"
+"1070",1070,"WSIB","FOSTER","DAVID","Director, IS Audit","$100,088.57","$195.14",2002,"Crown"
+"1071",1071,"WSIB","FRAME","DAVID A.","Director, Provider Relations","$105,874.16","$204.36",2002,"Crown"
+"1072",1072,"WSIB","GALWAY","KATHLEEN","Director, Business Operations Audit","$106,546.33","$204.20",2002,"Crown"
+"1073",1073,"WSIB","GARG","S. K.","Medical Consultant","$128,858.01","$266.74",2002,"Crown"
+"1074",1074,"WSIB","GEARY","JUDY","GM CPP & Special Claim Services","$181,885.32","$304.14",2002,"Crown"
+"1075",1075,"WSIB","GERMANSKY","MARTIN","Medical Consultant","$128,858.01","$266.74",2002,"Crown"
+"1076",1076,"WSIB","GIBBS","HENRY","VP, Investments","$283,222.85","$437.34",2002,"Crown"
+"1077",1077,"WSIB","GILLIES","JAMES","Dir., Financial Planning & Analysis","$118,167.81","$229.30",2002,"Crown"
+"1078",1078,"WSIB","HADJISKI","ANNA","Medical Consultant","$128,858.01","$266.74",2002,"Crown"
+"1079",1079,"WSIB","HALL","NICK M.","Director, Automotive Sector","$110,665.57","$228.74",2002,"Crown"
+"1080",1080,"WSIB","HAWKINS","ADAM J.","Director, Realty Investments","$146,575.60","$240.74",2002,"Crown"
+"1081",1081,"WSIB","HECKADON","ROBERT","Assoc. Director / Physician","$157,252.50","$0.00",2002,"Crown"
+"1082",1082,"WSIB","HERRINGTON","MICHAEL","Director, Small Business","$105,099.65","$216.98",2002,"Crown"
+"1083",1083,"WSIB","HICKMAN","ROBERT","Medical Consultant","$128,762.00","$266.74",2002,"Crown"
+"1084",1084,"WSIB","HIGGINS","JODI","Director, Small Business","$115,200.16","$228.58",2002,"Crown"
+"1085",1085,"WSIB","HOLYOKE","PAUL","General Counsel","$203,035.10","$346.32",2002,"Crown"
+"1086",1086,"WSIB","HORSEMAN","BROCK C.","Sr. VP, Operations","$309,633.28","$486.84",2002,"Crown"
+"1087",1087,"WSIB","HOUSTON","ROBERTA","Legal Counsel","$104,479.23","$213.28",2002,"Crown"
+"1088",1088,"WSIB","JOHNSTON","MICHAEL BRUCE","Legal Counsel","$106,265.68","$218.62",2002,"Crown"
+"1089",1089,"WSIB","JOLLEY","LINDA","VP, Policy and Research","$195,393.10","$319.92",2002,"Crown"
+"1090",1090,"WSIB","JONES","DEREK","Medical Consultant","$122,404.36","$259.54",2002,"Crown"
+"1091",1091,"WSIB","KANALEC","ANDREW D.","Medical Consultant","$128,858.01","$266.74",2002,"Crown"
+"1092",1092,"WSIB","KELLY","J. BRIAN","Assoc. Director, Physician","$145,733.40","$296.70",2002,"Crown"
+"1093",1093,"WSIB","KELLY","LINDA","Director, Specialist & Advisory Services","$108,557.33","$208.89",2002,"Crown"
+"1094",1094,"WSIB","KEMPSTER","GEOFF","Director, Manufacturing Sector","$111,457.21","$227.22",2002,"Crown"
+"1095",1095,"WSIB","KERR","FERGUS","Director, Mining Sector","$109,148.15","$222.42",2002,"Crown"
+"1096",1096,"WSIB","KOSMIDIS","ELIZABETH","Legal Counsel","$112,197.04","$227.70",2002,"Crown"
+"1097",1097,"WSIB","KOSMYNA","ROMAN","Board Auditor","$126,164.14","$252.00",2002,"Crown"
+"1098",1098,"WSIB","KULYNYCH","HEIDI","Director, Corp.Transport. Comm.
+   Exec. Office","$135,627.88","$235.34",2002,"Crown"
+"1099",1099,"WSIB","KWONG","PAUL","Project Director","$122,393.15","$226.98",2002,"Crown"
+"1100",1100,"WSIB","LAMANNA","PAT","Director, Small Business","$115,335.50","$236.90",2002,"Crown"
+"1101",1101,"WSIB","LAMOUREUX","LINDA","Director, SIB","$179,943.15","$308.80",2002,"Crown"
+"1102",1102,"WSIB","LAU","ROBERT HING","Director, Accounting","$101,913.69","$207.24",2002,"Crown"
+"1103",1103,"WSIB","LESHCHYSHYN","DANA","Director, Construction Sector","$116,232.47","$240.66",2002,"Crown"
+"1104",1104,"WSIB","LEVITSKY","MARIANNE","Director, Best Practices","$112,749.18","$218.90",2002,"Crown"
+"1105",1105,"WSIB","LEWIS","OWEN","Director, Applications Development","$115,662.34","$219.94",2002,"Crown"
+"1106",1106,"WSIB","LONDRY","DAVID","Director, Client Server Development","$120,189.69","$229.06",2002,"Crown"
+"1107",1107,"WSIB","LOVELOCK","RONALD","Director, Prevention Services","$110,874.97","$219.86",2002,"Crown"
+"1108",1108,"WSIB","LUCK","MARY","Director, Services Sector","$112,970.12","$234.26",2002,"Crown"
+"1109",1109,"WSIB","MACDIARMID","ANN","VP, Communications","$128,324.25","$248.88",2002,"Crown"
+"1110",1110,"WSIB","MAEHLE","WALDEMAR","Medical Consultant","$124,757.20","$257.74",2002,"Crown"
+"1111",1111,"WSIB","MARTIN","PETER J","Director, Compensation","$121,212.81","$244.34",2002,"Crown"
+"1112",1112,"WSIB","MASTRILLI","ARCANGELO","Medical Consultant","$128,858.01","$266.74",2002,"Crown"
+"1113",1113,"WSIB","MCADAM","ROBERTA","Director, Revenue Audit Services","$110,788.63","$224.02",2002,"Crown"
+"1114",1114,"WSIB","MCCARTHY","JANE","GM Health Services Admin / Spec Programs","$172,112.44","$285.30",2002,"Crown"
+"1115",1115,"WSIB","MCCLEAVE","DAVE","Director, Small Business","$107,895.61","$222.62",2002,"Crown"
+"1116",1116,"WSIB","MCKENNA-BOOT","PATRICIA","Medical Consultant","$129,680.75","$263.90",2002,"Crown"
+"1117",1117,"WSIB","MCMURTRIE","ROBERT","Director, Financial Services","$115,158.97","$235.06",2002,"Crown"
+"1118",1118,"WSIB","MEENAN","JOHN J","Medical Consultant","$124,757.20","$257.74",2002,"Crown"
+"1119",1119,"WSIB","MIKKELSEN","ALLAN CHARLES","Finance HR Business
+   Partner","$106,556.25","$203.99",2002,"Crown"
+"1120",1120,"WSIB","MORDEN","DONALD LAWRENCE","VP Human Resources","$200,182.56","$336.96",2002,"Crown"
+"1121",1121,"WSIB","MORRISON","RICHARD","Director, Small Business","$109,684.81","$226.66",2002,"Crown"
+"1122",1122,"WSIB","MOULD","ROY","VP Prevention","$217,506.16","$336.64",2002,"Crown"
+"1123",1123,"WSIB","PAINVIN","CATHERINE","Director, Clinical Resources","$155,686.60","$312.00",2002,"Crown"
+"1124",1124,"WSIB","PETER","ALICE","Director, Research Secretariat","$102,256.25","$207.92",2002,"Crown"
+"1125",1125,"WSIB","PRICHETT","BARRY","Medical Consultant","$128,858.01","$266.74",2002,"Crown"
+"1126",1126,"WSIB","PUSHKA","WAYNE","Assistant Dir and Chief Investigator","$108,067.65","$219.38",2002,"Crown"
+"1127",1127,"WSIB","RAMSEY","WILLARD","Actuary, Pricing & Valuation","$152,109.06","$291.46",2002,"Crown"
+"1128",1128,"WSIB","RODENHURST","JOHN D.","Director, Business Innovations Services","$101,041.27","$205.64",2002,"Crown"
+"1129",1129,"WSIB","ROHATYN","TARAS","Director, Small Business","$104,859.72","$216.26",2002,"Crown"
+"1130",1130,"WSIB","SARATHY","PARTHA","Manager, Applications and Development","$102,926.22","$183.56",2002,"Crown"
+"1131",1131,"WSIB","SCHOFIELD","MICHEL","Physician Coord Speclty Clinic","$145,774.71","$295.26",2002,"Crown"
+"1132",1132,"WSIB","SCOPA","FERNAND","Director, Health Care Sector","$108,790.86","$222.02",2002,"Crown"
+"1133",1133,"WSIB","SCULLION","CATHERINE","Medical Consultant","$124,229.18","$256.58",2002,"Crown"
+"1134",1134,"WSIB","SGRO","JOSEPH","Director, Quality Improvement","$115,950.23","$234.34",2002,"Crown"
+"1135",1135,"WSIB","SHAPIRO","GARY","Medical Consultant","$128,858.01","$266.74",2002,"Crown"
+"1136",1136,"WSIB","SHERWIN","LINDA","Medical Consultant","$136,688.77","$247.25",2002,"Crown"
+"1137",1137,"WSIB","SHEWELL","KATHRYN","Director, Corp Admin Services","$125,527.09","$205.86",2002,"Crown"
+"1138",1138,"WSIB","SIMMONS","WAYNE B.","Director, Investments","$146,659.35","$290.42",2002,"Crown"
+"1139",1139,"WSIB","SLINGER","JOHN","Director, Appeals","$131,323.41","$258.66",2002,"Crown"
+"1140",1140,"WSIB","STASILA","DAVE","Director, Investments","$157,745.95","$293.42",2002,"Crown"
+"1141",1141,"WSIB","TARASCHUK","IHOR","Medical Consultant","$124,757.20","$257.74",2002,"Crown"
+"1142",1142,"WSIB","THOMAS","ROY E","Exec Director, Communications","$136,749.48","$241.62",2002,"Crown"
+"1143",1143,"WSIB","THOMSON","GARRY","GM Industry Sector","$177,578.57","$303.54",2002,"Crown"
+"1144",1144,"WSIB","TIMLIN","ROBERT J","Project Director","$109,725.21","$215.20",2002,"Crown"
+"1145",1145,"WSIB","TODOROVIC","SLAVICA","Director, Benefits Policy","$116,925.24","$237.06",2002,"Crown"
+"1146",1146,"WSIB","TOURCHIN","ROBERT W.","Director, Primary Metal Sector","$105,173.05","$213.76",2002,"Crown"
+"1147",1147,"WSIB","TUCKER","CHERYL","Director, Community Relations","$105,889.07","$210.60",2002,"Crown"
+"1148",1148,"WSIB","VALA WEBB","GORDON","Director, Knowledge Services","$117,063.56","$237.70",2002,"Crown"
+"1149",1149,"WSIB","WALKER","JOHN","Medical Consultant","$128,858.01","$266.74",2002,"Crown"
+"1150",1150,"WSIB","WALLACE","TIM","Sr. Spec, Operating Systems","$103,023.14","$179.16",2002,"Crown"
+"1151",1151,"WSIB","WANG","KENNEDY","Director, Schedule II Sector","$118,338.79","$219.58",2002,"Crown"
+"1152",1152,"WSIB","WEATHERBEE","WAYNE","GM Small Business Services","$179,345.76","$305.62",2002,"Crown"
+"1153",1153,"WSIB","WELTON","IAN","Director, Revenue Policy","$116,925.24","$237.06",2002,"Crown"
+"1154",1154,"WSIB","WENTZELL","SCOTT","Medical Consultant","$101,242.94","$206.87",2002,"Crown"
+"1155",1155,"WSIB","WHITNEY","DAVID","Director, Small Business","$104,778.21","$215.28",2002,"Crown"
+"1156",1156,"WSIB","WILLIAMS","DAVID","President & CEO","$608,434.06","$830.44",2002,"Crown"
+"1157",1157,"WSIB","WILLIAMS","SUSAN","Director, Customer Care","$132,823.49","$256.10",2002,"Crown"
+"1158",1158,"WSIB","WISKIN","JOHN","Director, Schedule II Sector","$109,547.72","$220.10",2002,"Crown"
+"1159",1159,"WSIB","WRIGHT","GLEN","Chair of the Board","$168,269.50","$199.80",2002,"Crown"

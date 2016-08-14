@@ -1,0 +1,403 @@
+"","Employer","Last.name","First.name","Job.title","Salary.Paid","Taxable.Benefits","Calendar.Year","Sector"
+"1","Algonquin College","BROCK","BARRY","Director, Information Technology 
+       Srvcs","$101,518.74","$159.68",2003,"Colleges"
+"2","Algonquin College","BURKE","MARK","Senior Account Executive","$102,603.21","$0.00",2003,"Colleges"
+"3","Algonquin College","CORMIER","MARIE","Dean, School of Health & 
+       Community Srvcs","$106,057.76","$289.76",2003,"Colleges"
+"4","Algonquin College","DWORSCHAK","HERMANN","Academic","$108,217.26","$181.89",2003,"Colleges"
+"5","Algonquin College","FAULKNER","KAREN","Academic","$103,459.99","$181.89",2003,"Colleges"
+"6","Algonquin College","GILLETT","ROBERT","President","$201,766.62","$16,069.83",2003,"Colleges"
+"7","Algonquin College","HAMILTON","JOHN","Vice-President Finance & 
+       Administration","$162,300.03","$579.96",2003,"Colleges"
+"8","Algonquin College","HANSON","RAYMONDE","Vice-President Academic","$137,456.40","$639.14",2003,"Colleges"
+"9","Algonquin College","MACCARTNEY","JOAN","Dean Perth Campus","$102,132.62","$160.73",2003,"Colleges"
+"10","Algonquin College","MACDOUGALL","GLENN","Director, Learning & Technology 
+       Services","$100,298.44","$497.28",2003,"Colleges"
+"11","Algonquin College","MOLNAR","JEAN","Academic","$108,489.29","$181.89",2003,"Colleges"
+"12","Algonquin College","ROBINSON","KIRSTEN","Director, Learning Services","$106,246.78","$554.27",2003,"Colleges"
+"13","Algonquin College","ROWAN-LEGG","DEBORAH","Registrar","$103,244.72","$154.28",2003,"Colleges"
+"14","Algonquin College","RUSHTON","MIKE","Director, Physical Resources","$105,008.83","$388.44",2003,"Colleges"
+"15","Algonquin College","SHERIF","ABLA","Director, International Education","$120,971.21","$0.00",2003,"Colleges"
+"16","Algonquin College","STRATTON-ZIMMER","MARILYN","Director, Student Services","$102,978.49","$508.77",2003,"Colleges"
+"17","Algonquin College","THOMS","RICHARD","Director, Marketing","$107,460.75","$546.32",2003,"Colleges"
+"18","Algonquin College","UREMOVICH","MORRIS","Dean, School of Advanced Technology","$106,346.34","$540.11",2003,"Colleges"
+"19","Algonquin College","WARBURTON","CHRISTOPHER","Vice-President Student Life 
+       & H.R.","$134,304.60","$638.09",2003,"Colleges"
+"20","Algonquin College","PAPADOLIAS","NICK","Director, Educational Services","$108,606.11","$556.25",2003,"Colleges"
+"21","Cambrian College","BARNARD","SYLVIA","President","$171,755.23","$6,616.24",2003,"Colleges"
+"22","Cambrian College","BOUCHARD","LARRY","Dean, Ctr. for Comm & 
+       Workforce Dev.","$109,702.54","$560.98",2003,"Colleges"
+"23","Cambrian College","DEL MISSIER","SONIA","VP, Academic","$116,310.23","$6,322.20",2003,"Colleges"
+"24","Cambrian College","FILION","IVAN","Exec. 
+       Dir., Res., Sprt.& Adv. Learning","$116,366.96","$6,627.27",2003,"Colleges"
+"25","Cambrian College","FREELANDT","ELIZABETH","VP, 
+       Student Srvcs & Strategic Init.","$103,392.90","$6,557.59",2003,"Colleges"
+"26","Cambrian College","TOIKKA","GLENN","VP, Finance & Administration","$111,688.26","$6,603.89",2003,"Colleges"
+"27","Canadore College","CONNELL","JAMES","VP Administration, Board Secretary","$116,735.36","$471.88",2003,"Colleges"
+"28","Canadore College","CORNICK","EWEN","VP Technical Srvcs, Facilities 
+       Dev.","$116,735.36","$547.76",2003,"Colleges"
+"29","Canadore College","LINFORD","GARY","VP Academic","$123,050.08","$631.00",2003,"Colleges"
+"30","Canadore College","TAYLOR","BARBARA","President","$149,992.20","$537.48",2003,"Colleges"
+"31","Centennial College","FERREIRA","CAROLYN","Dean, Academic Initiative","$112,133.97","$211.30",2003,"Colleges"
+"32","Centennial College","FOX","SHEERAN","Professor","$103,772.37","$270.67",2003,"Colleges"
+"33","Centennial College","FROMOWITZ","LUCY","VP, Student Services","$140,596.48","$710.12",2003,"Colleges"
+"34","Centennial College","HAYES","JANICE","Executive Director, Bibliocentre","$103,805.34","$463.07",2003,"Colleges"
+"35","Centennial College","JACKSON","GARTH","Executive VP, Academic","$177,038.71","$732.38",2003,"Colleges"
+"36","Centennial College","JOHNSTON","RICHARD","President","$257,669.60","$656.38",2003,"Colleges"
+"37","Centennial College","KATZ","SARA","Dean, Access & Academic 
+       Studies","$103,003.14","$211.93",2003,"Colleges"
+"38","Centennial College","KHAN","MOHAMED","Professor","$106,607.95","$229.09",2003,"Colleges"
+"39","Centennial College","KENNY","RENEE","Dean, School of Applied Arts 
+       & H.S.","$105,389.79","$561.37",2003,"Colleges"
+"40","Centennial College","MIKHAIL","SAM","Dean, School of Engineering 
+       Technology","$103,935.68","$587.67",2003,"Colleges"
+"41","Centennial College","NGUYEN","LAN","VP, Innovation & IT Partnership","$158,095.42","$768.15",2003,"Colleges"
+"42","Centennial College","WATTS","LYNNE","VP, Administration","$148,195.70","$253.33",2003,"Colleges"
+"43","Collège Boréal","BÉLAND","DIANE","VP, R.H. et croissance organisat.","$104,842.48","$553.16",2003,"Colleges"
+"44","Collège Boréal","CHAMPAGNE","RENÉE","VP, Affaires collégiales 
+       et comm.","$104,295.99","$545.83",2003,"Colleges"
+"45","Collège Boréal","CHRÉTIEN","GISÈLE","Présidente","$183,626.58","$2,219.90",2003,"Colleges"
+"46","Collège Boréal","GUINDON","RAYMOND","VP, Investiss. et dével. 
+       stratégique","$138,837.09","$603.65",2003,"Colleges"
+"47","Collège Boréal","LAFLAMME","NICOLE","VP, Les Entreprises «Boréal»","$120,498.42","$1,114.90",2003,"Colleges"
+"48","Collège Boréal","ROMULUS","WESLEY","Vice-président, Centre-Sud-Ouest","$110,541.57","$1,895.80",2003,"Colleges"
+"49","Collège Boréal","SARTORETTO","TINA","VP, Excel. des prog./ srvcs 
+       d'appren.","$102,005.71","$167.46",2003,"Colleges"
+"50","Conestoga College","BURNS","DAVID","Vice President, Academic","$172,500.00","$1,049.12",2003,"Colleges"
+"51","Conestoga College","DAHLIN","ERIC","AVP Business Dev. & Applied 
+       Research","$121,955.04","$599.54",2003,"Colleges"
+"52","Conestoga College","DONALD","JOHN","Dean, 
+       Technology/ Information Sprt.","$108,171.46","$291.89",2003,"Colleges"
+"53","Conestoga College","GIBSON","RICHARD","Chief Information Officer","$121,000.04","$593.78",2003,"Colleges"
+"54","Conestoga College","HARRIS","FREDERICK","Exec. 
+       Dir., Strategic Proj. & Registrar","$105,744.26","$406.87",2003,"Colleges"
+"55","Conestoga College","JEFFREY","WILLIAM","AVP Health Sciences & 
+       Comm. Services","$120,999.99","$437.82",2003,"Colleges"
+"56","Conestoga College","MACINTYRE","RUTH","Professor","$107,568.45","$181.88",2003,"Colleges"
+"57","Conestoga College","MARSHALL","DEBRA","Executive Director, Human 
+       Resources","$100,298.02","$484.33",2003,"Colleges"
+"58","Conestoga College","MCCLEMENTS","MICHAEL","AVP Engineer. Sprt. IT & 
+       Trades & App.","$120,999.99","$437.82",2003,"Colleges"
+"59","Conestoga College","MCIVER","ROBERT","Dean, Liberal & Media 
+       Studies","$104,105.95","$522.30",2003,"Colleges"
+"60","Conestoga College","MULLAN","KEVIN","VP Finance & Student Services","$138,242.77","$677.17",2003,"Colleges"
+"61","Conestoga College","PUTT","DAVE","Director, Physical Resources","$103,779.52","$505.73",2003,"Colleges"
+"62","Conestoga College","TIBBITS","JOHN","President","$242,857.26","$20,858.83",2003,"Colleges"
+"63","Conestoga College","WADIA","JAL","Director, Strategic Projects","$120,650.03","$594.46",2003,"Colleges"
+"64","Confederation College","BERNOSKY","DON","Academic Director School of 
+       Engineering","$108,216.32","$535.29",2003,"Colleges"
+"65","Confederation College","HIGGINSON","GAIL","Vice President Academic & 
+       Student Srvcs","$133,407.83","$672.46",2003,"Colleges"
+"66","Confederation College","JONES","REG","Vice President Administrative 
+       Services","$138,350.54","$672.46",2003,"Colleges"
+"67","Confederation College","LANG","PATRICIA","President","$192,230.58","$5,854.44",2003,"Colleges"
+"68","Confederation College","LINDSAY","MARLENE","Academic Director School of 
+       Business","$102,813.41","$287.68",2003,"Colleges"
+"69","Confederation College","LOVISA","DON","Academic Dir., Sch. of Access 
+       & Literacy","$101,134.82","$391.84",2003,"Colleges"
+"70","Confederation College","MCCORMACK","G. IAN","VP, 
+       Communication Development","$108,619.31","$579.98",2003,"Colleges"
+"71","Confederation College","SMALL","BRENDA","Dean, Negahneewin College","$104,463.33","$171.94",2003,"Colleges"
+"72","Durham College","APRILE","RALPH","VP, Facilities & Ancillary 
+       Services","$115,869.92","$4,216.32",2003,"Colleges"
+"73","Durham College","BALENKO","BEV","Chief Operating Officer","$156,029.32","$5,185.83",2003,"Colleges"
+"74","Durham College","BARCLAY-PEREIRA","SUSAN","Dean, Campus Library","$113,246.52","$175.77",2003,"Colleges"
+"75","Durham College","BARRETT","JEANETTE","Dean, Career Dev. & Con. 
+       Education","$110,416.03","$163.80",2003,"Colleges"
+"76","Durham College","BUNKER","BRUCE","Director, Special Projects","$114,573.68","$170.73",2003,"Colleges"
+"77","Durham College","CAPUTO","TERRY","Director, Financial Services","$102,004.21","$1,324.94",2003,"Colleges"
+"78","Durham College","DEJEET","ALBERT","Director, School of Justice 
+       Studies","$105,000.00","$163.17",2003,"Colleges"
+"79","Durham College","DREA","CATHERINE","Project Mgr. & Director, 
+       Con. Education","$109,557.94","$461.94",2003,"Colleges"
+"80","Durham College","GREENLEY","MARGARET","VP, Student Career Services","$136,804.82","$5,594.04",2003,"Colleges"
+"81","Durham College","HARGEST","DONALD","VP, Finance & Admin. Services","$230,870.05","$5,530.20",2003,"Colleges"
+"82","Durham College","HOMER","JOAN","Exec. Director & CEO, 
+       ACAATO","$134,561.37","$209.37",2003,"Colleges"
+"83","Durham College","KAZMIRCHUK","SANDRA","Director, Operations","$110,996.41","$108.36",2003,"Colleges"
+"84","Durham College","KINKAID","DEBBIE","Acting VP, Finance & Adm. 
+       Srv.","$119,755.02","$131.46",2003,"Colleges"
+"85","Durham College","LEVIN","RICHARD","VP, Strategic Enrolment Management","$149,820.13","$6,103.45",2003,"Colleges"
+"86","Durham College","MACDONALD","ALEX","Director, Skilled Trades","$114,189.32","$146.58",2003,"Colleges"
+"87","Durham College","MORAN","OWEN","Director, Business & Ind. 
+       Dev. Services","$106,856.13","$158.13",2003,"Colleges"
+"88","Durham College","MORETTON","JUDITH","VP, Academic Excellence & 
+       Innovation","$129,493.74","$199.50",2003,"Colleges"
+"89","Durham College","NOSEWORTHY","JIM","Professor","$127,277.69","$178.80",2003,"Colleges"
+"90","Durham College","PINKNEY","GERRY","VP, Information Technology","$153,981.14","$5,634.15",2003,"Colleges"
+"91","Durham College","POLONSKY","GARY","President","$232,852.90","$11,339.99",2003,"Colleges"
+"92","Durham College","SAMULSKI","AMBROSE","Director, Integrated Mfg. 
+       Centre","$108,893.80","$160.65",2003,"Colleges"
+"93","Durham College","SCOTT","MARGARET","Dean, School of Applied Science 
+       & Sprt.","$110,322.27","$163.17",2003,"Colleges"
+"94","Durham College","SHELSTON","DENIS","Director, IT Services","$109,206.06","$130.20",2003,"Colleges"
+"95","Durham College","SINCLAIR","DON","VP, HR & Legal Services","$144,982.92","$8,518.77",2003,"Colleges"
+"96","Durham College","SLOBODIAN","TERRY","President, Durham College 
+       Foundation","$144,560.39","$6,047.91",2003,"Colleges"
+"97","Durham College","STEVENSON","ROSS","Executive Director, Strategic 
+       Projects","$136,911.32","$5,144.04",2003,"Colleges"
+"98","Durham College","WALLACE","DONALD","Director, Academic Planning","$119,232.94","$495.44",2003,"Colleges"
+"99","Durham College","WALTERS","ELIZABETH","Director, Admissions & 
+       Registration","$108,048.13","$168.21",2003,"Colleges"
+"100","Durham College","WEST-MOYNES","MARY LYNN","Chief Operating Officer","$192,727.36","$5,244.00",2003,"Colleges"
+"101","Durham College","WOOD","DIANA","Director, Information Systems","$104,657.92","$150.57",2003,"Colleges"
+"102","Durham College","WOODWARD","JOHN","Principal, Skills Training 
+       Centre","$112,316.78","$172.41",2003,"Colleges"
+"103","Fanshawe College","ANDRUSIAK","STEVE","Dean","$100,489.28","$448.07",2003,"Colleges"
+"104","Fanshawe College","AUGER","CATHIE","VP, Student and Staff Services","$123,831.01","$213.85",2003,"Colleges"
+"105","Fanshawe College","BAKKER","HARRY","Director, Facilities Management","$102,728.49","$485.77",2003,"Colleges"
+"106","Fanshawe College","BALLANTYNE","LINDA","Director, Human Resources","$107,634.57","$285.12",2003,"Colleges"
+"107","Fanshawe College","BEATTY","BOB","Chief Information Officer","$109,701.50","$599.30",2003,"Colleges"
+"108","Fanshawe College","BOYD","TERRANCE","Dean","$100,824.04","$516.16",2003,"Colleges"
+"109","Fanshawe College","BRULE","ALBERT","VP, Development and Partnerships","$111,980.25","$349.45",2003,"Colleges"
+"110","Fanshawe College","BUSS","JEANINE","Registrar","$108,966.84","$283.98",2003,"Colleges"
+"111","Fanshawe College","CAMERON","RODNEY","Dean","$103,128.28","$516.16",2003,"Colleges"
+"112","Fanshawe College","HANWELL","MICHAEL","Dean","$100,824.04","$516.16",2003,"Colleges"
+"113","Fanshawe College","HULL","BERNICE","VP, Planning and Administrative 
+       Services","$131,361.30","$470.29",2003,"Colleges"
+"114","Fanshawe College","MCEACHNIE","ROBERT","Professor","$107,717.66","$188.36",2003,"Colleges"
+"115","Fanshawe College","PICKARD","THOMAS","Prinicpal","$100,824.04","$559.49",2003,"Colleges"
+"116","Fanshawe College","PORTER","SCOTT","VP, Finance and Corporate 
+       Services","$123,743.03","$334.38",2003,"Colleges"
+"117","Fanshawe College","RUNDLE","HOWARD","President","$194,088.79","$882.14",2003,"Colleges"
+"118","Fanshawe College","WARKENTIN","JOY","Senior VP, Academic Services","$134,069.29","$540.84",2003,"Colleges"
+"119","Fanshawe College","WORRALL","GORDON","Manager, Information System 
+       Services","$100,963.28","$261.92",2003,"Colleges"
+"120","Fanshawe College","ZAJC","CARL","Dean","$103,128.28","$401.03",2003,"Colleges"
+"121","George Brown College","AMER","BASHAR","Director, Facilities Management","$103,011.89","$500.43",2003,"Colleges"
+"122","George Brown College","COOKE","MICHAEL","VP, Academic Excell. & 
+       Student Success","$150,949.26","$660.59",2003,"Colleges"
+"123","George Brown College","EDWARDS","MARY","Professor, Health Sciences-Nursing","$112,151.23","$181.88",2003,"Colleges"
+"124","George Brown College","FERRARA","LUIGI","Director, Graphics Communications","$101,630.22","$374.27",2003,"Colleges"
+"125","George Brown College","HARRIGAN","EUGENE","VP, Corporate Services","$138,158.19","$601.56",2003,"Colleges"
+"126","George Brown College","HEBERT","YVES","Chief Information Officer","$131,488.67","$180.18",2003,"Colleges"
+"127","George Brown College","HEMMERLING","BARRY","Registrar","$105,742.13","$508.86",2003,"Colleges"
+"128","George Brown College","HO","CHEE K.","Controller","$107,738.49","$204.40",2003,"Colleges"
+"129","George Brown College","HOOD","NANCY","Executive Director,Human Resources","$125,969.28","$541.71",2003,"Colleges"
+"130","George Brown College","JESIN","EVIE","Prof., International School 
+       of Denturism","$101,393.84","$181.88",2003,"Colleges"
+"131","George Brown College","MCKINNON","JOY","Dean, Faculty of Technology","$124,445.68","$545.56",2003,"Colleges"
+"132","George Brown College","POIZNER","SAMUEL","Technology 
+       Consultant/ Prof., Sprt.","$103,898.56","$0.00",2003,"Colleges"
+"133","George Brown College","ROY","SALLY","Associate Director, Governance","$127,606.73","$456.65",2003,"Colleges"
+"134","George Brown College","ROYL","PAMELA","VP, Strategic Enrollment Management","$130,640.32","$179.19",2003,"Colleges"
+"135","George Brown College","SHEKTER-WOLFSON","LORIE","Dean,Community Services","$125,461.36","$538.63",2003,"Colleges"
+"136","George Brown College","SIMPSON","COLIN","Dean, Centre for Continuous 
+       Learning","$113,795.57","$159.30",2003,"Colleges"
+"137","George Brown College","SOROCHINSKY","FRANK S.","President","$202,240.39","$6,203.73",2003,"Colleges"
+"138","George Brown College","SOROCHINSKY","JANE","Associate Director, Governance","$105,270.15","$89.76",2003,"Colleges"
+"139","George Brown College","STYLIANOS","SUSAN","Executive Director, Student 
+       Affairs","$107,470.67","$102.60",2003,"Colleges"
+"140","George Brown College","SULOWSKA","MARIA T.","Prof., 
+       Lan. Stud./ Acc. Ctr. for Excell.","$105,328.63","$181.88",2003,"Colleges"
+"141","George Brown College","WALKER","JOHN","Dean, Hospitality and Tourism","$123,900.31","$412.01",2003,"Colleges"
+"142","George Brown College","WALSH-LOWETH","MAUREEN","Dean, Business & Creative 
+       Arts","$128,395.74","$568.35",2003,"Colleges"
+"143","Georgian College","BEAUDOIN","MICHELE","VP, 
+       Information Srvcs/ Education Res.","$132,251.06","$195.28",2003,"Colleges"
+"144","Georgian College","BOBBETTE","JOHN","VP Student & International 
+       Services","$118,922.40","$178.64",2003,"Colleges"
+"145","Georgian College","FIFIELD","MARYANN","Dean, Aboriginal Studies & 
+       Liberal Arts","$100,118.06","$551.20",2003,"Colleges"
+"146","Georgian College","GORDON","WILLIAM","Associate VP University Affairs","$105,994.57","$441.26",2003,"Colleges"
+"147","Georgian College","KENNEDY","BOB","VP Marketing, Alumni & 
+       Gov't. Relations","$105,994.58","$578.42",2003,"Colleges"
+"148","Georgian College","LANDER","BRANDON","VP Administration & Human 
+       Resources","$139,509.58","$714.30",2003,"Colleges"
+"149","Georgian College","MARSHALL","BARBARA","Dean, Business Programs","$103,414.81","$163.92",2003,"Colleges"
+"150","Georgian College","SIMPSON","CHERYL","VP, Academic","$137,856.20","$376.42",2003,"Colleges"
+"151","Georgian College","TAMBLYN","BRIAN","President","$202,453.86","$2,058.72",2003,"Colleges"
+"152","Georgian College","THOMPSON","CASSANDRA","Dean, Health Services","$100,118.04","$681.56",2003,"Colleges"
+"153","Humber College","ABDULLAH","MUTHANA","Professor","$102,453.29","$92.18",2003,"Colleges"
+"154","Humber College","ALCOCK","DAVID","Associate Dean","$101,971.35","$425.90",2003,"Colleges"
+"155","Humber College","BENDER","ANNE","Assoc. Vice President, Quality 
+       Assurance","$122,170.77","$635.70",2003,"Colleges"
+"156","Humber College","BARDSWICH","LOUISE","Dean, School of Information 
+       Technology","$102,242.63","$555.45",2003,"Colleges"
+"157","Humber College","BARRETT","KEITH","Professor","$104,924.76","$182.00",2003,"Colleges"
+"158","Humber College","BRIDGEFORD","BRUCE","Director, Capital Development","$107,329.86","$432.53",2003,"Colleges"
+"159","Humber College","CARTER","BLAIR","Associate Dean ECE","$102,146.40","$533.22",2003,"Colleges"
+"160","Humber College","DAVIES","JOHN","Vice President Administration","$142,793.06","$775.32",2003,"Colleges"
+"161","Humber College","EMBREE","FREDERICK","Dean, Planning and Development","$111,185.09","$603.94",2003,"Colleges"
+"162","Humber College","GATAVECKAS","KRIS","Vice President, Business Development","$144,058.92","$238.70",2003,"Colleges"
+"163","Humber College","GORDON","ROBERT","President","$240,818.66","$9,408.86",2003,"Colleges"
+"164","Humber College","HANFT","PAMELA","Associate VP, Professional 
+       Development","$120,207.50","$685.31",2003,"Colleges"
+"165","Humber College","HANNA","WILLIAM","Dean, School of Media","$113,565.47","$187.73",2003,"Colleges"
+"166","Humber College","HATTON","MICHAEL","Assoc. Vice President, Strategic 
+       Growth","$142,319.59","$589.59",2003,"Colleges"
+"167","Humber College","KERTES","JOSEPH","Dean, 
+       Sch. of Creative/ Perform. Arts","$102,186.41","$554.85",2003,"Colleges"
+"168","Humber College","MASON","JOHN","Director, Customer Relations","$110,213.53","$598.02",2003,"Colleges"
+"169","Humber College","MCCARTHY","DEB","Director, Human Resources","$103,737.93","$563.10",2003,"Colleges"
+"170","Humber College","MILLER","JANIS","Dean, Corporate & Continuing 
+       Education","$109,190.01","$181.93",2003,"Colleges"
+"171","Humber College","MOULTON","ROBERT","Dean, School Of Applied Technology","$110,539.12","$600.82",2003,"Colleges"
+"172","Humber College","NEMI","JOSEPH","Professor","$118,320.36","$240.70",2003,"Colleges"
+"173","Humber College","SMITH","IAN","Dean SSCS / Principal Lakeshore","$102,308.09","$555.85",2003,"Colleges"
+"174","Humber College","SUTTON","JOHN","Director, Financial Services 
+       & Planning","$124,138.75","$592.90",2003,"Colleges"
+"175","Humber College","WRIGHT","WILLIAM","Professor","$113,074.74","$245.14",2003,"Colleges"
+"176","La Cité collégiale","ASSAD-BUTCHER","LINDA","Directrice","$102,778.30","$167.40",2003,"Colleges"
+"177","La Cité collégiale","BERGERON","CLAUDE","Vice-président","$136,172.11","$685.50",2003,"Colleges"
+"178","La Cité collégiale","BROUSSEAU","SERGE","Directeur","$104,999.96","$586.12",2003,"Colleges"
+"179","La Cité collégiale","CHEVALIER","DIANE","Directrice","$104,598.98","$546.07",2003,"Colleges"
+"180","La Cité collégiale","COSSETTE","DENIS","Vice-président","$110,331.19","$581.40",2003,"Colleges"
+"181","La Cité collégiale","HUBERT","DENIS","Vice-président","$131,324.53","$530.68",2003,"Colleges"
+"182","La Cité collégiale","LORTIE","ANDRÉE","Présidente","$177,363.86","$1,493.96",2003,"Colleges"
+"183","La Cité collégiale","MALTAIS","MARIE","Directrice exécutive","$111,170.20","$614.79",2003,"Colleges"
+"184","La Cité collégiale","MUTCHMORE","JACINTHE","Directrice","$102,499.05","$510.66",2003,"Colleges"
+"185","Lambton College","DRAGAN","MARGARET","VP, Finance & Administration","$106,338.80","$175.26",2003,"Colleges"
+"186","Lambton College","HANLON","TONY","President","$164,282.26","$640.50",2003,"Colleges"
+"187","Lambton College","MORRIS","JUDITH","VP, Academic & Student 
+       Success","$105,664.06","$532.76",2003,"Colleges"
+"188","Loyalist College","AULD","DOUGLAS","President","$189,360.66","$9,682.49",2003,"Colleges"
+"189","Loyalist College","BUTLER","DAVID","Vice President Staff & 
+       Student Services","$109,679.66","$604.56",2003,"Colleges"
+"190","Loyalist College","HOLLAND","DANIEL","Dean, Business & Applied 
+       Arts","$106,098.84","$600.96",2003,"Colleges"
+"191","Loyalist College","PIERCY","MAUREEN","Vice President Academic","$113,522.34","$617.03",2003,"Colleges"
+"192","Loyalist College","REID","TED","Dean, Corporate Training, 
+       CE & Skills","$108,379.46","$560.51",2003,"Colleges"
+"193","Loyalist College","RIGSBY","JOHN","Vice President Finance & 
+       Corporate Srvcs","$113,376.53","$614.78",2003,"Colleges"
+"194","Loyalist College","SIURNA","BETH","Professor","$105,659.12","$188.59",2003,"Colleges"
+"195","Mohawk College","BOCKNER","LOUISE","Dean, Faculty of Bus. & 
+       Intern'l Educ.","$107,181.59","$166.53",2003,"Colleges"
+"196","Mohawk College","GILL","SHELAGH","VP, Academic","$133,916.06","$280.46",2003,"Colleges"
+"197","Mohawk College","GRAY","CAROLYN","VP, Student & Community 
+       Service","$113,554.55","$180.72",2003,"Colleges"
+"198","Mohawk College","HADDAD","CAL","President","$236,429.00","$244.54",2003,"Colleges"
+"199","Mohawk College","JENSEN","CHERYL","Dean, Faculty of Engineering 
+       Technology","$107,154.79","$161.19",2003,"Colleges"
+"200","Mohawk College","KNECHTEL","ROSEMARY","Dean, Health Science & 
+       Human Service","$107,181.59","$166.53",2003,"Colleges"
+"201","Mohawk College","PATCH","RANSOM","Director, Information Technology","$102,307.76","$163.83",2003,"Colleges"
+"202","Mohawk College","RAHA","DICK","VP, Finance & Administration","$131,945.71","$206.19",2003,"Colleges"
+"203","Mohawk College","SINGH","ISHWAR","Chair, Electrotechnology","$107,879.35","$141.00",2003,"Colleges"
+"204","Niagara College of Applied 
+       Arts & Sprt.","CASSON","MARTHA","VP, Enterprise & Student 
+       Services","$149,012.58","$673.01",2003,"Colleges"
+"205","Niagara College of Applied 
+       Arts & Sprt.","CHARTRAND","NEIL","Director, Business & Entrepreneurship","$101,005.98","$154.60",2003,"Colleges"
+"206","Niagara College of Applied 
+       Arts & Sprt.","CUNNINGHAM","DONNA","Director, Health & Community","$107,473.15","$544.18",2003,"Colleges"
+"207","Niagara College of Applied 
+       Arts & Sprt.","GARNER","JAMES","Director, Human Resources","$106,918.00","$532.71",2003,"Colleges"
+"208","Niagara College of Applied 
+       Arts & Sprt.","HUDSON","STEVEN","Vice President, Corporate 
+       Services","$146,710.30","$673.01",2003,"Colleges"
+"209","Niagara College of Applied 
+       Arts & Sprt.","PATTERSON","DANIEL","President","$190,214.08","$1,975.90",2003,"Colleges"
+"210","Niagara College of Applied 
+       Arts & Sprt.","QUINLIN","TERESA","Director, Financial Services","$104,671.90","$474.36",2003,"Colleges"
+"211","Niagara College of Applied 
+       Arts & Sprt.","SHARPE","BARRY","Assoc. Vice President, Academic","$112,954.96","$544.18",2003,"Colleges"
+"212","Niagara College of Applied 
+       Arts & Sprt.","TAYLOR","DAVID","Dean, MMC For Hosp & Tour","$109,428.60","$544.18",2003,"Colleges"
+"213","Niagara College of Applied 
+       Arts & Sprt.","TIBERI","ARGILIO","Dean, Communcations & 
+       Information Sprt.","$102,036.71","$532.67",2003,"Colleges"
+"214","Northern College","GIBBONS","FRED","Acting President","$112,707.09","$544.80",2003,"Colleges"
+"215","Northern College","HART","CATHY","Regional Director North","$111,020.00","$314.88",2003,"Colleges"
+"216","Northern College","HILL","MICHAEL","President","$150,653.83","$719.40",2003,"Colleges"
+"217","Northern College","MACLEAN","PETER","Regional Director South","$105,257.61","$553.68",2003,"Colleges"
+"218","Sault College","LIEDKE","MAX S.","Chief Information Officer","$114,349.05","$147.70",2003,"Colleges"
+"219","Sault College","LUCCHETTI","JOE","Professor","$107,030.68","$154.64",2003,"Colleges"
+"220","Sault College","MEYER","TIMOTHY","President","$136,145.88","$46.98",2003,"Colleges"
+"221","Sault College","ZABUDSKY","JEFFREY D.","Vice President, Academic","$112,003.16","$40.32",2003,"Colleges"
+"222","Seneca College","BRATHWAITE","HAROLD","Senior Advisor to the President","$135,066.14","$7,200.00",2003,"Colleges"
+"223","Seneca College","BURNS","EILEEN D.","College Registrar","$107,341.98","$496.08",2003,"Colleges"
+"224","Seneca College","CARTER","VICTORIA","Director, Student Services","$105,470.98","$496.08",2003,"Colleges"
+"225","Seneca College","CHARRON","ANDRE","Project Manager","$117,008.85","$0.00",2003,"Colleges"
+"226","Seneca College","COURTIS","SHIRLENE","Vice President Resource Development","$141,428.48","$7,862.08",2003,"Colleges"
+"227","Seneca College","CURRIE","RONALD G.","Vice President Finance & 
+       Administration","$128,700.63","$7,809.68",2003,"Colleges"
+"228","Seneca College","DEY","MAUREEN","Dean, Faculty of Business, 
+       Arts & Comm.","$115,305.63","$285.80",2003,"Colleges"
+"229","Seneca College","FALCONER","CORRINE","Chair, School of Marketing 
+       & e-Business","$109,210.68","$139.44",2003,"Colleges"
+"230","Seneca College","FOSTER","PATSY","Director, College Services","$105,470.98","$151.84",2003,"Colleges"
+"231","Seneca College","FREEMAN","VALERIE","Acting 
+       Dean, Fac., Info. Arts & Sprt.","$102,384.63","$466.94",2003,"Colleges"
+"232","Seneca College","HAZELL","CINDY","Vice President Academic","$141,799.10","$7,400.16",2003,"Colleges"
+"233","Seneca College","JANZEN","KATHARINE","Associate VP, Research & 
+       Innovation","$116,987.89","$415.08",2003,"Colleges"
+"234","Seneca College","LIMKILDE","JUDITH","Dean, 
+       Fac. of Applied Arts & Hlth. Sci.","$116,019.63","$541.08",2003,"Colleges"
+"235","Seneca College","MINER","FREDERICK C.","President","$224,515.89","$5,288.84",2003,"Colleges"
+"236","Seneca College","NORRISON","WAYNE","VP, Student Services & 
+       Intl. Dev.","$143,891.28","$7,867.60",2003,"Colleges"
+"237","Seneca College","PIERCY","JOCELYN","Co-Dean, Faculty of Technology","$107,110.14","$158.32",2003,"Colleges"
+"238","Seneca College","PITT","NIRMALA","Vice President Human Resources","$127,549.63","$7,809.68",2003,"Colleges"
+"239","Seneca College","SCHOLLEN","LAUREL","Dean, Faculty of Applied Sc. 
+       & Eng. Tech","$112,001.39","$283.34",2003,"Colleges"
+"240","Seneca College","TALESNICK","STAN A.","Dean, Faculty of Continuing 
+       Ed.&Training","$116,019.63","$541.08",2003,"Colleges"
+"241","Seneca College","VALLANCE","SUSIE","Dir., Centre for Equity & 
+       Human Rights","$108,276.98","$266.72",2003,"Colleges"
+"242","Seneca College","VERITY","TERRENCE B.","Chief Information Officer","$126,666.81","$7,796.40",2003,"Colleges"
+"243","Seneca College","ZIMMERMAN","SUSAN","Dean, 
+       Fac., Bus. Mgmt & Admin. Studies","$103,838.24","$487.86",2003,"Colleges"
+"244","Sheridan Institute","CALLAHAN","MAUREEN","Vice-President, Academic","$129,079.62","$9,105.39",2003,"Colleges"
+"245","Sheridan Institute","CLOSSON","GARY","Chair, Committee of Deans","$104,325.96","$2,166.43",2003,"Colleges"
+"246","Sheridan Institute","COLLINS","MICHAEL","Dean, School of Animation, 
+       Arts & Design","$104,675.26","$2,519.24",2003,"Colleges"
+"247","Sheridan Institute","DALJIT","KARAM","Vice President and CFO","$129,079.62","$9,105.39",2003,"Colleges"
+"248","Sheridan Institute","HARVEY","BLAINE","Dean, 
+       Sch. of Cont/ Educ./ Corp. Trng","$104,675.26","$2,396.51",2003,"Colleges"
+"249","Sheridan Institute","HOLGERSON","RONALD","Exec. Dir., Marketing & 
+       Communications","$122,755.47","$8,334.07",2003,"Colleges"
+"250","Sheridan Institute","KATZMAN","AVRIM","Professor","$102,541.53","$99.63",2003,"Colleges"
+"251","Sheridan Institute","LOVE","LINDA","Dean, Sch. of Community & 
+       Liberal Stud.","$104,675.26","$2,273.79",2003,"Colleges"
+"252","Sheridan Institute","MARLEY","IAN","Vice President, IT & Student 
+       Services","$119,566.32","$3,446.54",2003,"Colleges"
+"253","Sheridan Institute","MERCER","GERARD","Dean, School of Business","$108,914.27","$2,536.98",2003,"Colleges"
+"254","Sheridan Institute","MISHKEL","IAN","Vice President, Business Development","$145,775.47","$6,743.47",2003,"Colleges"
+"255","Sheridan Institute","QUESNELLE","DAVID","Professor","$106,005.55","$181.88",2003,"Colleges"
+"256","Sheridan Institute","TILL","ROB","Director, Student Affairs","$104,941.30","$2,525.82",2003,"Colleges"
+"257","Sheridan Institute","TURNER","ROBERT","President, and CEO","$195,316.72","$18,064.94",2003,"Colleges"
+"258","Sheridan Institute","WATSON","LYNNE","Associate Dean, Business","$101,040.18","$2,135.30",2003,"Colleges"
+"259","Sir Sandford Fleming College","ANGEL","JAMES","Chief Information Officer","$113,580.82","$1,137.35",2003,"Colleges"
+"260","Sir Sandford Fleming College","BLACKER-THOMSON","PATRICIA","Director, Budget Services","$102,320.63","$511.00",2003,"Colleges"
+"261","Sir Sandford Fleming College","BRITTAIN","MARY","VP, Human & Organizational 
+       Development","$120,969.29","$680.92",2003,"Colleges"
+"262","Sir Sandford Fleming College","CAMERON","BARBARA","Vice-President, Finance & 
+       Facilities","$136,519.86","$513.70",2003,"Colleges"
+"263","Sir Sandford Fleming College","COUGHLIN","JANICE","Director, College Facilities","$103,811.76","$384.52",2003,"Colleges"
+"264","Sir Sandford Fleming College","DESBIENS","BRIAN","President","$196,470.70","$790.28",2003,"Colleges"
+"265","Sir Sandford Fleming College","DONOVAN","RACHAEL","Vice-President, Academic","$128,521.36","$200.50",2003,"Colleges"
+"266","Sir Sandford Fleming College","LAWRENCE","SANDRA","Director, Purchasing","$102,069.19","$363.09",2003,"Colleges"
+"267","Sir Sandford Fleming College","MADDER","DOUGLAS J.","Principal, Frost Campus","$100,552.29","$182.00",2003,"Colleges"
+"268","Sir Sandford Fleming College","MOLDAVER","DIANE","Director, Fleming Training 
+       Services","$109,400.06","$163.80",2003,"Colleges"
+"269","Sir Sandford Fleming College","ROCHETTA","PAUL","Exec. Dir., Student Services 
+       & Registrar","$113,190.55","$542.97",2003,"Colleges"
+"270","Sir Sandford Fleming College","SJOLIN","KAREN","Exec. Dir., Learning Resrcs 
+       / Sprt Srvcs","$109,526.76","$215.97",2003,"Colleges"
+"271","Sir Sandford Fleming College","SMITH","PAUL","VP, Strategic Enrolment Management","$119,916.40","$595.22",2003,"Colleges"
+"272","St. Clair College","DOCHERTY","W. GARY","Vice President, Academic","$148,416.33","$604.03",2003,"Colleges"
+"273","St. Clair College","LOGAN","LYNN","VP, Finance & Corporate 
+       Services","$112,530.67","$453.15",2003,"Colleges"
+"274","St. Clair College","STRASSER","JOHN","President","$185,801.76","$1,387.11",2003,"Colleges"
+"275","St. Clair College","VOURAKES","MICHAEL","VP, Innovation & Business 
+       Development","$105,634.50","$551.88",2003,"Colleges"
+"276","St. Lawrence College","CARTER","LORRAINE","Executive Director, Brockville 
+       Campus","$106,049.01","$1,127.99",2003,"Colleges"
+"277","St. Lawrence College","CRONIN","ARLENE","Dean, Academic Policy & 
+       Development","$100,793.93","$867.03",2003,"Colleges"
+"278","St. Lawrence College","FINUCAN","PATRICK","Executive Director, Cornwall 
+       Campus","$105,786.68","$909.90",2003,"Colleges"
+"279","St. Lawrence College","GRANGER","SALLY","Dean, 
+       Sch. of Human Stud./ App. Arts","$100,151.19","$975.00",2003,"Colleges"
+"280","St. Lawrence College","MACDOUGALL","GORDON","VP, Education & Information 
+       Technologies","$100,852.54","$927.83",2003,"Colleges"
+"281","St. Lawrence College","MACKEY","BLAYNE","Executive Director, Physical 
+       Resources","$105,606.72","$792.87",2003,"Colleges"
+"282","St. Lawrence College","SMITH","MARGARET","Dean, School of Health Sciences","$100,988.99","$869.91",2003,"Colleges"
+"283","St. Lawrence College","THOMSEN","VOLKER","President","$179,833.27","$16,512.59",2003,"Colleges"
+"284","St. Lawrence College","VOLLEBREGT","GLENN","Sr. VP, Advancement & 
+       Corporate Services","$129,580.67","$1,108.42",2003,"Colleges"
+"285","St. Lawrence College","WHITAKER","CHRIS","Executive Director & VP, 
+       Academic","$107,038.41","$952.91",2003,"Colleges"

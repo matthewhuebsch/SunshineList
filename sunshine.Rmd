@@ -148,7 +148,7 @@ ggplotly(city_vs_salary_plot)
 
 # By year - Universities
 ```{r}
-years = seq(2009, 2015, by=1)
+years = seq(2001, 2015, by=1)
 if(F){
   data_list = list()
   for (i in 1:length(years)){

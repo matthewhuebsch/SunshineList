@@ -1,0 +1,2345 @@
+"","X","Employer","Last.name","First.name","Job.title","Salary.Paid","Taxable.Benefits","Calendar.Year","Sector"
+"1",1,"Almonte General Hospital","TIMMONS","RAY","Executive Director","$145,000.00","$0.00",2002,"Hospitals"
+"2",2,"Arprior and District
+   Memorial Hospital","KEDROSKY","RONALD","Executive Director","$112,758.89","$786.05",2002,"Hospitals"
+"3",3,"Atikokan General","ISFAN","KELLY","CEO","$102,926.96","$616.02",2002,"Hospitals"
+"4",4,"Baycrest Centre for
+   Geriatric Care","ADIE","CLARE","Vice President, Professional Services","$176,553.67","$1,635.58",2002,"Hospitals"
+"5",5,"Baycrest Centre for
+   Geriatric Care","CAMPOS","CATHY","Director, Finance","$102,250.15","$502.50",2002,"Hospitals"
+"6",6,"Baycrest Centre for
+   Geriatric Care","CATTON","KATHRYN","Director, Nursing","$101,994.16","$501.24",2002,"Hospitals"
+"7",7,"Baycrest Centre for
+   Geriatric Care","CATZ","MARIANA","Chief Information Officer","$104,222.74","$368.64",2002,"Hospitals"
+"8",8,"Baycrest Centre for
+   Geriatric Care","GORDON","IOLEEN","Registered Nurse","$101,765.91","$0.00",2002,"Hospitals"
+"9",9,"Baycrest Centre for
+   Geriatric Care","GORDON","MICHAEL","Vice President, Medical Administration","$152,330.16","$2,094.84",2002,"Hospitals"
+"10",10,"Baycrest Centre for
+   Geriatric Care","HARRISON","LAURIE","Vice President, Finance & Administration","$227,215.76","$1,856.04",2002,"Hospitals"
+"11",11,"Baycrest Centre for
+   Geriatric Care","HERBERT","STEPHEN","President and CEO","$338,934.12","$20,094.36",2002,"Hospitals"
+"12",12,"Baycrest Centre for
+   Geriatric Care","LAMBERT","VICTOR","VP, Information & Support Service","$194,915.25","$1,638.58",2002,"Hospitals"
+"13",13,"Baycrest Centre for
+   Geriatric Care","MACADAM","MARGARET","Vice President, Social Services","$201,645.29","$1,724.58",2002,"Hospitals"
+"14",14,"Baycrest Centre for
+   Geriatric Care","MARZIALI","ELSA","Scientist","$109,667.03","$0.00",2002,"Hospitals"
+"15",15,"Baycrest Centre for
+   Geriatric Care","MAYBERG","HELEN","Scientist","$125,999.82","$623.76",2002,"Hospitals"
+"16",16,"Baycrest Centre for
+   Geriatric Care","PANTEV","CHRISTO","Scientist","$116,106.08","$10.50",2002,"Hospitals"
+"17",17,"Baycrest Centre for
+   Geriatric Care","PESCE","ANGELO","Vice President, Human Resources","$172,218.73","$1,497.82",2002,"Hospitals"
+"18",18,"Baycrest Centre for
+   Geriatric Care","PICTON","TERENCE","Scientist","$139,018.88","$688.20",2002,"Hospitals"
+"19",19,"Baycrest Centre for
+   Geriatric Care","PROULX","GUY","Director, Psychology","$122,700.02","$602.76",2002,"Hospitals"
+"20",20,"Baycrest Centre for
+   Geriatric Care","RICHARDS","JOY","Vice President, Nursing","$156,250.02","$1,431.88",2002,"Hospitals"
+"21",21,"Baycrest Centre for
+   Geriatric Care","STREINER","DAVID","Dir., Kunin-Lunen Applied Research Unit","$139,049.83","$5,688.26",2002,"Hospitals"
+"22",22,"Baycrest Centre for
+   Geriatric Care","STUSS","DONALD","VP, Research","$240,616.36","$8,337.48",2002,"Hospitals"
+"23",23,"Baycrest Centre for
+   Geriatric Care","WEBB","NANCY","Chief Public Affairs Officer","$123,639.11","$48.79",2002,"Hospitals"
+"24",24,"Bloorview MacMillan
+   Children's Ctr.","CURTIS","ROSALIND","Physician","$117,350.21","$258.04",2002,"Hospitals"
+"25",25,"Bloorview MacMillan
+   Children's Ctr.","DITTY","SHELLEY","Chief Planning Officer","$108,456.03","$570.82",2002,"Hospitals"
+"26",26,"Bloorview MacMillan
+   Children's Ctr.","FEHLINGS","DARCY","Physician Director","$131,065.64","$732.56",2002,"Hospitals"
+"27",27,"Bloorview MacMillan
+   Children's Ctr.","FERGUSON","JOAN","VP, Programs and Services","$159,533.59","$859.67",2002,"Hospitals"
+"28",28,"Bloorview MacMillan
+   Children's Ctr.","HYLAND","SHARON","VP, Human Resources","$120,823.31","$634.18",2002,"Hospitals"
+"29",29,"Bloorview MacMillan
+   Children's Ctr.","JARVIS","SHEILA","President and CEO","$277,844.31","$11,028.82",2002,"Hospitals"
+"30",30,"Bloorview MacMillan
+   Children's Ctr.","MILO-MANSON","GOLDA","Chief of Medical Staff","$199,319.71","$6,126.21",2002,"Hospitals"
+"31",31,"Bloorview MacMillan
+   Children's Ctr.","NAUMAN","STEPHEN","Director, Rehab Engineer.","$108,490.66","$616.30",2002,"Hospitals"
+"32",32,"Bloorview MacMillan
+   Children's Ctr.","RUMNEY","PETER","Physician Director","$157,585.64","$893.60",2002,"Hospitals"
+"33",33,"Bloorview MacMillan
+   Children's Ctr.","SYBRING","BEN","VP, Corporate Services","$147,441.00","$733.59",2002,"Hospitals"
+"34",34,"Brant Community
+   Healthcare System","BAHRA","DR. PARMINDER","ER Physician","$193,437.10","$0.00",2002,"Hospitals"
+"35",35,"Brant Community
+   Healthcare System","BULLER","JOSEPH","VP, Human Resources","$118,112.84","$560.22",2002,"Hospitals"
+"36",36,"Brant Community
+   Healthcare System","COLBORNE","DR. BRIAN","ER Physician","$106,438.33","$0.00",2002,"Hospitals"
+"37",37,"Brant Community
+   Healthcare System","DENEW","DR. PAUL","Physician, Mental Health","$140,057.40","$0.00",2002,"Hospitals"
+"38",38,"Brant Community
+   Healthcare System","EIVERS","CHRIS","VP, Corporate Services","$118,112.82","$560.22",2002,"Hospitals"
+"39",39,"Brant Community
+   Healthcare System","GREGOIRE","DR. LUCIE","ER Physician","$190,086.18","$0.00",2002,"Hospitals"
+"40",40,"Brant Community
+   Healthcare System","IRVINE","DR. ERIC","ER Physician","$198,584.50","$0.00",2002,"Hospitals"
+"41",41,"Brant Community
+   Healthcare System","JARRELL","DR. EUGENE","ER Physician","$268,137.23","$0.00",2002,"Hospitals"
+"42",42,"Brant Community
+   Healthcare System","JOCIC","DR. ANNA","ER Physician","$145,832.71","$0.00",2002,"Hospitals"
+"43",43,"Brant Community
+   Healthcare System","MACINTYRE","DR. JOHN","ER Physician","$100,481.99","$0.00",2002,"Hospitals"
+"44",44,"Brant Community
+   Healthcare System","STEWART","MARY","Vice President, Clinical Services","$117,064.29","$560.22",2002,"Hospitals"
+"45",45,"Brant Community
+   Healthcare System","SUSZEK","DR. JEFF","ER Physician","$192,433.40","$0.00",2002,"Hospitals"
+"46",46,"Brant Community
+   Healthcare System","THOMPSON","DR. ELIZABETH","ER Physician","$188,133.61","$0.00",2002,"Hospitals"
+"47",47,"Brant Community
+   Healthcare System","WOODCOCK","RICHARD","President and CEO","$182,554.49","$9,843.44",2002,"Hospitals"
+"48",48,"Bridgepoint Hospital","CHIEN","VINCENT","Medical Advisor for Program Development","$166,856.41","$644.58",2002,"Hospitals"
+"49",49,"Bridgepoint Hospital","D'ANDREA","STAV","Director, Human Resources","$101,721.02","$413.05",2002,"Hospitals"
+"50",50,"Bridgepoint Hospital","FLANNERY","JOHN","VP Org Development & Innovation","$149,960.49","$389.75",2002,"Hospitals"
+"51",51,"Bridgepoint Hospital","HILL","DAN","VP, Corporate and Financial Services","$176,652.67","$537.68",2002,"Hospitals"
+"52",52,"Bridgepoint Hospital","MACMURRAY","KIM","Director, Corporate Communications","$101,675.04","$371.86",2002,"Hospitals"
+"53",53,"Bridgepoint Hospital","MALKIN","MENDL","Chief of Staff","$138,133.23","$0.00",2002,"Hospitals"
+"54",54,"Bridgepoint Hospital","MULLIN","SUSAN","Executive Director, Foundation","$123,713.86","$430.78",2002,"Hospitals"
+"55",55,"Bridgepoint Hospital","SCOTT","JANET","Director, Finance","$106,722.15","$413.05",2002,"Hospitals"
+"56",56,"Bridgepoint Hospital","SINCLAIR","IAN","VP, Admin and Planning","$119,030.06","$5,256.50",2002,"Hospitals"
+"57",57,"Bridgepoint Hospital","TATTLE","STEPHEN","VP, Programs & Nursing","$166,652.09","$537.68",2002,"Hospitals"
+"58",58,"Bridgepoint Hospital","WALSH","GAYE","VP, Programs & Allied Health","$166,652.10","$537.68",2002,"Hospitals"
+"59",59,"Bridgepoint Hospital","WALSH","MARIAN","President & CEO","$334,592.24","$1,118.15",2002,"Hospitals"
+"60",60,"Brockville General
+   Hospital","BRYANT","DONALD","Vice President, Finance and Operations","$101,841.52","$758.25",2002,"Hospitals"
+"61",61,"Brockville General
+   Hospital","MARSHALL","RAYMOND","President and CEO","$143,652.78","$4,166.27",2002,"Hospitals"
+"62",62,"Cambridge Memorial
+   Hospital","BAIN","EILEEN","Program Manager, Family and Child","$104,874.08","$408.99",2002,"Hospitals"
+"63",63,"Cambridge Memorial
+   Hospital","BREULS","KELLY","Program Manager, Human Resources","$113,086.14","$414.87",2002,"Hospitals"
+"64",64,"Cambridge Memorial
+   Hospital","CHAN","DR. WINNIE","Pathologist","$176,362.71","$893.68",2002,"Hospitals"
+"65",65,"Cambridge Memorial
+   Hospital","FRAPE","DR. NORI","Oncology Associate","$132,260.68","$0.00",2002,"Hospitals"
+"66",66,"Cambridge Memorial
+   Hospital","GROULX","ANNE","Program Manager, Finance","$105,976.52","$414.87",2002,"Hospitals"
+"67",67,"Cambridge Memorial
+   Hospital","GUTHRIE","STUART","Program Manager, Property and Materials","$107,092.66","$201.06",2002,"Hospitals"
+"68",68,"Cambridge Memorial
+   Hospital","KAIGAS","DR. TINA","Medical Director","$196,373.14","$859.14",2002,"Hospitals"
+"69",69,"Cambridge Memorial
+   Hospital","MAY","DR. DOUG","Oncology Associate","$101,665.34","$589.70",2002,"Hospitals"
+"70",70,"Cambridge Memorial
+   Hospital","MORRIS","DR. ANNA","Pathologist","$226,653.22","$988.03",2002,"Hospitals"
+"71",71,"Cambridge Memorial
+   Hospital","RUSSELL","DR. SHARON","Oncology Associate","$152,511.91","$707.64",2002,"Hospitals"
+"72",72,"Cambridge Memorial
+   Hospital","SNIDER","DR. JAMES","Chief of Staff","$104,565.15","$0.00",2002,"Hospitals"
+"73",73,"Cambridge Memorial
+   Hospital","TSCHIRHART","KATHLEEN","Program Manager, Surgical Services","$101,393.93","$408.99",2002,"Hospitals"
+"74",74,"Cambridge Memorial
+   Hospital","WALKER","MARIANNE","Program Manager, Operations","$124,123.82","$462.33",2002,"Hospitals"
+"75",75,"Cambridge Memorial
+   Hospital","WILKINSON","DIANE","Senior Manager - ICP","$104,429.63","$414.87",2002,"Hospitals"
+"76",76,"Cambridge Memorial
+   Hospital","WRIGHT","HELEN","Chief Executive Officer","$201,367.87","$12,905.86",2002,"Hospitals"
+"77",77,"Campbellford Memorial","THIBERT","WILLIAM","President and CEO","$110,199.54","$751.44",2002,"Hospitals"
+"78",78,"Centre for Addiction
+   & Mental Hlth","ATKINSON","LESLIE","Section Head, Child Psych Res.","$112,562.83","$554.96",2002,"Hospitals"
+"79",79,"Centre for Addiction
+   & Mental Hlth","AWAN","MOHAMED","Severance / Salary Continuance","$118,301.51","$731.93",2002,"Hospitals"
+"80",80,"Centre for Addiction
+   & Mental Hlth","BAGBY","ROBERT MICHAEL","Section Head, Pers. Psycopath","$121,674.82","$584.32",2002,"Hospitals"
+"81",81,"Centre for Addiction
+   & Mental Hlth","BARBAREE","HOWARD","Clinical Director Forensic","$150,922.28","$906.54",2002,"Hospitals"
+"82",82,"Centre for Addiction
+   & Mental Hlth","BEAL","GEORGIANNA","Chief Nursing Practice","$159,555.26","$1,583.68",2002,"Hospitals"
+"83",83,"Centre for Addiction
+   & Mental Hlth","BEECHER","RHODA","VP, Human Resources and Org. Dev.","$160,878.57","$1,621.00",2002,"Hospitals"
+"84",84,"Centre for Addiction
+   & Mental Hlth","BLANCHARD","RAY","Head, Clinical Sexology Program","$102,242.51","$529.20",2002,"Hospitals"
+"85",85,"Centre for Addiction
+   & Mental Hlth","CHOPRA","DEVENDRA","VP, Finance and Support Services","$186,784.88","$1,031.54",2002,"Hospitals"
+"86",86,"Centre for Addiction
+   & Mental Hlth","CHRISTENSEN","BRUCE","Director,
+   Scientific Development","$108,763.56","$487.10",2002,"Hospitals"
+"87",87,"Centre for Addiction
+   & Mental Hlth","COLERIDGE","PETER","Vice President CECH","$185,598.80","$962.16",2002,"Hospitals"
+"88",88,"Centre for Addiction
+   & Mental Hlth","CZUKAR","GAIL","VP, Legal and In House Counsel","$146,043.14","$905.04",2002,"Hospitals"
+"89",89,"Centre for Addiction
+   & Mental Hlth","DEACON","MARY","President, Foundation","$154,999.03","$2,065.02",2002,"Hospitals"
+"90",90,"Centre for Addiction
+   & Mental Hlth","DUNN","EDWARD","Clinical Director, Lab Service","$116,889.37","$1,051.55",2002,"Hospitals"
+"91",91,"Centre for Addiction
+   & Mental Hlth","FAVARO","JEANNE","Registered Nurse","$101,308.71","$358.06",2002,"Hospitals"
+"92",92,"Centre for Addiction
+   & Mental Hlth","GARFINKEL","PAUL","President and CEO","$243,374.20","$1,859.52",2002,"Hospitals"
+"93",93,"Centre for Addiction
+   & Mental Hlth","GLIKSMAN","LOUIS","Director, SPH Policy","$132,632.08","$710.32",2002,"Hospitals"
+"94",94,"Centre for Addiction
+   & Mental Hlth","GOERING","PAULA","Section Head, HSRCU","$102,503.50","$584.32",2002,"Hospitals"
+"95",95,"Centre for Addiction
+   & Mental Hlth","JAMES","DENNIS","Director, Clinical Operations","$117,499.14","$573.30",2002,"Hospitals"
+"96",96,"Centre for Addiction
+   & Mental Hlth","KAUSHAL","TEJWANT","IT Specialist","$104,761.88","$285.72",2002,"Hospitals"
+"97",97,"Centre for Addiction
+   & Mental Hlth","PULLAN","SHIRLEY","Admin Director, Forensic","$105,696.14","$604.58",2002,"Hospitals"
+"98",98,"Centre for Addiction
+   & Mental Hlth","SAUNDERS","NANCY","Director, Finance Proc. and Distr.","$116,355.06","$666.70",2002,"Hospitals"
+"99",99,"Centre for Addiction
+   & Mental Hlth","SEGAL","ZINDEL","Scientist 4","$111,068.44","$577.28",2002,"Hospitals"
+"100",100,"Centre for Addiction
+   & Mental Hlth","SIMPSON","MARGARET JEAN","Executive Vice President and COO","$237,958.16","$2,307.50",2002,"Hospitals"
+"101",101,"Centre for Addiction
+   & Mental Hlth","SMITH","PATRICK","Vice President Clinical Program","$197,238.86","$1,112.52",2002,"Hospitals"
+"102",102,"Centre for Addiction
+   & Mental Hlth","TYNDALE","RACHEL","Section Head, Pharmacogenetics","$147,872.90","$855.42",2002,"Hospitals"
+"103",103,"Centre for Addiction
+   & Mental Hlth","VACCARINO","FRANCO","Vice President Research","$131,474.78","$739.68",2002,"Hospitals"
+"104",104,"Centre for Addiction
+   & Mental Hlth","VALENTE","COSTANDINA","IT Specialist","$128,936.17","$349.11",2002,"Hospitals"
+"105",105,"Centre for Addiction
+   & Mental Hlth","VAN TOL","HUBERT","Section Head,
+   MOL Neurobiology","$148,462.44","$584.32",2002,"Hospitals"
+"106",106,"Centre for Addiction
+   & Mental Hlth","VELDHORST-WITTEVEEN","GEORGINA","Vice President Clinical Program","$181,706.83","$1,690.17",2002,"Hospitals"
+"107",107,"Centre for Addiction
+   & Mental Hlth","WALSH","MARY","Physician","$137,469.36","$846.92",2002,"Hospitals"
+"108",108,"Centre for Addiction
+   & Mental Hlth","WARSH","JERRY","Section Head, Biochem Psych","$123,978.22","$713.82",2002,"Hospitals"
+"109",109,"Centre for Addiction
+   & Mental Hlth","WILSON","ALAN","Chief Radiologist","$111,376.98","$606.33",2002,"Hospitals"
+"110",110,"Centretown Community
+   Health Ctrs.","JENNER","JULIE","Physician","$123,118.96","$501.60",2002,"Hospitals"
+"111",111,"Children's Hosp. of
+   EaSt. Ontario","ALLANSON","JUDITH","Chief of Genetics","$222,927.29","$1,678.98",2002,"Hospitals"
+"112",112,"Children's Hosp. of
+   EaSt. Ontario","CARDIFF","GARRY","President And CEO","$210,344.15","$3,396.99",2002,"Hospitals"
+"113",113,"Children's Hosp. of
+   EaSt. Ontario","CARPENTER","BLAIR","Pathologist","$180,669.31","$1,679.11",2002,"Hospitals"
+"114",114,"Children's Hosp. of
+   EaSt. Ontario","CARSON","NANCY","Staff Physician Genetics","$122,832.20","$1,414.57",2002,"Hospitals"
+"115",115,"Children's Hosp. of
+   EaSt. Ontario","CHAN","FRANCIS","Lab Scientist
+   Bacteriology","$111,504.25","$1,368.72",2002,"Hospitals"
+"116",116,"Children's Hosp. of
+   EaSt. Ontario","DIZ-MITOMA","FRANCESCO","Medical Director Labs","$183,346.97","$1,665.17",2002,"Hospitals"
+"117",117,"Children's Hosp. of
+   EaSt. Ontario","DUNN","SANDRA","Registered Nurse","$101,361.76","$0.00",2002,"Hospitals"
+"118",118,"Children's Hosp. of
+   EaSt. Ontario","FORESTELL","GREGORY","Director Information Services","$101,619.45","$1,340.83",2002,"Hospitals"
+"119",119,"Children's Hosp. of
+   EaSt. Ontario","GERAGHTY","MICHAEL","Staff Physician Genetics","$117,698.10","$446.75",2002,"Hospitals"
+"120",120,"Children's Hosp. of
+   EaSt. Ontario","GRAHAM","GAIL","Staff Physician Genetics","$174,201.31","$1,409.17",2002,"Hospitals"
+"121",121,"Children's Hosp. of
+   EaSt. Ontario","JIMENEZ","CARMENCITA","Pathologist","$178,345.60","$1,660.13",2002,"Hospitals"
+"122",122,"Children's Hosp. of
+   EaSt. Ontario","KORNELUK","ROBERT","Lab Scientist Molecular Genetics","$148,114.24","$1,563.54",2002,"Hospitals"
+"123",123,"Children's Hosp. of
+   EaSt. Ontario","KRYWULAK","MARY","Chief of Dentristy","$163,691.28","$1,531.62",2002,"Hospitals"
+"124",124,"Children's Hosp. of
+   EaSt. Ontario","KUMAR","ASHOK","Lab Scientist Virology","$115,276.56","$1,223.13",2002,"Hospitals"
+"125",125,"Children's Hosp. of
+   EaSt. Ontario","LEPAGE","NATHALIE","Lab Scientist Biochemistry","$112,391.31","$1,376.12",2002,"Hospitals"
+"126",126,"Children's Hosp. of
+   EaSt. Ontario","NIKKEL","SARAH","Staff Physician Genetics","$150,005.99","$1,582.28",2002,"Hospitals"
+"127",127,"Children's Hosp. of
+   EaSt. Ontario","NIZALIK","ELIZABETH","Pathologist","$178,345.60","$1,660.13",2002,"Hospitals"
+"128",128,"Children's Hosp. of
+   EaSt. Ontario","REID","RANDY","CFO","$145,612.58","$5,207.14",2002,"Hospitals"
+"129",129,"Children's Hosp. of
+   EaSt. Ontario","RICHARDSON","SUSAN","VP, Patient Services","$138,569.04","$2,869.30",2002,"Hospitals"
+"130",130,"Children's Hosp. of
+   EaSt. Ontario","SCHMIDT","BERNIE","VP, Patient Support","$155,303.48","$3,509.50",2002,"Hospitals"
+"131",131,"Children's Hosp. of
+   EaSt. Ontario","STEPHENSON","DIANE","Chief Nursing Officer","$107,065.18","$1,915.68",2002,"Hospitals"
+"132",132,"Collingwood General
+   & Marine","DARBY","PAUL","Chief Executive Officer","$136,897.48","$790.11",2002,"Hospitals"
+"133",133,"Cornwall General
+   Hospital","HALKETT","MURRAY","CEO","$153,647.76","$713.58",2002,"Hospitals"
+"134",134,"Cornwall General
+   Hospital","HALLIWELL","EDWARD","Program Mgr, Environmental Services","$102,520.97","$338.27",2002,"Hospitals"
+"135",135,"Dryden Regional Health
+   Centre","SKENE","ANDREW","Chief Executive Officer","$117,566.13","$666.48",2002,"Hospitals"
+"136",136,"Grand River Hospital","BATTEN","ADRIAN","Pathologist","$215,796.29","$891.01",2002,"Hospitals"
+"137",137,"Grand River Hospital","BHAVSAR","PRAVIN","Pathologist","$201,624.76","$891.01",2002,"Hospitals"
+"138",138,"Grand River Hospital","DIVARIS","DIMITRIOS","Medical Director, Lab","$246,117.05","$1,025.41",2002,"Hospitals"
+"139",139,"Grand River Hospital","DIXON","RICHARD","Director, Facility Redevelopment","$127,416.97","$823.88",2002,"Hospitals"
+"140",140,"Grand River Hospital","EGAN","DENNIS","President and CEO","$276,275.52","$1,735.14",2002,"Hospitals"
+"141",141,"Grand River Hospital","ESFORD","T. RANDALL","Chief HR Officer","$106,568.18","$703.58",2002,"Hospitals"
+"142",142,"Grand River Hospital","GASKIN","PATRICK","Executive VP","$151,860.36","$976.53",2002,"Hospitals"
+"143",143,"Grand River Hospital","KEARNS","GLEN","VP, and Chief
+   Information Officer","$121,992.01","$805.58",2002,"Hospitals"
+"144",144,"Grand River Hospital","KULCZYCKI","GITTA","Vice President and CFO","$159,796.28","$1,177.06",2002,"Hospitals"
+"145",145,"Grand River Hospital","LING","FRANKLIN CHI KIN","Pathologist","$215,796.26","$891.01",2002,"Hospitals"
+"146",146,"Grand River Hospital","WHITSON-SHEA","GLORIA GENE","VP, and Chief Nursing Officer","$110,839.09","$532.58",2002,"Hospitals"
+"147",147,"Grey Bruce Health Centre","BELANGER","ROBERT","Corporate Director Facility Planning","$107,323.51","$125.28",2002,"Hospitals"
+"148",148,"Grey Bruce Health Centre","CAMPBELL","PATRICIA","CEO","$225,000.87","$8,435.66",2002,"Hospitals"
+"149",149,"Grey Bruce Health Centre","SOLECKI","MAUREEN","VP, Strategic Planning","$120,389.72","$464.58",2002,"Hospitals"
+"150",150,"Guelph General Hospital","BIRON","ROBERT","VP, Information & Decision Support","$121,405.53","$599.96",2002,"Hospitals"
+"151",151,"Guelph General Hospital","ERNST","RICHARD","President and CEO","$193,482.16","$876.94",2002,"Hospitals"
+"152",152,"Guelph General Hospital","FLEMING","MARY","Register Nurse Part-time Day Surgery","$106,937.43","$0.00",2002,"Hospitals"
+"153",153,"Guelph General Hospital","PASEL","IRENE","VP, Patient Srvc & Chief Nursing Offcr.","$121,405.54","$599.96",2002,"Hospitals"
+"154",154,"Guelph General Hospital","SPEKKENS","ANDRE","VP, Diagnostic & Marketed Services","$105,212.04","$550.18",2002,"Hospitals"
+"155",155,"Haldimand War Memorial,
+   Dunnville","TRAVER","BARBARA","Registered Nurse","$109,483.32","$0.00",2002,"Hospitals"
+"156",156,"Halton Healthcare
+   Services","HALLS","ALLAN L.","Vice President","$134,700.00","$896.60",2002,"Hospitals"
+"157",157,"Halton Healthcare
+   Services","HARDENNE","DENISE","Vice President","$140,000.00","$896.60",2002,"Hospitals"
+"158",158,"Halton Healthcare
+   Services","HARROW","BONNIE","Vice President","$109,746.00","$842.60",2002,"Hospitals"
+"159",159,"Halton Healthcare
+   Services","MARTIN","LORNE","ER Medical Director","$170,961.00","$903.00",2002,"Hospitals"
+"160",160,"Halton Healthcare
+   Services","OLIVER","JOHN A.","CEO","$259,683.00","$25,862.20",2002,"Hospitals"
+"161",161,"Halton Healthcare
+   Services","STACEY","SIDNEY","Vice President","$140,199.00","$971.60",2002,"Hospitals"
+"162",162,"Halton Healthcare
+   Services","WRIGHTMAN","ALLEN F.","Vice President","$112,931.00","$8,196.38",2002,"Hospitals"
+"163",163,"Hanover District","WILSON","KATRINA","CEO","$105,201.80","$496.68",2002,"Hospitals"
+"164",164,"Hawkesbury &
+   District General","SGUIN","LUC","VP, finance et information","$105,048.32","$6,864.78",2002,"Hospitals"
+"165",165,"Headwaters Health Care
+   Centre","BAYNHAM","BOB","CEO","$153,268.94","$893.00",2002,"Hospitals"
+"166",166,"Hpital Montfort","HAMILTON","HLNE","Directrice Ressources Humaines","$105,883.81","$5,159.56",2002,"Hospitals"
+"167",167,"Hpital Montfort","JOANISSE","JOHN","Vice-prsident, des affaires acadmiques","$135,197.26","$1,687.79",2002,"Hospitals"
+"168",168,"Hpital Montfort","JOYAL","MARC","VP, exc. et VP, admin. des affaires et fin.","$137,134.67","$10,759.32",2002,"Hospitals"
+"169",169,"Hpital Montfort","SAVOIE","GRALD","Prsident - directeur gnral","$233,671.74","$1,908.60",2002,"Hospitals"
+"170",170,"Hotel Dieu","DAHL","MAMIE","Assistant Executive Director","$137,803.50","$651.46",2002,"Hospitals"
+"171",171,"Hotel Dieu","DEXTER","DR. DAVID","Lab. Pathologist","$174,446.46","$835.70",2002,"Hospitals"
+"172",172,"Hotel Dieu","GRAHAM","HUGH","Executive Director","$252,505.61","$9,872.11",2002,"Hospitals"
+"173",173,"Hotel Dieu","HURLBUT","DR. DAVID","Lab. Pathologist","$146,096.93","$699.86",2002,"Hospitals"
+"174",174,"Hotel Dieu","JOHNSON","JOHN","Assistant Executive Director","$127,375.75","$602.96",2002,"Hospitals"
+"175",175,"Hotel Dieu","MCEVOY","NEIL","Associate Executive Director","$140,315.72","$956.69",2002,"Hospitals"
+"176",176,"Hotel Dieu","ROWLINS","DR. CAROLINE","Lab. Pathologist","$170,671.43","$816.90",2002,"Hospitals"
+"177",177,"Hotel Dieu","THOM","PHIL","Assistant Executive Director","$140,712.11","$641.62",2002,"Hospitals"
+"178",178,"Hotel Dieu Hlth Sci.
+   Hosp., Niagara","PRESTA","ANGELO","AsSt. Executive Dir., Corporate Planning","$123,545.14","$1,049.00",2002,"Hospitals"
+"179",179,"Hotel Dieu Hlth Sci.
+   Hosp., Niagara","RUFRANO","JANE","Assistant Executive Director, Finance","$109,611.18","$883.99",2002,"Hospitals"
+"180",180,"Hotel Dieu Hlth Sci.
+   Hosp., Niagara","VETRANO","FRANK","Executive Director","$261,438.02","$5,233.00",2002,"Hospitals"
+"181",181,"Hotel Dieu Hlth Sci.
+   Hosp., Niagara","ZANUTTO","KAREN","Assistant Executive Director, HR","$110,972.29","$944.00",2002,"Hospitals"
+"182",182,"Humber River Regional
+   Hospital","BOOMSLUTER","CRISTINA","Registered Nurse","$112,771.54","$391.54",2002,"Hospitals"
+"183",183,"Humber River Regional
+   Hospital","BROW","CATHIE","Vice President Human Resources","$180,409.58","$6,557.36",2002,"Hospitals"
+"184",184,"Humber River Regional
+   Hospital","COLLINS","BARBARA","Vice President Planning","$181,836.52","$6,557.36",2002,"Hospitals"
+"185",185,"Humber River Regional
+   Hospital","CZAUS","MARGARET","OPS Director Medical","$145,758.89","$5,102.93",2002,"Hospitals"
+"186",186,"Humber River Regional
+   Hospital","DEVLIN","RUEBEN, DR.","President","$374,422.04","$14,116.44",2002,"Hospitals"
+"187",187,"Humber River Regional
+   Hospital","EVENSON","DANIEL","Financial Planning Director","$105,264.94","$622.08",2002,"Hospitals"
+"188",188,"Humber River Regional
+   Hospital","JASS","JANAK","OPS Director Clinical","$107,356.32","$622.08",2002,"Hospitals"
+"189",189,"Humber River Regional
+   Hospital","JIBUNOH","PHOEBE","OPS Director Surgical","$106,812.97","$622.08",2002,"Hospitals"
+"190",190,"Humber River Regional
+   Hospital","JONES","COLLEEN","OPS Director Emergency","$116,103.45","$622.08",2002,"Hospitals"
+"191",191,"Humber River Regional
+   Hospital","JURASITS","MARTA","Registered Nurse","$129,606.05","$391.54",2002,"Hospitals"
+"192",192,"Humber River Regional
+   Hospital","LAM","MARIA","Registered Nurse","$113,190.15","$391.54",2002,"Hospitals"
+"193",193,"Humber River Regional
+   Hospital","MANSON","WILLIAM","Vice President Programs","$180,409.60","$6,557.36",2002,"Hospitals"
+"194",194,"Humber River Regional
+   Hospital","PELLA","LORIE G.","Projects Director TFT","$109,922.10","$622.08",2002,"Hospitals"
+"195",195,"Humber River Regional
+   Hospital","SIM","TERRY","Projects Director","$109,922.10","$622.08",2002,"Hospitals"
+"196",196,"Humber River Regional
+   Hospital","VILLAFANA","PAULA","OPS Director Mental","$121,845.34","$622.08",2002,"Hospitals"
+"197",197,"Humber River Regional
+   Hospital","WEGENER","PETER","Vice President Finance / Information","$180,409.63","$6,557.36",2002,"Hospitals"
+"198",198,"Huntsville District","ADAMSON","VAUGHN","CEO","$128,420.61","$10,443.06",2002,"Hospitals"
+"199",199,"Huron Perth Hospitals
+   Partnership","ADAMSON","BONNIE","President and CEO","$138,604.20","$8,237.01",2002,"Hospitals"
+"200",200,"Huron Perth Hospitals
+   Partnership","BROWN","STANLEY","Vice President Medical Affairs","$171,418.69","$2,153.60",2002,"Hospitals"
+"201",201,"Huron Perth Hospitals
+   Partnership","CAMERON","BARRY","Vice President Human Resources","$119,333.43","$1,499.44",2002,"Hospitals"
+"202",202,"Huron Perth Hospitals
+   Partnership","COMACK","MARGRET","Vice President Multi Site Administration","$141,030.00","$1,771.56",2002,"Hospitals"
+"203",203,"Huron Perth Hospitals
+   Partnership","COSGROVE","JANICE","Vice President Multi Site Administration","$141,030.00","$1,771.56",2002,"Hospitals"
+"204",204,"Huron Perth Hospitals
+   Partnership","SUTHERLAND","JOHN","Interim CEO & VP, Finance & Info. Mngmnt","$133,851.61","$1,683.96",2002,"Hospitals"
+"205",205,"Huron Perth Hospitals
+   Partnership","WILLIAMS","ANDREW","Vice President Multi Site Administration","$141,030.00","$1,771.56",2002,"Hospitals"
+"206",206,"Huronia District
+   Hospital","KEY","GORDON","CEO","$114,964.28","$611.75",2002,"Hospitals"
+"207",207,"James Bay General
+   Hospital","FABRICIUS","PETER","Chief Executive Officer","$106,504.12","$8,633.32",2002,"Hospitals"
+"208",208,"Joseph Brant Memorial
+   Hospital","ARMSTRONG","DIANE","Registered Nurse","$105,650.01","$283.11",2002,"Hospitals"
+"209",209,"Joseph Brant Memorial
+   Hospital","BURELLA","DENIS","Information Systems Director","$102,499.00","$386.75",2002,"Hospitals"
+"210",210,"Joseph Brant Memorial
+   Hospital","CASTELLAN","DENNIS","VP, Finance and Support Services","$132,937.00","$592.53",2002,"Hospitals"
+"211",211,"Joseph Brant Memorial
+   Hospital","GUZOWSKI","ANN","Pathologist","$191,917.50","$769.70",2002,"Hospitals"
+"212",212,"Joseph Brant Memorial
+   Hospital","HART","JULIAN","Chief of Laboratory Medicine","$219,502.63","$959.19",2002,"Hospitals"
+"213",213,"Joseph Brant Memorial
+   Hospital","HAWORTH","ANGELA","Pathologist","$191,917.50","$841.86",2002,"Hospitals"
+"214",214,"Joseph Brant Memorial
+   Hospital","LYONS","LANA","Senior VP, Clinical and Corp. Services","$165,132.40","$665.03",2002,"Hospitals"
+"215",215,"Joseph Brant Memorial
+   Hospital","SCOTT","DONALD S.","President and CEO","$229,993.21","$1,027.49",2002,"Hospitals"
+"216",216,"Joseph Brant Memorial
+   Hospital","SHUHAIBAR","HAFEZ","Pathologist","$139,746.25","$553.22",2002,"Hospitals"
+"217",217,"Joseph Brant Memorial
+   Hospital","STEWART","LARRY","VP, Patient Care Services","$152,083.44","$584.43",2002,"Hospitals"
+"218",218,"Joseph Brant Memorial
+   Hospital","TISIOT","DAVE","Human Resources Director","$109,530.42","$486.74",2002,"Hospitals"
+"219",219,"Kingston General
+   Hospital","BAKER","CAROLYN","Vice President","$157,200.00","$823.20",2002,"Hospitals"
+"220",220,"Kingston General
+   Hospital","BOAG","ALEXANDER","Anatotomic Pathologist","$182,625.82","$1,008.09",2002,"Hospitals"
+"221",221,"Kingston General
+   Hospital","DE MORA","JOSEPH","President and CEO","$299,384.72","$9,915.60",2002,"Hospitals"
+"222",222,"Kingston General
+   Hospital","HART","BILL","Vice President","$157,200.01","$823.20",2002,"Hospitals"
+"223",223,"Kingston General
+   Hospital","HUMPHREYS BLAKE","KAREN","Vice President","$119,968.72","$622.08",2002,"Hospitals"
+"224",224,"Kingston General
+   Hospital","KENNEY","DALE","Vice President","$154,280.81","$6,632.09",2002,"Hospitals"
+"225",225,"Kingston General
+   Hospital","LEBRUN","DAVID","Pathologist","$166,541.64","$916.50",2002,"Hospitals"
+"226",226,"Kingston General
+   Hospital","LILLICRAP","DAVID","Pathologist","$126,530.22","$691.49",2002,"Hospitals"
+"227",227,"Kingston General
+   Hospital","LOTT","JOHN","Director, Clinical Utilization & S.I.D.","$102,645.31","$599.43",2002,"Hospitals"
+"228",228,"Kingston General
+   Hospital","MACDONALD","LYNN","Systems Programmer / Analyst","$100,088.47","$413.40",2002,"Hospitals"
+"229",229,"Kingston General
+   Hospital","O'BRIEN","PETER","Vice President","$156,601.12","$803.99",2002,"Hospitals"
+"230",230,"Kingston General
+   Hospital","ROLLS","LINDA","Director, Financial Services","$102,134.66","$561.30",2002,"Hospitals"
+"231",231,"Kingston General
+   Hospital","ROSENBAUM","PAUL","Director, Health Sciences Centre","$119,568.56","$631.12",2002,"Hospitals"
+"232",232,"Kingston General
+   Hospital","ROSSITER","JOHN","Neuropathologist","$177,009.75","$974.12",2002,"Hospitals"
+"233",233,"Kingston General
+   Hospital","SENGUPTA","SANDIP","Deputy Head, Dept. of Pathology","$195,432.59","$1,079.95",2002,"Hospitals"
+"234",234,"Kingston General
+   Hospital","STEVENSON","ROBERT","Senior Network Administrator","$101,141.83","$265.32",2002,"Hospitals"
+"235",235,"Kingston General
+   Hospital","YOUNG","IAIN","Director, Division of Anatomic Pathology","$174,541.67","$964.70",2002,"Hospitals"
+"236",236,"Kingston General
+   Hospital","ZOUTMAN","DICK","Pathologist","$123,617.41","$681.03",2002,"Hospitals"
+"237",237,"Kirkland and District
+   Hospital","FJELDSTED","HALLDOR","CEO","$130,961.81","$549.94",2002,"Hospitals"
+"238",238,"Lake of the Woods","ALLAN","RANDY","Lab Director / Pathologist","$170,508.89","$1,048.20",2002,"Hospitals"
+"239",239,"Lake of the Woods","BALCAEN","MARK","Executive Director","$121,128.13","$657.52",2002,"Hospitals"
+"240",240,"Lake of the Woods","MACDONALD","JAMES KERRY","Lab Director / Pathologist","$179,000.10","$1,048.20",2002,"Hospitals"
+"241",241,"Lake of the Woods","MOORE","SEAN","Chief Emergency Services","$153,846.00","$1,171.20",2002,"Hospitals"
+"242",242,"Lakeridge Health","ANDERSON","CAROL","COO, Whitby","$129,670.52","$602.43",2002,"Hospitals"
+"243",243,"Lakeridge Health","CALLUM","JOHN","CFO","$176,539.94","$2,896.02",2002,"Hospitals"
+"244",244,"Lakeridge Health","DUSEK","JANICE","COO, Oshawa","$169,730.69","$1,108.41",2002,"Hospitals"
+"245",245,"Lakeridge Health","HODGINS","BETTE","COO, Uxbridge","$118,313.03","$536.55",2002,"Hospitals"
+"246",246,"Lakeridge Health","HOVEY","BROCK","Corp. Director, Planning","$156,144.15","$5,517.18",2002,"Hospitals"
+"247",247,"Lakeridge Health","KOOY","CHRIS","COO, Bowmanville","$164,338.34","$754.92",2002,"Hospitals"
+"248",248,"Lakeridge Health","LEMON","BRIAN","CEO","$268,265.68","$756.21",2002,"Hospitals"
+"249",249,"Lakeridge Health","SEWELL","DARRELL","Corp. Director, Human Resources","$136,651.11","$630.18",2002,"Hospitals"
+"250",250,"Lakeridge Health","SIKORSKI","JOSELINE","COO, Port Perry","$155,525.40","$707.04",2002,"Hospitals"
+"251",251,"Lakeridge Health","TOOP","MARY LOU","Controller","$105,452.52","$532.17",2002,"Hospitals"
+"252",252,"Lambton Hospitals","CHEONG","RICHARD","Chief of Staff","$125,002.50","$1,009.53",2002,"Hospitals"
+"253",253,"Lambton Hospitals","EVANS","DAVID","VP, Human Resources","$111,877.73","$681.28",2002,"Hospitals"
+"254",254,"Lambton Hospitals","JAYCHUK","GREGORY","Psychiatrist","$219,332.91","$0.00",2002,"Hospitals"
+"255",255,"Lambton Hospitals","MCCRACKEN","BETTY","VP, Programs/Chief Nursing Officer","$140,488.20","$835.96",2002,"Hospitals"
+"256",256,"Lambton Hospitals","O'MALLEY","PATRICK","VP, Corporate Services","$140,488.20","$835.96",2002,"Hospitals"
+"257",257,"Lambton Hospitals","VIGAR","DAVID","President and CEO","$193,548.60","$8,699.01",2002,"Hospitals"
+"258",258,"Leamington District
+   Memorial Hosp.","CHANT","WARREN","CEO","$144,842.60","$8,037.49",2002,"Hospitals"
+"259",259,"Lennox & Addington
+   County","RONALD","ARTHUR","Executive Director","$100,704.94","$624.60",2002,"Hospitals"
+"260",260,"London Health Sciences
+   Centre","ABION","DOUG","Tactical Manager","$102,945.00","$2,740.66",2002,"Hospitals"
+"261",261,"London Health Sciences
+   Centre","ANG","LEE CYN","Pathologist","$193,538.52","$522.06",2002,"Hospitals"
+"262",262,"London Health Sciences
+   Centre","ARMSTRONG","CHRISTOPHER","Pathologist","$172,692.51","$467.82",2002,"Hospitals"
+"263",263,"London Health Sciences
+   Centre","ATKINSON","DONALD","Sr. Financial Officer - LHRI","$104,999.84","$284.76",2002,"Hospitals"
+"264",264,"London Health Sciences
+   Centre","CHAKRABARTI","SUBRATA","Pathologist","$193,538.52","$522.06",2002,"Hospitals"
+"265",265,"London Health Sciences
+   Centre","DAGNONE","TONY","President & CEO","$394,015.11","$50,268.22",2002,"Hospitals"
+"266",266,"London Health Sciences
+   Centre","DIETZ","GLEN","Tactical Manager","$120,328.57","$2,028.16",2002,"Hospitals"
+"267",267,"London Health Sciences
+   Centre","DRIEDGER","ALBERT A","Nuclear Med. Physician","$159,945.49","$65.54",2002,"Hospitals"
+"268",268,"London Health Sciences
+   Centre","DRIMAN","DAVID","Pathologist","$193,538.52","$522.06",2002,"Hospitals"
+"269",269,"London Health Sciences
+   Centre","ETTLER","HELEN","Pathologist","$193,538.52","$522.06",2002,"Hospitals"
+"270",270,"London Health Sciences
+   Centre","FAN","YAO-SHAN","Lab Director","$148,999.62","$404.04",2002,"Hospitals"
+"271",271,"London Health Sciences
+   Centre","GARCIA","BERTHA","Pathologist","$218,538.48","$522.06",2002,"Hospitals"
+"272",272,"London Health Sciences
+   Centre","GILBERT","JOSEPH J","Vice President","$192,765.07","$28,357.07",2002,"Hospitals"
+"273",273,"London Health Sciences
+   Centre","GIROTTI","MURRAY","Vice President","$166,661.95","$0.00",2002,"Hospitals"
+"274",274,"London Health Sciences
+   Centre","HAMMOND","ROBERT","Pathologist","$193,538.52","$522.06",2002,"Hospitals"
+"275",275,"London Health Sciences
+   Centre","HEATHCOTE","JOHN G","Pathologist","$193,538.52","$522.06",2002,"Hospitals"
+"276",276,"London Health Sciences
+   Centre","HURWITZ","GILBERT ALLAN","Nuclear Med. Physician","$144,945.49","$393.24",2002,"Hospitals"
+"277",277,"London Health Sciences
+   Centre","HUSSAIN","ZAFAR","Assoc. Med. Microbiologist","$200,927.32","$437.86",2002,"Hospitals"
+"278",278,"London Health Sciences
+   Centre","HUSSEY","LINDA","Psychiatrist","$100,576.39","$295.02",2002,"Hospitals"
+"279",279,"London Health Sciences
+   Centre","JOHN","MICHAEL","Assoc. Med Microbiologist","$201,011.27","$438.41",2002,"Hospitals"
+"280",280,"London Health Sciences
+   Centre","JOSEPH","MARIAMMA","Pathologist","$193,538.52","$522.06",2002,"Hospitals"
+"281",281,"London Health Sciences
+   Centre","KIRK","MARY ELLEN","Pathologist","$115,577.02","$0.00",2002,"Hospitals"
+"282",282,"London Health Sciences
+   Centre","KVIETYS","PETER RAMUTIS","Scientist, Vasc Surgery","$115,826.18","$313.92",2002,"Hospitals"
+"283",283,"London Health Sciences
+   Centre","KWAN","KEITH","Pathologist","$172,692.51","$467.82",2002,"Hospitals"
+"284",284,"London Health Sciences
+   Centre","MATTAR","ADEL GUIRGUIS","Nuclear Med Physician","$144,945.47","$393.24",2002,"Hospitals"
+"285",285,"London Health Sciences
+   Centre","MCLACHLIN","CATHERINE MARGARET","Pathologist","$198,538.52","$522.06",2002,"Hospitals"
+"286",286,"London Health Sciences
+   Centre","MCLEAN","CAROLYN A","Pathologist","$198,538.52","$522.06",2002,"Hospitals"
+"287",287,"London Health Sciences
+   Centre","MCRAE","RONALD","Comptroller","$124,245.37","$23,333.55",2002,"Hospitals"
+"288",288,"London Health Sciences
+   Centre","MELLON","CHRISTINE","Tactical Manager","$113,445.00","$579.85",2002,"Hospitals"
+"289",289,"London Health Sciences
+   Centre","MITCHELL","BETH","Tactical Manager","$101,757.49","$2,240.66",2002,"Hospitals"
+"290",290,"London Health Sciences
+   Centre","MOUSSA-SADEK","MADELEINE","Pathologist","$193,538.52","$522.06",2002,"Hospitals"
+"291",291,"London Health Sciences
+   Centre","NISH","MARGARET ELIZABETH","Vice President","$182,018.03","$23,709.01",2002,"Hospitals"
+"292",292,"London Health Sciences
+   Centre","ORR","BRIAN","Vice President","$169,199.81","$30,835.02",2002,"Hospitals"
+"293",293,"London Health Sciences
+   Centre","PRABHAKARAN","VICTOR","Discipline Ldr, Clin. Biochem","$174,764.92","$425.16",2002,"Hospitals"
+"294",294,"London Health Sciences
+   Centre","RAMSAY","DAVID ALASTAIR","Pathologist","$193,538.52","$522.06",2002,"Hospitals"
+"295",295,"London Health Sciences
+   Centre","REID","ROBERT","Nuclear Med Physician","$138,478.70","$393.24",2002,"Hospitals"
+"296",296,"London Health Sciences
+   Centre","RIZKALLA","KAMILIA","Pathologist","$193,638.52","$522.06",2002,"Hospitals"
+"297",297,"London Health Sciences
+   Centre","ROWE","ELAINE","Pathologist","$120,349.90","$0.00",2002,"Hospitals"
+"298",298,"London Health Sciences
+   Centre","SHEPHERD","JESSICA","Pathologist","$189,154.08","$511.89",2002,"Hospitals"
+"299",299,"London Health Sciences
+   Centre","SHKRUM","MICHAEL","Pathologist","$198,538.52","$522.06",2002,"Hospitals"
+"300",300,"London Health Sciences
+   Centre","TIBANDO","ANGELA JEAN","Tactical Manager","$110,444.96","$2,240.66",2002,"Hospitals"
+"301",301,"London Health Sciences
+   Centre","TUCK","ALAN BRADLEY","Pathologist","$193,538.52","$522.06",2002,"Hospitals"
+"302",302,"London Health Sciences
+   Centre","TWEEDIE","EDWARD","Pathologist","$193,538.52","$522.06",2002,"Hospitals"
+"303",303,"London Health Sciences
+   Centre","WALTON","JOHN","Pathologist","$193,538.52","$522.06",2002,"Hospitals"
+"304",304,"London Health Sciences
+   Centre","WEHRLI","BRET","Pathologist","$155,615.17","$420.36",2002,"Hospitals"
+"305",305,"London Health Sciences
+   Centre","WEIR","MICHELE","Pathologist","$172,692.50","$467.82",2002,"Hospitals"
+"306",306,"London Health Sciences
+   Centre","WILLIS","BARBARA","Vice President","$143,954.62","$24,033.64",2002,"Hospitals"
+"307",307,"Markham Stouffville","LAU","MICHAEL C.","Pathologist","$157,114.80","$187.74",2002,"Hospitals"
+"308",308,"Markham Stouffville","LEE","MARGARET","Pathologist","$157,661.84","$62.58",2002,"Hospitals"
+"309",309,"Markham Stouffville","MACLEAN","JAMES","President and CEO","$243,457.45","$8,913.12",2002,"Hospitals"
+"310",310,"Markham Stouffville","ROBERTS","JANET","Vice President","$127,741.24","$513.12",2002,"Hospitals"
+"311",311,"Markham Stouffville","SHOKRY","PHOEBE","Chief, Pathology and Lab Director","$239,886.44","$312.96",2002,"Hospitals"
+"312",312,"Markham Stouffville","WILSON TRIDER","MARY","Vice President","$135,404.76","$513.12",2002,"Hospitals"
+"313",313,"Markham Stouffville","ZON","LORNE","Vice President","$143,069.81","$513.12",2002,"Hospitals"
+"314",314,"Mattawa General Hospital","BETIK","JERRY","CEO","$121,226.00","$0.00",2002,"Hospitals"
+"315",315,"MHS - Mental Health
+   Sevices","ABRAHAM","GEBREHIWOT","M.D","$159,169.50","$537.84",2002,"Hospitals"
+"316",316,"MHS - Mental Health
+   Sevices","ANDREW","MELISSA","M.D","$149,619.33","$0.00",2002,"Hospitals"
+"317",317,"MHS - Mental Health
+   Sevices","CHAN","MICHAEL","M.D","$159,169.50","$537.84",2002,"Hospitals"
+"318",318,"MHS - Mental Health
+   Sevices","CONACHER","NEIL","M.D","$157,743.90","$537.84",2002,"Hospitals"
+"319",319,"MHS - Mental Health
+   Sevices","DUNNE","CATHERINE","President and C.E.O","$212,769.15","$8,228.87",2002,"Hospitals"
+"320",320,"MHS - Mental Health
+   Sevices","FORBES","DALE","Sr. Vice President & VP, MHS","$138,101.32","$845.76",2002,"Hospitals"
+"321",321,"MHS - Mental Health
+   Sevices","FURST","KATHERINE","M.D","$151,273.26","$0.00",2002,"Hospitals"
+"322",322,"MHS - Mental Health
+   Sevices","GOFF","VALERIE","M.D","$156,298.50","$0.00",2002,"Hospitals"
+"323",323,"MHS - Mental Health
+   Sevices","GRAHAM","SUE","Vice President","$109,732.10","$672.20",2002,"Hospitals"
+"324",324,"MHS - Mental Health
+   Sevices","HANNA","SAMIA","M.D","$159,169.50","$0.00",2002,"Hospitals"
+"325",325,"MHS - Mental Health
+   Sevices","HILLEN","JAMES","M.D","$159,169.50","$0.00",2002,"Hospitals"
+"326",326,"MHS - Mental Health
+   Sevices","HOWARD","JANE","M.D","$159,169.50","$48.08",2002,"Hospitals"
+"327",327,"MHS - Mental Health
+   Sevices","MILLSON","RICHARD","M.D","$159,169.50","$0.00",2002,"Hospitals"
+"328",328,"MHS - Mental Health
+   Sevices","NASHED","YOUSERY","M.D","$159,169.50","$0.00",2002,"Hospitals"
+"329",329,"MHS - Mental Health
+   Sevices","O'BRIEN","SIMON","M.D","$159,169.50","$0.00",2002,"Hospitals"
+"330",330,"MHS - Mental Health
+   Sevices","PEEVER","LINDA","Assoc. Vice President, MHS","$104,471.02","$349.24",2002,"Hospitals"
+"331",331,"MHS - Mental Health
+   Sevices","SHANKS","GAVIN","M.D - SMOL","$129,807.50","$4,300.92",2002,"Hospitals"
+"332",332,"MHS - Mental Health
+   Sevices","SIDHU","RAJREET","M.D","$159,169.50","$0.00",2002,"Hospitals"
+"333",333,"MHS - Mental Health
+   Sevices","TEITELBAUM","LOUISE","M.D","$159,169.50","$0.00",2002,"Hospitals"
+"334",334,"Mount Sinai Hospital","ADAMSON","LEE","Senior Investigator (Research Institute)","$113,968.70","$408.00",2002,"Hospitals"
+"335",335,"Mount Sinai Hospital","ANDRULIS","IRENE","Senior Investigator (Research Institute)","$147,481.10","$408.00",2002,"Hospitals"
+"336",336,"Mount Sinai Hospital","ASHMAN","KEITH","Investigator (Research Institute)","$107,554.40","$408.00",2002,"Hospitals"
+"337",337,"Mount Sinai Hospital","BANACK","JEANNINE","VP, Medical Admin. & Special Services","$187,905.81","$9,550.53",2002,"Hospitals"
+"338",338,"Mount Sinai Hospital","BAPAT","BHARATI","Cytogenecist","$117,372.50","$1,171.30",2002,"Hospitals"
+"339",339,"Mount Sinai Hospital","BEAUDRY-CLOUATURE","MADELEINE","Co-ordinator Bone & Tissue Bank","$115,646.84","$239.36",2002,"Hospitals"
+"340",340,"Mount Sinai Hospital","BEDARD","YVAN","Lab Physician","$226,920.78","$2,097.12",2002,"Hospitals"
+"341",341,"Mount Sinai Hospital","BENNETT","JOCELYN","Program Director - Nursing","$110,178.65","$2,048.95",2002,"Hospitals"
+"342",342,"Mount Sinai Hospital","BOULAY BOLDUC","MADELEINE","Program Director - Nursing","$110,146.05","$2,048.95",2002,"Hospitals"
+"343",343,"Mount Sinai Hospital","BROMBERG","IRVING","Lab Physician","$206,461.14","$2,032.86",2002,"Hospitals"
+"344",344,"Mount Sinai Hospital","BULL","SHELLEY","Senior Investigator (Research Institute)","$118,661.00","$408.00",2002,"Hospitals"
+"345",345,"Mount Sinai Hospital","CHITAYAT","DAVID","Senior Medical Geneticist","$155,277.70","$408.00",2002,"Hospitals"
+"346",346,"Mount Sinai Hospital","COHEN","ZANE","Surgeon- in- Chief","$304,762.68","$2,040.00",2002,"Hospitals"
+"347",347,"Mount Sinai Hospital","COLGAN","TERENCE","Lab Physician","$228,327.88","$2,097.12",2002,"Hospitals"
+"348",348,"Mount Sinai Hospital","CULOTTI","JOSEPH","Senior Investigator (Research Institute)","$162,267.40","$408.00",2002,"Hospitals"
+"349",349,"Mount Sinai Hospital","DENNIS","JAMES","Senior Investigator (Research Institute)","$135,961.60","$408.00",2002,"Hospitals"
+"350",350,"Mount Sinai Hospital","DETSKY","ALLAN","Physician- in- Chief","$280,632.63","$6,401.58",2002,"Hospitals"
+"351",351,"Mount Sinai Hospital","DIAMANDIS","ELETHERIOS","Lab Physician","$229,420.78","$2,097.12",2002,"Hospitals"
+"352",352,"Mount Sinai Hospital","DONAGHUE","TERRENCE","Director Technology Transfer(Rsch InSt.)","$113,654.70","$1,764.60",2002,"Hospitals"
+"353",353,"Mount Sinai Hospital","DYKSTRA","FREDERICK","Registered Nurse","$127,592.78","$257.72",2002,"Hospitals"
+"354",354,"Mount Sinai Hospital","FERNANDES","BERNARD","Lab Physician","$229,420.78","$2,097.12",2002,"Hospitals"
+"355",355,"Mount Sinai Hospital","FOSTER","CYNTHIA","Registered Nurse","$105,244.78","$257.72",2002,"Hospitals"
+"356",356,"Mount Sinai Hospital","FOX","GORDON","Deputy Anesthetist - in - Chief","$150,194.12","$0.00",2002,"Hospitals"
+"357",357,"Mount Sinai Hospital","GRYNPAS","MARK","Senior Investigator (Research Institute)","$163,006.10","$408.00",2002,"Hospitals"
+"358",358,"Mount Sinai Hospital","HARTWICK","WARREN","Lab Physician","$226,920.78","$2,097.12",2002,"Hospitals"
+"359",359,"Mount Sinai Hospital","HOGUE","CHRISTOPHER","Investigator (Research Institute)","$119,909.80","$408.00",2002,"Hospitals"
+"360",360,"Mount Sinai Hospital","HOWARTH","DAVID","Lab Physician","$220,440.90","$2,065.50",2002,"Hospitals"
+"361",361,"Mount Sinai Hospital","HYDE","MARTYN","Assistant Director","$105,405.69","$328.61",2002,"Hospitals"
+"362",362,"Mount Sinai Hospital","JEFFERIES","ANN","Neonatologist","$158,150.10","$408.00",2002,"Hospitals"
+"363",363,"Mount Sinai Hospital","KANDEL","RITA","Lab Physician","$226,940.90","$2,065.50",2002,"Hospitals"
+"364",364,"Mount Sinai Hospital","KEATING","SARAH","Lab Physician","$211,878.10","$2,065.50",2002,"Hospitals"
+"365",365,"Mount Sinai Hospital","KELLY","EDMOND","Neonatologist","$148,089.60","$408.00",2002,"Hospitals"
+"366",366,"Mount Sinai Hospital","KITCH","TRACY","Program Director - Nursing","$101,475.67","$1,750.83",2002,"Hospitals"
+"367",367,"Mount Sinai Hospital","KOVENDI","TOM","Director","$100,719.81","$1,991.49",2002,"Hospitals"
+"368",368,"Mount Sinai Hospital","LOW","DONALD","Microbiologist- in-Chief","$231,452.58","$2,188.92",2002,"Hospitals"
+"369",369,"Mount Sinai Hospital","LYE","STEPHEN","Vice President Research","$246,759.85","$1,806.25",2002,"Hospitals"
+"370",370,"Mount Sinai Hospital","MACDONALD","KELLY","Lab Physician","$263,372.38","$2,326.62",2002,"Hospitals"
+"371",371,"Mount Sinai Hospital","MACMILLAN","CHRISTINA","Lab Physician","$173,679.60","$1,734.00",2002,"Hospitals"
+"372",372,"Mount Sinai Hospital","MANDINO","ANNE","Managing Director - Human Resources","$115,673.22","$6,757.88",2002,"Hospitals"
+"373",373,"Mount Sinai Hospital","MAPA","JOSEPH","President & Chief Executive Officer","$444,270.88","$38,856.75",2002,"Hospitals"
+"374",374,"Mount Sinai Hospital","MAZZULLI","ANTHONY","Deputy Chief Microbiology","$213,233.25","$3,334.15",2002,"Hospitals"
+"375",375,"Mount Sinai Hospital","MCBRIDE","FRAN","Associate VP, Public Relations","$123,961.98","$8,383.82",2002,"Hospitals"
+"376",376,"Mount Sinai Hospital","MCGEER","ALLISON","Lab Physician","$191,764.40","$1,810.50",2002,"Hospitals"
+"377",377,"Mount Sinai Hospital","MCLAUGHLIN","JOHN","Senior Investigator (Research Institute)","$138,290.20","$408.00",2002,"Hospitals"
+"378",378,"Mount Sinai Hospital","MULLEN","BRENDAN","Lab Physician","$240,900.26","$2,128.74",2002,"Hospitals"
+"379",379,"Mount Sinai Hospital","NAGLE","LYNN","Chief Information Officer","$193,797.76","$15,554.38",2002,"Hospitals"
+"380",380,"Mount Sinai Hospital","NAGY","ANDRAS","Senior Investigator (Research Institute)","$161,302.00","$408.00",2002,"Hospitals"
+"381",381,"Mount Sinai Hospital","NELSON","CHRIS","CEO, Canadian Arthritis Network","$149,999.20","$705.50",2002,"Hospitals"
+"382",382,"Mount Sinai Hospital","O'BRIEN","KAREL","Neonatologist","$105,427.30","$408.00",2002,"Hospitals"
+"383",383,"Mount Sinai Hospital","O'MALLEY","FRANCES","Neonatologist","$220,440.90","$2,065.50",2002,"Hospitals"
+"384",384,"Mount Sinai Hospital","OZCELIK","HILMI","Staff Scientist","$115,613.03","$1,154.47",2002,"Hospitals"
+"385",385,"Mount Sinai Hospital","PAWSON","ANTHONY","Director, Research (Research Institute)","$266,754.02","$1,657.08",2002,"Hospitals"
+"386",386,"Mount Sinai Hospital","POLLETT","AARON","Lab Physician","$181,140.07","$1,835.83",2002,"Hospitals"
+"387",387,"Mount Sinai Hospital","PRITZKER","KENNETH","Pathologist- in- Chief","$341,643.90","$4,740.00",2002,"Hospitals"
+"388",388,"Mount Sinai Hospital","RIDDELL","ROBERT","Lab Physician","$231,419.38","$2,097.12",2002,"Hospitals"
+"389",389,"Mount Sinai Hospital","RIKO","KRISTA","Director","$106,108.79","$1,854.81",2002,"Hospitals"
+"390",390,"Mount Sinai Hospital","RODER","JOHN","Senior Investigator (Research Institute)","$172,241.20","$408.00",2002,"Hospitals"
+"391",391,"Mount Sinai Hospital","ROSSANT","JANET","Senior Investigator (Research Institute)","$219,999.00","$408.00",2002,"Hospitals"
+"392",392,"Mount Sinai Hospital","SACKEY","NOVLETTE","Registered Nurse","$121,649.08","$257.72",2002,"Hospitals"
+"393",393,"Mount Sinai Hospital","SHAH","VIBHUTI","Neonatologist","$132,500.20","$408.00",2002,"Hospitals"
+"394",394,"Mount Sinai Hospital","SHAMIAN","JUDITH","Vice President (Secondment)","$197,969.85","$1,878.58",2002,"Hospitals"
+"395",395,"Mount Sinai Hospital","SICHERI","FRANK","Investigator (Research Institute)","$106,261.98","$397.12",2002,"Hospitals"
+"396",396,"Mount Sinai Hospital","SPROUL","JOAN","Vice President Finance & CFO","$200,149.21","$12,608.02",2002,"Hospitals"
+"397",397,"Mount Sinai Hospital","STEWART","TOM","Director- Critical Care Unit","$226,603.71","$1,122.00",2002,"Hospitals"
+"398",398,"Mount Sinai Hospital","TAYLOR","GARETH","Driector- GRIP (Research Institute)","$105,001.00","$2,322.60",2002,"Hospitals"
+"399",399,"Mount Sinai Hospital","TYERS","MICHAEL","Senior Investigator (Research Institute)","$147,742.50","$408.00",2002,"Hospitals"
+"400",400,"Mount Sinai Hospital","UNGER","SHARON","Neonatologist","$124,995.00","$408.00",2002,"Hospitals"
+"401",401,"Mount Sinai Hospital","VINCENT","LESLIE","Vice President Nursing","$193,402.00","$11,756.34",2002,"Hospitals"
+"402",402,"Mount Sinai Hospital","WALLACE","RIANNA","Director Operations (Research Institute)","$135,813.64","$2,183.76",2002,"Hospitals"
+"403",403,"Mount Sinai Hospital","WANG","CHEN","Lab Physician","$217,940.90","$2,065.50",2002,"Hospitals"
+"404",404,"Mount Sinai Hospital","WINSOR","ELISABETH","Cytogenetics - Head Section","$123,926.24","$1,242.36",2002,"Hospitals"
+"405",405,"Mount Sinai Hospital","WRANA","JEFF","Senior Investigator (Research Institute)","$133,649.20","$408.00",2002,"Hospitals"
+"406",406,"Mount Sinai Hospital","YOUNG-TAI","KIN","Neonatologist","$132,594.90","$408.00",2002,"Hospitals"
+"407",407,"NEMHC","HOTTA","RANDALL","Exec. Director, Com MH","$123,784.61","$7,471.70",2002,"Hospitals"
+"408",408,"NEMHC","MORRIS","PATRICIA","Chief Integr. Officer","$103,878.30","$5,670.71",2002,"Hospitals"
+"409",409,"NEMHC","PIQUETTE","MARC","Exec. Director, Corp Services","$103,878.31","$7,270.71",2002,"Hospitals"
+"410",410,"NEMHC","RYMAL","BONNIE","Exec. Director, Programming","$103,878.31","$1,632.34",2002,"Hospitals"
+"411",411,"NEMHC","TRIMNELL","JEAN L.","President & CEO","$175,000.80","$1,116.95",2002,"Hospitals"
+"412",412,"Niagara Health System","BIRRELL","DONNA","Director, Health Programs","$102,620.01","$562.86",2002,"Hospitals"
+"413",413,"Niagara Health System","HODA","FRANCA","Chief H R Officer","$149,722.72","$947.31",2002,"Hospitals"
+"414",414,"Niagara Health System","JOSHI","DR. SANGEETA","AsSt. Director, Pathology","$255,788.36","$1,666.96",2002,"Hospitals"
+"415",415,"Niagara Health System","JOSHI","DR. SUHAS","Director, Pathology","$274,321.81","$1,748.60",2002,"Hospitals"
+"416",416,"Niagara Health System","KATHIRESAN","BALA","Chief Information Officer","$149,255.44","$947.31",2002,"Hospitals"
+"417",417,"Niagara Health System","LOCKHART","BARRY","VP, Patient Services","$112,348.63","$765.06",2002,"Hospitals"
+"418",418,"Niagara Health System","MUTCH","ETHELYN","Registered Nurse","$106,252.26","$0.00",2002,"Hospitals"
+"419",419,"Niagara Health System","PARKER","MARY","VP, Health Programs","$138,501.63","$886.89",2002,"Hospitals"
+"420",420,"Niagara Health System","PATEL","DR. S. K.","AsSt. Director II, Pathology","$267,413.92","$1,720.42",2002,"Hospitals"
+"421",421,"Niagara Health System","RAMSEY","DR. WAYNE","AsSt. Director II,Pathology","$236,200.87","$1,505.06",2002,"Hospitals"
+"422",422,"Niagara Health System","SEGURA","DR. J.","Pathologist","$199,084.06","$1,292.26",2002,"Hospitals"
+"423",423,"Niagara Health System","SEVENPIFER","DEBBIE","Chief Financial Officer","$173,518.26","$1,029.63",2002,"Hospitals"
+"424",424,"Niagara Health System","TOKARCHUK","LARRY","Chief Executive Officer","$226,861.83","$1,729.00",2002,"Hospitals"
+"425",425,"Niagara Health System","TRIBBLE","KAREN","VP, Patient Services","$112,347.12","$765.06",2002,"Hospitals"
+"426",426,"Niagara Health System","TYPER","ASTRID","Registered Nurse","$115,809.33","$0.00",2002,"Hospitals"
+"427",427,"Niagara Health System","WATERS","CINDY","Registered Nurse","$102,221.31","$0.00",2002,"Hospitals"
+"428",428,"Niagara Health System","WHITE","CHERYL","VP, Patient Services","$112,349.18","$710.20",2002,"Hospitals"
+"429",429,"Niagara Health System","WILKINSON","JOANNE","Advanced Practice Nurse","$109,995.44","$0.00",2002,"Hospitals"
+"430",430,"Niagara Health System","WRIGHT","TIM","VP, Regional Operations","$173,895.16","$1,071.41",2002,"Hospitals"
+"431",431,"Niagara Health System","ZEBROWSKA","DR. GRAZYNA","Pathologist","$200,899.07","$1,319.12",2002,"Hospitals"
+"432",432,"Norfolk General","LEWIS","WILLIAM","President","$161,391.25","$663.75",2002,"Hospitals"
+"433",433,"North Bay General","DASHINEAU","ROBERT","Registered Nurse","$107,400.83","$316.05",2002,"Hospitals"
+"434",434,"North Bay General","HEWITT","MICHAEL","Vice President, Corporate Service","$113,677.99","$571.04",2002,"Hospitals"
+"435",435,"North Bay General","HURST","MARK","President and CEO","$183,650.59","$7,202.91",2002,"Hospitals"
+"436",436,"North Bay General","JACKO","NANCY","Vice President, Medicine Care","$113,963.21","$571.04",2002,"Hospitals"
+"437",437,"North Bay General","LANDRY","PAUL","Exec. Dir., Planning and Development","$107,301.21","$4,539.71",2002,"Hospitals"
+"438",438,"North Bay General","SCANLAN","GLEN","Vice President, Facilities","$109,467.86","$549.66",2002,"Hospitals"
+"439",439,"North Bay General","SILVERI","TIZIANA","Vice President, Surgery / Child Care","$112,244.49","$563.20",2002,"Hospitals"
+"440",440,"North Wellington Health
+   Care","NOEL","PIERRE","President and CEO","$112,296.61","$774.17",2002,"Hospitals"
+"441",441,"North York General Hospital","MESCHINO","WENDY","Clinical Geneticist","$199,672.24","$1,046.79",2002,"Hospitals"
+"442",442,"North York General Hospital","MOY LUM-KWONG","MARGARET","Director, Quality & Risk Management","$105,176.03","$572.19",2002,"Hospitals"
+"443",443,"North York General Hospital","MURRAY","JAMES","Pathologist","$211,700.71","$1,077.14",2002,"Hospitals"
+"444",444,"North York General Hospital","NEIDHARDT","ANNE","Director, Genetics Program","$121,604.83","$606.88",2002,"Hospitals"
+"445",445,"North York General Hospital","OLSEN","SUSAN","Vice President","$160,000.63","$2,177.28",2002,"Hospitals"
+"446",446,"North York General Hospital","OWOLABI","TITUS","Chief, Obstetric & Gyne","$119,999.10","$0.00",2002,"Hospitals"
+"447",447,"North York General Hospital","OZOG","EDWARD","Director, Corporate HR","$113,334.11","$615.96",2002,"Hospitals"
+"448",448,"North York General Hospital","PON","CORINNE","Dir., Corp. Finance & Info Management","$121,947.83","$665.08",2002,"Hospitals"
+"449",449,"North York General Hospital","POPOVICH","KARYN LYNN","Director, Emergency Services","$103,230.94","$560.27",2002,"Hospitals"
+"450",450,"North York General Hospital","QIZILBASH","ALI","Chief of Laboratory and Pathology","$302,368.95","$756.71",2002,"Hospitals"
+"451",451,"North York General Hospital","ROSE","DONALD KEITH","Vice President","$175,000.08","$10,781.40",2002,"Hospitals"
+"452",452,"North York General Hospital","SHAW","RALPH","Pathologist","$211,700.83","$538.76",2002,"Hospitals"
+"453",453,"North York General Hospital","SIRKIN","WILMA","Pathologist","$169,051.26","$896.66",2002,"Hospitals"
+"454",454,"North York General Hospital","STEIN","MARTIN","Vice President","$173,578.82","$8,599.87",2002,"Hospitals"
+"455",455,"North York General Hospital","SUMMERS","ANNE","Clinical Geneticist","$199,777.48","$1,046.79",2002,"Hospitals"
+"456",456,"North York General Hospital","VELSHER","LEA","Clinical Geneticist","$200,473.69","$1,046.79",2002,"Hospitals"
+"457",457,"North York General Hospital","WYATT","PHILIP","Chief Medical Director, Genetics","$273,180.47","$1,372.67",2002,"Hospitals"
+"458",458,"Northumberland Health
+   Care Corp.","ROSS","JOAN","Chief Executive Officer","$149,012.00","$920.00",2002,"Hospitals"
+"459",459,"Northumberland Health
+   Care Corp.","SHILL","MARY ANNE","Vice President - Patient Care Services","$109,465.00","$686.00",2002,"Hospitals"
+"460",460,"NorWest CHCs","NOONE","GERRARD","Physician","$100,692.18","$0.00",2002,"Hospitals"
+"461",461,"Pembroke General
+   Hospital","KEON","SANDRA","VP, Clinical Programs","$114,758.82","$770.52",2002,"Hospitals"
+"462",462,"Pembroke General
+   Hospital","KOCH","LLOYD","President and CEO","$196,630.55","$1,314.60",2002,"Hospitals"
+"463",463,"Pembroke General
+   Hospital","OSTROSKI","DAVID","Ambulance Supervisor","$104,775.66","$354.18",2002,"Hospitals"
+"464",464,"Pembroke General
+   Hospital","TIMPSON","DEBORAH","Psychiatrist","$115,871.52","$775.03",2002,"Hospitals"
+"465",465,"Pembroke General
+   Hospital","WREN","JOHN","VP, Finance and Operations","$114,758.82","$770.52",2002,"Hospitals"
+"466",466,"Penetanguishene General
+   Hospital","SHIRRIFF","DORIS","CEO","$120,625.32","$607.87",2002,"Hospitals"
+"467",467,"Perly & Rideau
+   Veterans' Hlth Ctr.","FOUGERE","GREG","Executive Director","$154,133.41","$1,012.44",2002,"Hospitals"
+"468",468,"Perth & Smith Falls
+   District Hospital","STEPANUIK","TODD","President and CEO","$133,624.78","$1,219.09",2002,"Hospitals"
+"469",469,"Peterborough Regional
+   Health Ctr.","CLARK","LESLIE G.","Chief Implementation Officer, JEC","$102,701.24","$1,773.60",2002,"Hospitals"
+"470",470,"Peterborough Regional
+   Health Ctr.","DEVITT","ROBERT W.","President and CEO","$216,858.14","$15,547.20",2002,"Hospitals"
+"471",471,"Peterborough Regional
+   Health Ctr.","FUCILE","WENDY L.","Vice President","$127,011.38","$2,232.28",2002,"Hospitals"
+"472",472,"Peterborough Regional
+   Health Ctr.","HOLDEN","THOMAS S.","Corporate Director","$105,462.32","$1,848.02",2002,"Hospitals"
+"473",473,"Peterborough Regional
+   Health Ctr.","PARR","JANE E.","Corporate Director","$100,949.99","$1,775.99",2002,"Hospitals"
+"474",474,"Providence Centre","BARBATO","PATRICIA","VP, Corporate Services and CFO","$150,650.30","$1,034.32",2002,"Hospitals"
+"475",475,"Providence Centre","MONTCALM","MARY BETH","President and CEO","$272,088.48","$11,934.28",2002,"Hospitals"
+"476",476,"Providence Centre","WALSH","JOSIE","VP, Programs","$135,982.36","$981.66",2002,"Hospitals"
+"477",477,"Providence Cont.Care
+   Ctr.(Kingston)","BAGG","STEPHEN","M.D - S.M.O.L","$125,905.00","$4,277.21",2002,"Hospitals"
+"478",478,"Providence Cont.Care
+   Ctr.(Kingston)","BONUTTI","S. MICHELE","Vice President & CFO","$117,622.88","$658.37",2002,"Hospitals"
+"479",479,"Queensway-Carleton
+   Hospital","BROWN","DR. MARY","Chief of Staff","$188,501.22","$1,019.16",2002,"Hospitals"
+"480",480,"Queensway-Carleton
+   Hospital","GRAHAM","KATHLEEN","VP, Patient Care Services","$130,895.01","$916.26",2002,"Hospitals"
+"481",481,"Queensway-Carleton
+   Hospital","HANNA","ERIC","VP, Corporate Services","$141,890.79","$5,795.22",2002,"Hospitals"
+"482",482,"Queensway-Carleton
+   Hospital","SCHONBERG","TOM","President and CEO","$184,710.90","$7,333.80",2002,"Hospitals"
+"483",483,"Queensway-Carleton
+   Hospital","SMITH","JONI","VP, Organizational Effectiveness","$137,481.73","$916.26",2002,"Hospitals"
+"484",484,"Queensway-Carleton
+   Hospital","TAYLOR","DR. JOHN","Director of Laboratory Medicine","$205,539.00","$774.63",2002,"Hospitals"
+"485",485,"Queensway-Carleton
+   Hospital","WILKINS","DR. DOUGLAS","Chief of Psychiatric Services","$155,075.75","$738.72",2002,"Hospitals"
+"486",486,"Quinte Health Care
+   Corporation","ALLSOP","DAVID","Desktop Analyst","$110,635.71","$0.00",2002,"Hospitals"
+"487",487,"Quinte Health Care
+   Corporation","JAMIESON","PAULETTE","Director, Patient Services","$115,452.00","$597.96",2002,"Hospitals"
+"488",488,"Quinte Health Care
+   Corporation","KHARE","DR. SUNETTA","Associate Pathologist","$181,999.48","$1,099.08",2002,"Hospitals"
+"489",489,"Quinte Health Care
+   Corporation","KORNBLUM","CHRIS","Desktop Analyst","$100,801.70","$290.73",2002,"Hospitals"
+"490",490,"Quinte Health Care
+   Corporation","LAUGHTON","BRUSE","President and CEO","$182,115.90","$16,682.04",2002,"Hospitals"
+"491",491,"Quinte Health Care
+   Corporation","NELSON","ROBERT","Desktop Analyst","$103,738.26","$290.73",2002,"Hospitals"
+"492",492,"Quinte Health Care
+   Corporation","O'BRIEN","DR. DAVID","Chief of Medical staff","$170,879.53","$13,017.23",2002,"Hospitals"
+"493",493,"Quinte Health Care
+   Corporation","SAGER","KAREN","Registered Nurse","$331,243.00","$0.00",2002,"Hospitals"
+"494",494,"Quinte Health Care
+   Corporation","TAYLOR","CARL","Desktop Analyst","$112,890.44","$0.00",2002,"Hospitals"
+"495",495,"Quinte Health Care
+   Corporation","TOWNSEND","BEVERLY J.","VP, Patient Srvcs & Chief Nursing Offcr.","$123,919.55","$744.33",2002,"Hospitals"
+"496",496,"Quinte Health Care
+   Corporation","TWEMLOW","DR. GREG D.","Medical Director, Laboratory Medicine","$202,000.63","$1,219.92",2002,"Hospitals"
+"497",497,"Red Lake Margaret
+   Cochenour Mem.","MCGEORGE","R.KENNETH","Chief Executive Director","$104,000.00","$5,132.91",2002,"Hospitals"
+"498",498,"Rel.Hos.,St.Joseph.Hlth
+   Ctr.,Cornwall","DESPATIE","JEANETTE","Executive Director","$147,969.22","$1,231.54",2002,"Hospitals"
+"499",499,"Rel.Hos.,St.Joseph.Hlth
+   Ctr.,Cornwall","GRANT","WILLIAM","Associate Executive Director","$105,541.12","$1,407.75",2002,"Hospitals"
+"500",500,"Renfrew Victoria","PENNEY","RANDY","CEO","$150,120.75","$3,211.00",2002,"Hospitals"
+"501",501,"Richmond Hill","ALLDRED-JOHNSON","LINDA","Director - Medicine","$107,549.84","$459.09",2002,"Hospitals"
+"502",502,"Richmond Hill","CHANG","MAY","CFO","$118,161.75","$514.22",2002,"Hospitals"
+"503",503,"Richmond Hill","COBER","CAROL","Director, Cont. Care","$108,375.48","$473.79",2002,"Hospitals"
+"504",504,"Richmond Hill","CRISTANTE","ROSEMARIE","Director, Redevelopment","$104,510.32","$516.89",2002,"Hospitals"
+"505",505,"Richmond Hill","D'AGOSTINO-ROSE","DINA","Director, Surgery","$107,549.82","$459.09",2002,"Hospitals"
+"506",506,"Richmond Hill","DOUCET","JOHN","Clinical Director, Lab.","$299,076.12","$1,049.24",2002,"Hospitals"
+"507",507,"Richmond Hill","GILLANI","ASMITA","COO","$167,015.30","$6,767.46",2002,"Hospitals"
+"508",508,"Richmond Hill","INGLEDEW","BRENDA","Director, Emergency","$108,093.47","$468.83",2002,"Hospitals"
+"509",509,"Richmond Hill","JOHNSON","CLARE","Director, Diagnostic Services","$102,078.48","$296.58",2002,"Hospitals"
+"510",510,"Richmond Hill","LEE","AINSLEY","CNO and Director Dialysis","$128,386.97","$562.11",2002,"Hospitals"
+"511",511,"Richmond Hill","LUSSING","FRANK","President and CEO","$208,103.78","$10,018.14",2002,"Hospitals"
+"512",512,"Richmond Hill","MANUEL","URSULA","Director Women and Ch.","$107,549.85","$459.09",2002,"Hospitals"
+"513",513,"Richmond Hill","ROBINSON","JILL","Director Mental Health","$107,549.85","$459.09",2002,"Hospitals"
+"514",514,"Richmond Hill","SALOIS-SWALLOW","DIANE","CIO","$104,727.00","$508.98",2002,"Hospitals"
+"515",515,"Richmond Hill","WALDNER","AGNES","Pathologist","$165,488.31","$455.70",2002,"Hospitals"
+"516",516,"Richmond Hill","YATES","MARY","Director Org. and HR Development","$100,834.50","$503.60",2002,"Hospitals"
+"517",517,"Riverside Health Care
+   Facilities, Inc.","WOODS","WAYNE","Executive Director","$137,567.79","$2,740.28",2002,"Hospitals"
+"518",518,"Ross Memorial Hospital","LAPORTE","CAROLYN","Registered Nurse","$101,813.07","$398.47",2002,"Hospitals"
+"519",519,"Ross Memorial Hospital","PAYNE","BRIAN","Executive Vice-President","$126,892.38","$733.81",2002,"Hospitals"
+"520",520,"Ross Memorial Hospital","VINES","ANTHONY","President and CEO","$204,184.29","$1,314.18",2002,"Hospitals"
+"521",521,"Royal Ottawa","CHANDE","ANN","Psychiatrist","$185,237.32","$0.00",2002,"Hospitals"
+"522",522,"Royal Ottawa","GOODWIN","BEVERLY","Psychiatrist","$176,792.40","$0.00",2002,"Hospitals"
+"523",523,"Royal Ottawa","HENDRICK","KATHRYN","Corp. Director of Comm.","$105,317.58","$386.04",2002,"Hospitals"
+"524",524,"Royal Ottawa","HUMPHRIES","PETER","Chief Information Officer","$105,733.83","$228.39",2002,"Hospitals"
+"525",525,"Royal Ottawa","JOHNSTON","MARY","Psychiatrist","$147,508.18","$0.00",2002,"Hospitals"
+"526",526,"Royal Ottawa","JORDAN","ANDREW","Psychiatrist","$120,193.77","$0.00",2002,"Hospitals"
+"527",527,"Royal Ottawa","KELLY","MICHAEL","Psychiatrist","$227,892.88","$0.00",2002,"Hospitals"
+"528",528,"Royal Ottawa","KRISHNAPRASAC","DEGALA","Psychiatrist","$176,412.08","$0.00",2002,"Hospitals"
+"529",529,"Royal Ottawa","LAFORTY","JACK","Physician","$119,220.50","$0.00",2002,"Hospitals"
+"530",530,"Royal Ottawa","LANGILL","GEORGE","CEO","$199,901.64","$3,417.25",2002,"Hospitals"
+"531",531,"Royal Ottawa","MALAVIARACH","PUSHPA","Psychiatrist","$176,412.08","$0.00",2002,"Hospitals"
+"532",532,"Royal Ottawa","MALONE","ROBERT","Psychiatrist","$206,536.89","$0.00",2002,"Hospitals"
+"533",533,"Royal Ottawa","NOTARANDREA","RITA","COO, Royal Ottawa Hospital","$116,053.84","$409.44",2002,"Hospitals"
+"534",534,"Royal Ottawa","RITUMS","INGO","COO, Brockville","$120,770.22","$419.82",2002,"Hospitals"
+"535",535,"Royal Ottawa","SMITH","ROBERT","Psychiatrist","$206,925.33","$0.00",2002,"Hospitals"
+"536",536,"Royal Ottawa","WALSH-BERGIN","PAULA","Psychiatrist","$102,485.14","$0.00",2002,"Hospitals"
+"537",537,"Royal Victoria Hospital","DENNIS","RONALD","VP, Finance","$124,984.24","$671.86",2002,"Hospitals"
+"538",538,"Royal Victoria Hospital","GEIGER","COLLEEN","VP, Planning","$101,556.00","$612.92",2002,"Hospitals"
+"539",539,"Royal Victoria Hospital","KRULL-NARAJ","KIRSTEN","VP, Patient Care Services","$137,684.72","$739.18",2002,"Hospitals"
+"540",540,"Royal Victoria Hospital","LAYCOCK","ERIC","Sr. Vice President","$137,684.38","$739.18",2002,"Hospitals"
+"541",541,"Royal Victoria Hospital","LONG","EDWARD","President","$160,724.42","$11,095.74",2002,"Hospitals"
+"542",542,"Runnymede Healthcare
+   Centre","ALLAIRE","NORMAND","President/CEO","$189,294.45","$13,030.05",2002,"Hospitals"
+"543",543,"Salvation Army Toronto
+   Grace Hosp.","DICAITA","ANTHONY","VP, Finance and Support Services","$121,913.78","$756.86",2002,"Hospitals"
+"544",544,"Salvation Army Toronto
+   Grace Hosp.","KIKUTA","SOO CHING","VP, Patient Services","$115,610.34","$713.41",2002,"Hospitals"
+"545",545,"Sault Area Hospital","CHAPMAN","ROBERT","Pharmacist","$100,877.00","$0.00",2002,"Hospitals"
+"546",546,"Sault Area Hospital","CLEMENTE","LISA","Registered Nurse","$106,989.96","$330.99",2002,"Hospitals"
+"547",547,"Sault Area Hospital","GAGNON","RON","Vice President, Corporate Services","$126,237.51","$653.34",2002,"Hospitals"
+"548",548,"Sault Area Hospital","KIRKPATRICK","SHARON","Vice President, Clinical & Support Srvcs","$118,611.36","$614.76",2002,"Hospitals"
+"549",549,"Sault Area Hospital","LUUKKONEN","MARY ELLEN","Vice President, Clinical Programs","$118,611.36","$614.76",2002,"Hospitals"
+"550",550,"Sault Area Hospital","MALKANI","MANU","President and Chief Executive Officer","$207,513.95","$10,727.03",2002,"Hospitals"
+"551",551,"Sault Area Hospital","MOZAROWSKI","PAUL","Associate Pathologist","$171,877.66","$902.78",2002,"Hospitals"
+"552",552,"Sault Area Hospital","MUIO","DON","Vice President, Hospital Services","$118,611.40","$614.76",2002,"Hospitals"
+"553",553,"Sault Area Hospital","O'HARA","KATHLEEN","Associate Pathologist","$171,877.66","$902.78",2002,"Hospitals"
+"554",554,"Sault Area Hospital","TRAVAGLINI","MARILYN","Vice President, Acute Care Programs","$118,151.29","$13.16",2002,"Hospitals"
+"555",555,"SCO Health Service","ALLARD","PIERRE","Chief of Palliative Medicine","$142,825.80","$633.96",2002,"Hospitals"
+"556",556,"SCO Health Service","BILODEAU","MICHEL","President and CEO","$189,839.85","$8,528.35",2002,"Hospitals"
+"557",557,"SCO Health Service","BOULIANNE","RUTH","Director CCC and COO SVH","$115,712.32","$747.31",2002,"Hospitals"
+"558",558,"SCO Health Service","CHAMBERS","LARRY","Chief Scientist","$142,495.86","$943.48",2002,"Hospitals"
+"559",559,"SCO Health Service","CHOUINARD","JEAN","Medical Director Day Hospital & CCC","$111,002.56","$0.00",2002,"Hospitals"
+"560",560,"SCO Health Service","HUP","DIANE","Senior Vice-President Patient Care","$131,074.58","$851.29",2002,"Hospitals"
+"561",561,"SCO Health Service","KNOEFEL","FRANK","Medical Dir., Geriatric Rehabilitation","$106,095.60","$472.08",2002,"Hospitals"
+"562",562,"SCO Health Service","KOZAK","JEAN-FRANOIS","Associate Vice-President Learning","$101,133.04","$448.13",2002,"Hospitals"
+"563",563,"SCO Health Service","SCHULMAN","BARBARA","Vice-President Planning and Partnerships","$129,166.24","$825.99",2002,"Hospitals"
+"564",564,"SCO Health Service","VIOLA","RAYMOND","Palliative Care Physician","$120,997.77","$458.88",2002,"Hospitals"
+"565",565,"Sensenbrenner Hospital","YARUSH","ALAN","CEO","$121,506.77","$1,131.50",2002,"Hospitals"
+"566",566,"SMOL - St. Mary's","CARLTON","SANDRA","VP, H/R & Org. Development","$106,806.04","$535.09",2002,"Hospitals"
+"567",567,"Smooth Rock Falls","PINKNEY","MAVIS","CEO","$109,971.25","$7,200.00",2002,"Hospitals"
+"568",568,"Soldiers' Memorial","COLPITTS","RON","Assistant Exec. Director, Support Srvcs","$101,103.71","$513.72",2002,"Hospitals"
+"569",569,"Soldiers' Memorial","ESKEDJIAN","VAROUJ","Assistant Exec. Director, Corp. Services","$105,910.43","$522.50",2002,"Hospitals"
+"570",570,"Soldiers' Memorial","NOVOSKY","EDWARD","Assistant Exec. Director, Administration","$118,641.64","$575.88",2002,"Hospitals"
+"571",571,"Soldiers' Memorial","PENWARDEN","GLEN","CEO","$211,776.14","$843.24",2002,"Hospitals"
+"572",572,"South Bruce Grey
+   Hospital","JACKSON","MICHAEL","Chief Executive Officer","$137,494.62","$695.04",2002,"Hospitals"
+"573",573,"South Muskoka Memorial
+   Hospital","CAMPBELL","IAN","CEO","$135,000.06","$755.82",2002,"Hospitals"
+"574",574,"Southlake Regional
+   Health Centre","CARRIERE","DANIEL","President and CEO","$240,000.00","$57,596.92",2002,"Hospitals"
+"575",575,"Southlake Regional
+   Health Centre","EVANS","DALE","Registered Nurse","$101,446.34","$13,271.99",2002,"Hospitals"
+"576",576,"Southlake Regional
+   Health Centre","MACKEN","NANCY","VP, Finance and Information","$129,915.00","$19,040.00",2002,"Hospitals"
+"577",577,"Southlake Regional
+   Health Centre","MILLIGAN","JOANNE","VP, Human Resources","$107,278.00","$8,925.00",2002,"Hospitals"
+"578",578,"Southlake Regional
+   Health Centre","NORMAN","PATRICIA","VP, Regional Programs","$129,915.00","$19,040.00",2002,"Hospitals"
+"579",579,"St. John's
+   Rehabilitation Hospital","BOND-GORR","DEBRA","Executive Director, Foundation","$121,896.36","$734.85",2002,"Hospitals"
+"580",580,"St. John's
+   Rehabilitation Hospital","DAWE","BRIAN","VP, Corporate & Support Services","$145,298.04","$755.07",2002,"Hospitals"
+"581",581,"St. John's
+   Rehabilitation Hospital","EDWARDS","ROSE","VP, Programs","$122,951.63","$691.29",2002,"Hospitals"
+"582",582,"St. John's
+   Rehabilitation Hospital","KISS","IVAN","Director, Research","$157,766.46","$783.06",2002,"Hospitals"
+"583",583,"St. John's
+   Rehabilitation Hospital","LOWI-YOUNG","MIMI","President & CEO","$166,211.39","$4,570.32",2002,"Hospitals"
+"584",584,"St. John's
+   Rehabilitation Hospital","TEPPERMAN","PERRY","Director/Chief of Staff","$118,951.25","$0.00",2002,"Hospitals"
+"585",585,"St. Joseph Care Group","BUCKLER","TRACY","VP, and Chief Nursing Officer","$116,625.96","$997.37",2002,"Hospitals"
+"586",586,"St. Joseph Care Group","POTTER","BARRY","Sr. VP Finance and Corporate Services","$102,867.44","$997.37",2002,"Hospitals"
+"587",587,"St. Joseph Care Group","SILLMAN","JANET","AdminiSt., Lakehead Psychiatric Hosp.","$210,353.26","$997.37",2002,"Hospitals"
+"588",588,"St. Joseph Care Group","WHITE","CARL","President","$156,940.53","$1,518.07",2002,"Hospitals"
+"589",589,"St. Joseph's Gen.
+   Hosp.,Elliot Lake","HUKEZALIE","MICHAEL","CEO","$108,386.78","$731.03",2002,"Hospitals"
+"590",590,"St. Joseph's Gen.
+   Hosp.,Elliot Lake","NG","JIM","Director - Paramedical Services","$111,715.27","$514.48",2002,"Hospitals"
+"591",591,"St. Joseph's Health
+   Centre","ALEXOPOULOU","VINA","Medical Personnel","$225,344.12","$4,154.38",2002,"Hospitals"
+"592",592,"St. Joseph's Health
+   Centre","BREARTON","ANDREW","Director","$105,653.82","$1,965.43",2002,"Hospitals"
+"593",593,"St. Joseph's Health
+   Centre","BRUNER","MARILYN","President and CEO","$344,999.80","$14,200.06",2002,"Hospitals"
+"594",594,"St. Joseph's Health
+   Centre","D'COSTA","MARIO","Director","$110,461.54","$2,042.09",2002,"Hospitals"
+"595",595,"St. Joseph's Health
+   Centre","DACOSTA","ROBERT","Vice-President","$213,077.65","$3,866.21",2002,"Hospitals"
+"596",596,"St. Joseph's Health
+   Centre","DUFF","VIRGINIA","Medical Personnel","$166,719.96","$3,521.95",2002,"Hospitals"
+"597",597,"St. Joseph's Health
+   Centre","GAMACHE","LEN","President, Foundation","$150,765.16","$3,408.07",2002,"Hospitals"
+"598",598,"St. Joseph's Health
+   Centre","GEORGIOU","VAS","Vice-President","$227,851.89","$3,875.26",2002,"Hospitals"
+"599",599,"St. Joseph's Health
+   Centre","JARRETT","SCOTT","Director","$103,801.17","$1,929.63",2002,"Hospitals"
+"600",600,"St. Joseph's Health
+   Centre","KAMEL","MONA","Medical Personnel","$200,442.32","$3,723.51",2002,"Hospitals"
+"601",601,"St. Joseph's Health
+   Centre","KRAJDEN","SIGMUND","Medical Personnel","$194,612.30","$3,598.09",2002,"Hospitals"
+"602",602,"St. Joseph's Health
+   Centre","KRISHNAN-PURI","NIRMALA","Medical Personnel","$156,052.81","$0.00",2002,"Hospitals"
+"603",603,"St. Joseph's Health
+   Centre","MACMASTER","MARY LYNNE","Director","$104,150.17","$1,943.96",2002,"Hospitals"
+"604",604,"St. Joseph's Health
+   Centre","MARKWELL","HAZEL","Director","$110,982.63","$2,064.18",2002,"Hospitals"
+"605",605,"St. Joseph's Health
+   Centre","MCGREGOR","DALE","Vice-President and CFO","$198,462.81","$3,640.38",2002,"Hospitals"
+"606",606,"St. Joseph's Health
+   Centre","MOSLEY","JANE","Chief Nursing Officer","$112,883.55","$1,945.04",2002,"Hospitals"
+"607",607,"St. Joseph's Health
+   Centre","PALISOC","JOSEPHINE","Registered Nurse","$127,251.69","$278.19",2002,"Hospitals"
+"608",608,"St. Joseph's Health
+   Centre","VALLENTIN","ELIZABETH","Director","$104,648.90","$1,968.61",2002,"Hospitals"
+"609",609,"St. Joseph's Health
+   Care, London","AGUILAR","OMAR","Psychiatrist","$149,292.00","$15,650.41",2002,"Hospitals"
+"610",610,"St. Joseph's Health
+   Care, London","BLICHOWSKI","TERESA","Psychiatrist","$148,815.22","$16,193.16",2002,"Hospitals"
+"611",611,"St. Joseph's Health
+   Care, London","BOUCHER","MICHAEL","Vice-President","$167,660.97","$24,170.79",2002,"Hospitals"
+"612",612,"St. Joseph's Health
+   Care, London","CHANDARANA","PRAFUL","Psychiatrist","$102,681.83","$0.00",2002,"Hospitals"
+"613",613,"St. Joseph's Health
+   Care, London","CHAYA","JIHAD","Psychiatrist","$120,530.65","$12,433.52",2002,"Hospitals"
+"614",614,"St. Joseph's Health
+   Care, London","CUNNINGHAM","ROBERT","Vice-President","$128,726.95","$17,859.53",2002,"Hospitals"
+"615",615,"St. Joseph's Health
+   Care, London","DIAZ","JULIO","Psychiatrist","$107,908.56","$9,401.79",2002,"Hospitals"
+"616",616,"St. Joseph's Health
+   Care, London","DROST","DICK","Physicist","$138,879.24","$389.24",2002,"Hospitals"
+"617",617,"St. Joseph's Health
+   Care, London","DUA","VARINDER","Psychiatrist","$183,023.88","$16,245.06",2002,"Hospitals"
+"618",618,"St. Joseph's Health
+   Care, London","ELLIS","JACK","Psychiatrist","$252,177.41","$453.60",2002,"Hospitals"
+"619",619,"St. Joseph's Health
+   Care, London","FISMAN","MICHAEL","Psychiatrist","$144,876.60","$15,798.53",2002,"Hospitals"
+"620",620,"St. Joseph's Health
+   Care, London","FISMAN","SANDRA","Psychiatrist","$127,994.67","$7,872.48",2002,"Hospitals"
+"621",621,"St. Joseph's Health
+   Care, London","FLETT","JAMES","Vice-President","$189,784.25","$24,246.73",2002,"Hospitals"
+"622",622,"St. Joseph's Health
+   Care, London","FROOD","JANET","Executive Director - Foundation","$103,230.37","$15,052.21",2002,"Hospitals"
+"623",623,"St. Joseph's Health
+   Care, London","HAND","KAREN","Psychiatrist","$149,054.40","$16,219.18",2002,"Hospitals"
+"624",624,"St. Joseph's Health
+   Care, London","HUSSAIN","FARIDA","Psychiatrist","$149,292.00","$16,245.06",2002,"Hospitals"
+"625",625,"St. Joseph's Health
+   Care, London","ISAAC","ISAAC","Psychiatrist","$124,239.33","$15,305.06",2002,"Hospitals"
+"626",626,"St. Joseph's Health
+   Care, London","JARMAIN","SARAH","Psychiatrist","$158,236.06","$16,245.05",2002,"Hospitals"
+"627",627,"St. Joseph's Health
+   Care, London","KERNAGHAN","GILLIAN","Vice-President","$155,603.14","$25,082.29",2002,"Hospitals"
+"628",628,"St. Joseph's Health
+   Care, London","KOMER","WILLIAM","Psychiatrist","$102,327.67","$1,318.57",2002,"Hospitals"
+"629",629,"St. Joseph's Health
+   Care, London","LEE","TING-YIM","Physicist","$135,191.76","$416.88",2002,"Hospitals"
+"630",630,"St. Joseph's Health
+   Care, London","LETTON","SANDRA","Vice-President","$165,907.05","$22,899.12",2002,"Hospitals"
+"631",631,"St. Joseph's Health
+   Care, London","LUM","DAVID","Physician","$124,775.00","$0.00",2002,"Hospitals"
+"632",632,"St. Joseph's Health
+   Care, London","MACKENZIE","ROBERT ARTHUR","Physician","$164,390.62","$80.20",2002,"Hospitals"
+"633",633,"St. Joseph's Health
+   Care, London","MARCIN","JUDI","Physician","$119,374.03","$16,244.88",2002,"Hospitals"
+"634",634,"St. Joseph's Health
+   Care, London","MCDONAGH","MARY","Physician","$119,375.23","$16,245.06",2002,"Hospitals"
+"635",635,"St. Joseph's Health
+   Care, London","MEREDITH","ROBERT","Director","$106,622.60","$306.72",2002,"Hospitals"
+"636",636,"St. Joseph's Health
+   Care, London","MILO","MICHAEL","Psychiatrist","$149,252.40","$16,240.75",2002,"Hospitals"
+"637",637,"St. Joseph's Health
+   Care, London","NICHOLSON","RICHARD","Physician","$208,035.65","$645.84",2002,"Hospitals"
+"638",638,"St. Joseph's Health
+   Care, London","NORDAL","CLIFFORD","President / CEO","$423,078.19","$28,737.36",2002,"Hospitals"
+"639",639,"St. Joseph's Health
+   Care, London","NOWICKI","IWONA","Psychiatrist","$149,292.00","$16,245.06",2002,"Hospitals"
+"640",640,"St. Joseph's Health
+   Care, London","PAVLOSKY","WILLIAM FRANK","Physician","$197,520.33","$584.64",2002,"Hospitals"
+"641",641,"St. Joseph's Health
+   Care, London","PRAKASH","ARUN","Psychiatrist","$222,156.03","$15,867.73",2002,"Hospitals"
+"642",642,"St. Joseph's Health
+   Care, London","PRATO","FRANK","Chief Physicist","$108,852.33","$372.00",2002,"Hospitals"
+"643",643,"St. Joseph's Health
+   Care, London","RABHERU","KIRAN","Psychiatrist","$158,241.03","$16,130.68",2002,"Hospitals"
+"644",644,"St. Joseph's Health
+   Care, London","RAJAN","IDUMBAN","Psychiatrist","$118,836.39","$12,433.52",2002,"Hospitals"
+"645",645,"St. Joseph's Health
+   Care, London","RAO","JAYASIMHA","Psychiatrist","$171,759.64","$37.80",2002,"Hospitals"
+"646",646,"St. Joseph's Health
+   Care, London","ROOPCHAND-MOHAMMED","RUPA","Psychiatrist","$149,292.00","$16,245.06",2002,"Hospitals"
+"647",647,"St. Joseph's Health
+   Care, London","ROSSER","MICHAEL","Director","$108,447.24","$1,453.34",2002,"Hospitals"
+"648",648,"St. Joseph's Health
+   Care, London","SADEK","GAMEL","Psychiatrist","$156,061.22","$16,214.62",2002,"Hospitals"
+"649",649,"St. Joseph's Health
+   Care, London","SALEEM","AZRA","Psychiatrist","$148,073.39","$15,869.97",2002,"Hospitals"
+"650",650,"St. Joseph's Health
+   Care, London","SINGARAYER","SIVASUNDARA","Psychiatrist","$149,290.42","$16,244.88",2002,"Hospitals"
+"651",651,"St. Joseph's Health
+   Care, London","SINGH","ABHAY","Psychiatrist","$149,292.00","$16,245.06",2002,"Hospitals"
+"652",652,"St. Joseph's Health
+   Care, London","SWAMY","GURU","Psychiatrist","$114,012.91","$11,356.68",2002,"Hospitals"
+"653",653,"St. Joseph's Health
+   Care, London","THOMPSON","R. TERRY","Physicist","$134,000.39","$391.26",2002,"Hospitals"
+"654",654,"St. Joseph's Health
+   Care, London","VAN BUSSEL","ELIZABETH","Physician","$107,843.58","$0.00",2002,"Hospitals"
+"655",655,"St. Joseph's Health
+   Care, London","WADDEN","PAUL","Psychiatrist","$149,292.00","$16,245.06",2002,"Hospitals"
+"656",656,"St. Joseph's Health
+   Care, London","WALLS","LARRY","Vice-President","$161,662.14","$25,340.59",2002,"Hospitals"
+"657",657,"St. Joseph's Health
+   Care, London","WHITNEY","DIANE","Site Chief","$137,467.20","$0.00",2002,"Hospitals"
+"658",658,"St. Joseph's Health
+   Care, London","WIEBENGA","MARJIE","Physician","$129,503.06","$15,370.28",2002,"Hospitals"
+"659",659,"St. Joseph's Health
+   Care, London","WINTERBURN","DANA","Physician","$116,375.02","$15,995.13",2002,"Hospitals"
+"660",660,"St. Joseph's Health
+   Care, London","WONG","WINSTON","Psychiatrist","$137,726.29","$16,245.06",2002,"Hospitals"
+"661",661,"St. Joseph's Health
+   Care, London","WYSTANSKI","MAREK","Psychiatrist","$142,975.80","$15,557.75",2002,"Hospitals"
+"662",662,"St. Joseph's Health
+   Care, London","ZARIFA","SUHAIL","Dentist","$101,580.81","$2,601.30",2002,"Hospitals"
+"663",663,"St. Josephs Health
+   Centre Guelph","SOLUK","RITA","President and CEO","$131,786.97","$7,934.38",2002,"Hospitals"
+"664",664,"St. Mary's Gen. Hosp.,
+   Kitchener","ANTONELLO","BRUCE M.","President and CEO","$199,999.80","$6,635.12",2002,"Hospitals"
+"665",665,"St. Mary's Gen. Hosp.,
+   Kitchener","ARQUINT","MONIQUE","Pathologist","$180,119.51","$876.41",2002,"Hospitals"
+"666",666,"St. Mary's Gen. Hosp.,
+   Kitchener","BARR","G, GERALD","Vice President, Finance & Administration","$129,391.54","$800.04",2002,"Hospitals"
+"667",667,"St. Mary's Gen. Hosp.,
+   Kitchener","BRAMWELL","MARION","Vice President Patient Services","$125,061.08","$775.70",2002,"Hospitals"
+"668",668,"St. Mary's Gen. Hosp.,
+   Kitchener","BRENNAN","MICHAEL","Pathologist","$184,426.91","$1,190.60",2002,"Hospitals"
+"669",669,"St. Mary's Gen. Hosp.,
+   Kitchener","CHANG","SZE-CHING","Pathologist","$185,731.91","$1,197.86",2002,"Hospitals"
+"670",670,"St. Mary's Gen. Hosp.,
+   Kitchener","KLEIN","JULIANNE","Pathologist","$215,710.91","$1,387.39",2002,"Hospitals"
+"671",671,"St. Mary's Gen. Hosp.,
+   Kitchener","TAYLOR","MOIRA","Vice President Planning and Comm.","$129,391.57","$800.04",2002,"Hospitals"
+"672",672,"St. Michael's Hospital","AMON","ELSIE","Registered Nurse","$107,603.64","$0.00",2002,"Hospitals"
+"673",673,"St. Michael's Hospital","BATTAGLIA","DONNA","Pathologist","$184,476.00","$595.10",2002,"Hospitals"
+"674",674,"St. Michael's Hospital","BELL","CECIL DAVID","Pathologist","$227,085.69","$649.20",2002,"Hospitals"
+"675",675,"St. Michael's Hospital","BELZA","PATRICIA","Program Director","$118,315.78","$386.33",2002,"Hospitals"
+"676",676,"St. Michael's Hospital","BHAVNANI","BHAGU","Director, Obs./Gyn. Research","$119,120.56","$7.02",2002,"Hospitals"
+"677",677,"St. Michael's Hospital","BUAN","AMEURFINA","Registered Nurse","$101,421.05","$217.04",2002,"Hospitals"
+"678",678,"St. Michael's Hospital","CHOW","SARAH","Director, Finance and CFO","$126,605.02","$517.29",2002,"Hospitals"
+"679",679,"St. Michael's Hospital","DEABREU","DIANE","Registered Nurse","$101,279.49","$234.00",2002,"Hospitals"
+"680",680,"St. Michael's Hospital","DEVLIN","H. R.","Director, Microbiology","$206,977.15","$649.20",2002,"Hospitals"
+"681",681,"St. Michael's Hospital","FERNANDEZ","TELMA","Registered Nurse","$109,222.31","$217.04",2002,"Hospitals"
+"682",682,"St. Michael's Hospital","FERRIS","HELEN","Program Director","$109,816.82","$356.79",2002,"Hospitals"
+"683",683,"St. Michael's Hospital","FORNASIER","VICTOR","Pathologist","$194,049.00","$610.17",2002,"Hospitals"
+"684",684,"St. Michael's Hospital","FOX","ROBERT M.","Director, Diagnostic Lab","$112,829.18","$363.88",2002,"Hospitals"
+"685",685,"St. Michael's Hospital","FREEDMAN, MD","JOHN J.","Director, Transfusion Medicine","$217,518.51","$730.32",2002,"Hospitals"
+"686",686,"St. Michael's Hospital","GARDINER, MD","GEOFFREY W.","Pathologist","$207,085.96","$649.20",2002,"Hospitals"
+"687",687,"St. Michael's Hospital","GARLAND","ANTOINETTE","Registered Nurse","$135,648.28","$217.04",2002,"Hospitals"
+"688",688,"St. Michael's Hospital","GARVEY","BERNADETTE","Haematopathologist","$190,237.71","$0.00",2002,"Hospitals"
+"689",689,"St. Michael's Hospital","HALLIDAY","SYLVIA","Vice President Human Resources","$172,112.45","$965.70",2002,"Hospitals"
+"690",690,"St. Michael's Hospital","HAWKINS","JOHN D.","Director, Clinical Informatics","$108,742.72","$344.85",2002,"Hospitals"
+"691",691,"St. Michael's Hospital","HAZELL","MYRTHLYN","Registered Nurse","$109,271.76","$0.00",2002,"Hospitals"
+"692",692,"St. Michael's Hospital","HEILBRONN","MICHAEL B.","Vice President","$137,368.62","$7,672.09",2002,"Hospitals"
+"693",693,"St. Michael's Hospital","HENRY","WILLIAM","Director, Information Technology","$117,010.71","$379.32",2002,"Hospitals"
+"694",694,"St. Michael's Hospital","HOWARD, MD","ROBERT","Chief Medical Officer & Exec. VP","$291,651.70","$1,178.36",2002,"Hospitals"
+"695",695,"St. Michael's Hospital","JHA","PRABHAT","Staff Research Scientist","$120,341.46","$137.96",2002,"Hospitals"
+"696",696,"St. Michael's Hospital","JOTHY, MD","SERGE","Medical Director - Diagnostic Labs","$313,459.90","$905.30",2002,"Hospitals"
+"697",697,"St. Michael's Hospital","KAYE","SALLY","Registered Nurse","$116,219.23","$0.00",2002,"Hospitals"
+"698",698,"St. Michael's Hospital","KEEN","MICHAEL","Director, Engineer and Plant Svc.","$101,406.45","$330.00",2002,"Hospitals"
+"699",699,"St. Michael's Hospital","KING","JOHN A.","Executive VP, Hospital Services","$115,568.68","$488.60",2002,"Hospitals"
+"700",700,"St. Michael's Hospital","LOZON","JEFFREY C.","President and CEO","$478,434.23","$15,082.68",2002,"Hospitals"
+"701",701,"St. Michael's Hospital","MANZER","ISOBEL","Director, Professional Practice","$107,772.71","$354.99",2002,"Hospitals"
+"702",702,"St. Michael's Hospital","MARGO","NAOMI","General Counsel","$141,334.61","$566.01",2002,"Hospitals"
+"703",703,"St. Michael's Hospital","MCLAUGHLIN","JOAN","Director, Supply Chain and Support","$113,296.38","$368.40",2002,"Hospitals"
+"704",704,"St. Michael's Hospital","MOFFAT","MALCOLM R.","VP, Planning Facilities and CPO","$211,671.76","$1,090.96",2002,"Hospitals"
+"705",705,"St. Michael's Hospital","MUDGE","BEATRICE","Program Director","$107,141.76","$347.70",2002,"Hospitals"
+"706",706,"St. Michael's Hospital","O'NEILL","JIM","Program Director","$121,759.23","$373.53",2002,"Hospitals"
+"707",707,"St. Michael's Hospital","PETRYSHEN","PATRICIA","Executive VP, Programs and CNO","$255,512.88","$7,473.66",2002,"Hospitals"
+"708",708,"St. Michael's Hospital","READ","NANCY","Program Director","$104,168.12","$342.91",2002,"Hospitals"
+"709",709,"St. Michael's Hospital","ROURKE","SEAN","Director, Mental Health Research","$115,611.34","$335.72",2002,"Hospitals"
+"710",710,"St. Michael's Hospital","SHIM","SOON E.","Registered Nurse","$101,590.23","$217.04",2002,"Hospitals"
+"711",711,"St. Michael's Hospital","SLUTSKY, MD","ARTHUR","Vice President, Research","$351,002.94","$1,336.47",2002,"Hospitals"
+"712",712,"St. Michael's Hospital","STREUTKER","CATHERINE J.","Pathologist","$189,850.08","$424.17",2002,"Hospitals"
+"713",713,"St. Michael's Hospital","TREGER","TAMARA D.","Pathologist","$220,979.44","$0.00",2002,"Hospitals"
+"714",714,"St. Michael's Hospital","U","THOMAS","Director, Medical Imaging","$109,012.30","$349.17",2002,"Hospitals"
+"715",715,"St. Michael's Hospital","VILLAR","LIGAYA E.","Registered Nurse","$110,304.12","$217.04",2002,"Hospitals"
+"716",716,"St. Michael's Hospital","WEGENER","JOHN G.","VP, Information Management and CIO","$193,496.48","$1,057.64",2002,"Hospitals"
+"717",717,"St. Michael's Hospital","WELLS","JANICE","Manager, Pharmacy Administration","$100,507.41","$320.07",2002,"Hospitals"
+"718",718,"St. Michael's Hospital","ZELLERMEYER","VALERIE","Program Director","$109,448.82","$359.31",2002,"Hospitals"
+"719",719,"St. Peter's Hospital","BAIRD","VICTORIA","VP, Planning","$126,461.10","$1,248.24",2002,"Hospitals"
+"720",720,"St. Peter's Hospital","CRIPPS","DONNA","Senior VP and COO","$160,000.00","$1,211.93",2002,"Hospitals"
+"721",721,"St. Peter's Hospital","KING","ROBERT","VP and CFO","$139,223.14","$1,368.69",2002,"Hospitals"
+"722",722,"St. Peter's Hospital","OSTLER","JOHN","Executive Director","$104,541.43","$5,408.76",2002,"Hospitals"
+"723",723,"St. Peter's Hospital","RUETZ","JOHN","VP, Patient Services","$117,100.00","$1,119.93",2002,"Hospitals"
+"724",724,"St. Peter's Hospital","WALSH","GRANT","President and CEO","$158,751.95","$7,312.50",2002,"Hospitals"
+"725",725,"St. Thomas Elgin General
+   Hospital","COLLINS","PAUL","CEO","$143,999.81","$1,448.48",2002,"Hospitals"
+"726",726,"St. Thomas Elgin General
+   Hospital","CRAIG","IAN","Pathologist","$221,999.71","$1,126.98",2002,"Hospitals"
+"727",727,"St. Thomas Elgin General
+   Hospital","SHUM","DAVID","Pathologist","$209,999.40","$1,068.63",2002,"Hospitals"
+"728",728,"Strathroy Middlesex
+   General Hosp.","MAZZA","MICHAEL","CEO-Middlesex Hospital Alliance","$117,690.09","$732.46",2002,"Hospitals"
+"729",729,"Sudbury Regional
+   Hospital","BOYLE","DAVID","Chief of Staff","$200,913.25","$480.93",2002,"Hospitals"
+"730",730,"Sudbury Regional
+   Hospital","COTE","GILBERT","Medical Director Genetics","$147,678.95","$456.69",2002,"Hospitals"
+"731",731,"Sudbury Regional
+   Hospital","GIROAMETTO","CINDY","Registered Nurse","$104,320.61","$193.53",2002,"Hospitals"
+"732",732,"Sudbury Regional
+   Hospital","KAMINSKI","VICTORIA","President and
+   CEO, HRSRH","$203,999.28","$6,630.58",2002,"Hospitals"
+"733",733,"Sudbury Regional
+   Hospital","KIERENAN","PATRICIA","Pharmacist","$102,807.18","$246.21",2002,"Hospitals"
+"734",734,"Sudbury Regional
+   Hospital","LAPOINTE","VIVIANE","Corporate Communications","$103,949.84","$321.47",2002,"Hospitals"
+"735",735,"Sudbury Regional
+   Hospital","MACLELLAN","BONNIE","President and CEO, SJHC","$107,894.81","$4,430.55",2002,"Hospitals"
+"736",736,"Sudbury Regional
+   Hospital","MALO","AUREL","VP, Corporate Services","$117,599.85","$3,363.17",2002,"Hospitals"
+"737",737,"Sudbury Regional
+   Hospital","MCNEIL","DAVID","VP, Clinical Programs and CNO","$117,599.83","$3,363.17",2002,"Hospitals"
+"738",738,"Sudbury Regional
+   Hospital","THOMPSON","PATRICIA","Senior Pharmacist","$103,312.07","$253.92",2002,"Hospitals"
+"739",739,"Sunnybrook & Women's
+   College","BECK","SHIRLEY ANN","Director","$111,566.01","$1,192.29",2002,"Hospitals"
+"740",740,"Sunnybrook & Women's
+   College","BLACK","ELIZABETH","Staff Nurse","$111,891.49","$0.00",2002,"Hospitals"
+"741",741,"Sunnybrook & Women's
+   College","BOEHM","LESLIE","Director","$171,387.11","$1,322.50",2002,"Hospitals"
+"742",742,"Sunnybrook & Women's
+   College","BRADY","KIRK G.","Director","$135,184.57","$1,213.10",2002,"Hospitals"
+"743",743,"Sunnybrook & Women's
+   College","BRAGAGNOLO","CAROL M.","VP, Corporate Planning & Development","$256,917.77","$3,192.95",2002,"Hospitals"
+"744",744,"Sunnybrook & Women's
+   College","BRONSKILL","MICHAEL J.","Scientist","$155,277.35","$1,262.23",2002,"Hospitals"
+"745",745,"Sunnybrook & Women's
+   College","BURNS","PETER","Scientist","$105,535.69","$1,078.33",2002,"Hospitals"
+"746",746,"Sunnybrook & Women's
+   College","DAVIDOV","KETI","Staff Nurse","$109,359.30","$205.52",2002,"Hospitals"
+"747",747,"Sunnybrook & Women's
+   College","DELACY","JANE","Director of Operations","$122,665.74","$1,237.58",2002,"Hospitals"
+"748",748,"Sunnybrook & Women's
+   College","DUBE","IAN","Director of Laboratory Medicine","$199,953.97","$1,726.80",2002,"Hospitals"
+"749",749,"Sunnybrook & Women's
+   College","FERDINAND","JAE-MARIE","Clinical Assistant","$122,686.09","$363.13",2002,"Hospitals"
+"750",750,"Sunnybrook & Women's
+   College","FILLION","LOIS J.","Director of Operations","$106,689.47","$1,160.66",2002,"Hospitals"
+"751",751,"Sunnybrook & Women's
+   College","FOSTER","STUART","Director of Laboratory Medicine","$128,035.33","$1,201.80",2002,"Hospitals"
+"752",752,"Sunnybrook & Women's
+   College","FRIESEN","SARAH","Clinical Assistant","$121,990.27","$1,235.01",2002,"Hospitals"
+"753",753,"Sunnybrook & Women's
+   College","GILMOUR","WENDY F.","Director of Operations","$239,240.45","$2,818.07",2002,"Hospitals"
+"754",754,"Sunnybrook & Women's
+   College","GRAHAM","MEL","Senior Scientist","$120,951.03","$1,077.69",2002,"Hospitals"
+"755",755,"Sunnybrook & Women's
+   College","GREEN","PETER","Director","$135,470.92","$1,241.04",2002,"Hospitals"
+"756",756,"Sunnybrook & Women's
+   College","HALPERN","STEPHEN","VP, Clinical Support Services","$127,091.19","$413.95",2002,"Hospitals"
+"757",757,"Sunnybrook & Women's
+   College","HANNA","WEDAD","Director","$279,999.14","$913.92",2002,"Hospitals"
+"758",758,"Sunnybrook & Women's
+   College","HANNAH","MARY E.","Director","$209,021.76","$683.76",2002,"Hospitals"
+"759",759,"Sunnybrook & Women's
+   College","HENKELMAN","MARK","Director","$144,692.50","$1,279.05",2002,"Hospitals"
+"760",760,"Sunnybrook & Women's
+   College","JULIUS","MICHAEL","Chief Pathology","$311,438.29","$3,644.60",2002,"Hospitals"
+"761",761,"Sunnybrook & Women's
+   College","KAHN","HARRIETTE","Doctor","$199,896.00","$652.80",2002,"Hospitals"
+"762",762,"Sunnybrook & Women's
+   College","KERBEL","ROBERT S.","Scientist","$167,341.97","$1,313.76",2002,"Hospitals"
+"763",763,"Sunnybrook & Women's
+   College","LATTER","DEBORAH","VP, Research","$108,874.92","$0.00",2002,"Hospitals"
+"764",764,"Sunnybrook & Women's
+   College","LENNOX","KATHRYN","Pathologist","$142,291.30","$0.00",2002,"Hospitals"
+"765",765,"Sunnybrook & Women's
+   College","LOWE","NINA","Scientist","$125,121.22","$1,243.39",2002,"Hospitals"
+"766",766,"Sunnybrook & Women's
+   College","LYTWYN","ALICE","Administrative Analyst","$199,530.66","$652.80",2002,"Hospitals"
+"767",767,"Sunnybrook & Women's
+   College","MACDONALD","HEATHER","Strategy and Development","$193,808.01","$601.34",2002,"Hospitals"
+"768",768,"Sunnybrook & Women's
+   College","MACLAN","HEATHER","Director","$194,404.12","$1,362.00",2002,"Hospitals"
+"769",769,"Sunnybrook & Women's
+   College","MACLEOD","ANNE-MARIE","Pathologist","$111,942.10","$363.40",2002,"Hospitals"
+"770",770,"Sunnybrook & Women's
+   College","MALCOLM","NANCY E.","Medical Director - LT Care","$201,372.86","$0.00",2002,"Hospitals"
+"771",771,"Sunnybrook & Women's
+   College","MARAFIOTI","SAM","Director","$247,965.74","$1,209.04",2002,"Hospitals"
+"772",772,"Sunnybrook & Women's
+   College","MATYAS","YVETTER","Program Director","$111,976.06","$205.52",2002,"Hospitals"
+"773",773,"Sunnybrook & Women's
+   College","MAULGUE","ZAIDA","CEO WCACC","$123,524.87","$4,572.99",2002,"Hospitals"
+"774",774,"Sunnybrook & Women's
+   College","MCCUTCHEON","DAVID J","VP, Information Services","$394,625.31","$1,258.77",2002,"Hospitals"
+"775",775,"Sunnybrook & Women's
+   College","MCPHERSON","HEATHER J","Director of Operations","$105,162.45","$1,206.28",2002,"Hospitals"
+"776",776,"Sunnybrook & Women's
+   College","MILONE","LINA","Staff Nurse","$110,585.85","$1,902.99",2002,"Hospitals"
+"777",777,"Sunnybrook & Women's
+   College","MITCHELL","GAIL","ADM","$213,566.18","$1,162.40",2002,"Hospitals"
+"778",778,"Sunnybrook & Women's
+   College","MORRIS","ANNE","Chief Health Disciplines","$111,976.06","$1,213.26",2002,"Hospitals"
+"779",779,"Sunnybrook & Women's
+   College","ORR","ROBERT J","Director","$115,158.49","$1,192.29",2002,"Hospitals"
+"780",780,"Sunnybrook & Women's
+   College","PATON","THOMAS W","Chief Nursing Officer","$105,228.94","$1,166.44",2002,"Hospitals"
+"781",781,"Sunnybrook & Women's
+   College","PICKLES","JOHNATHON F","Director of Operations","$103,787.92","$1,178.80",2002,"Hospitals"
+"782",782,"Sunnybrook & Women's
+   College","PLEWES","DONALD B","Project Manager","$118,035.33","$1,297.20",2002,"Hospitals"
+"783",783,"Sunnybrook & Women's
+   College","POUSSIER","PHILLIPE G","Director","$146,034.37","$0.00",2002,"Hospitals"
+"784",784,"Sunnybrook & Women's
+   College","PREYRA","COLIN E","Director","$100,029.97","$381.77",2002,"Hospitals"
+"785",785,"Sunnybrook & Women's College","PRICE","JENNIFER A","Scientist","$121,870.17","$652.80",2002,"Hospitals"
+"786",786,"Sunnybrook & Women's College","RAPHEAL","SIMON J","Senior Scientist","$199,530.66","$205.52",2002,"Hospitals"
+"787",787,"Sunnybrook & Women's
+   College","READ","GORDON","Senior Methodologist","$103,866.50","$375.88",2002,"Hospitals"
+"788",788,"Sunnybrook & Women's
+   College","REDDICK","MARILYN","Nurse Practitioner","$136,815.28","$1,176.36",2002,"Hospitals"
+"789",789,"Sunnybrook & Women's
+   College","ROWLANDS","JOHN A","Pathologist","$110,535.72","$445.95",2002,"Hospitals"
+"790",790,"Sunnybrook & Women's
+   College","SETH","ARUN","Staff Nurse","$137,884.72","$3,018.56",2002,"Hospitals"
+"791",791,"Sunnybrook & Women's
+   College","SHAW","GREG","Director Human Resources","$240,082.17","$3,512.46",2002,"Hospitals"
+"792",792,"Sunnybrook & Women's
+   College","STEVEN","LEO","Scientist","$214,914.35","$4,015.66",2002,"Hospitals"
+"793",793,"Sunnybrook & Women's
+   College","THOMPSON","LESLEE","Moledculary Biologist","$101,888.94","$1,185.24",2002,"Hospitals"
+"794",794,"Sunnybrook & Women's
+   College","TIERNEY","MARY C","VP Human Resources","$289,982.60","$3,373.16",2002,"Hospitals"
+"795",795,"Sunnybrook & Women's
+   College","TOPP","ADAM R","President and CEO","$200,311.80","$654.48",2002,"Hospitals"
+"796",796,"Sunnybrook & Women's
+   College","VEARNCOMBE","MARY E","Sr. Operating Officer","$118,327.97","$359.86",2002,"Hospitals"
+"797",797,"Sunnybrook & Women's
+   College","WATSON-MACDONNELL","MARY-JO","Coordinator","$123,734.76","$1,206.96",2002,"Hospitals"
+"798",798,"Sunnybrook & Women's
+   College","YAFFE","MARTIN J","VP and CFO Finance","$220,738.64","$3,091.55",2002,"Hospitals"
+"799",799,"Sunnybrook & Women's
+   College","YOUNG","MICHAEL S","Epidemiologist","$199,646.04","$598.40",2002,"Hospitals"
+"800",800,"Sunnybrook & Women's
+   College","ZBIERANOWSKI","INGRID","Co-Program Perinatal and GYN","$199,646.04","$1,194.24",2002,"Hospitals"
+"801",801,"Sunnybrook & Women's
+   College","ZUNIGA-PFLUCKER","JUAN C","Scientist","$105,036.97","$1,194.24",2002,"Hospitals"
+"802",802,"TB Regional Hospital","BENOIT","LAURIE","Registered Nurse","$111,280.81","$0.00",2002,"Hospitals"
+"803",803,"TB Regional Hospital","BILODEAU","LAURIE","Registered Nurse","$108,920.28","$403.64",2002,"Hospitals"
+"804",804,"TB Regional Hospital","CROCKER","RHONDA","VP Clinical Services","$107,019.72","$2,872.74",2002,"Hospitals"
+"805",805,"TB Regional Hospital","DAGSVIK","HAAKON","Project Coordinator","$107,424.01","$4,276.81",2002,"Hospitals"
+"806",806,"TB Regional Hospital","ESCOTT","N.G.","Assoc. Pathologist","$163,097.34","$864.77",2002,"Hospitals"
+"807",807,"TB Regional Hospital","MARSHALL","LORI","Sr. VP Patient Care","$127,729.50","$3,155.66",2002,"Hospitals"
+"808",808,"TB Regional Hospital","POTTS","SCOTT","Sr. VP Corporate Services","$149,278.78","$3,188.22",2002,"Hospitals"
+"809",809,"TB Regional Hospital","SADDINGTON","RONALD","President","$207,940.79","$9,910.16",2002,"Hospitals"
+"810",810,"TB Regional Hospital","WASIELEWSKI","JOSEPH","Chief Pathologist","$163,097.33","$864.77",2002,"Hospitals"
+"811",811,"TB Regional Hospital","WRIGHT","SUSAN","Registered Nurse","$103,688.75","$403.64",2002,"Hospitals"
+"812",812,"Temiskaming Hospital","COVEYDUCK","WAYNE","Executive Director","$134,886.00","$882.00",2002,"Hospitals"
+"813",813,"The Credit Valley
+   Hospital","ANDERSEN","HELEN","Admin. Director, Program Management","$105,303.29","$355.32",2002,"Hospitals"
+"814",814,"The Credit Valley
+   Hospital","BACHLE","MARG","VP, Nursing","$160,223.67","$7,078.55",2002,"Hospitals"
+"815",815,"The Credit Valley
+   Hospital","BANDLER","NORMA","VP, Resource Development","$159,418.29","$9,344.84",2002,"Hospitals"
+"816",816,"The Credit Valley
+   Hospital","BOWIE","JAMIE","Director, Information Systems","$112,889.44","$364.94",2002,"Hospitals"
+"817",817,"The Credit Valley
+   Hospital","CHAPMAN","CORRINE","Admin. Director, Program Management","$107,803.30","$355.32",2002,"Hospitals"
+"818",818,"The Credit Valley
+   Hospital","DEHAY-TURNER","SHELLEY","Nursing Director","$100,858.68","$339.17",2002,"Hospitals"
+"819",819,"The Credit Valley
+   Hospital","DOUGLAS","BEVERLY","Nursing Director","$108,142.40","$355.32",2002,"Hospitals"
+"820",820,"The Credit Valley
+   Hospital","FELTIS","TIMOTHY","Pathologist","$182,922.03","$617.10",2002,"Hospitals"
+"821",821,"The Credit Valley
+   Hospital","FYFFE","WAYNE","President","$257,669.93","$14,065.82",2002,"Hospitals"
+"822",822,"The Credit Valley
+   Hospital","GEDDIE","WILLIAM","Pathologist","$182,922.04","$617.10",2002,"Hospitals"
+"823",823,"The Credit Valley
+   Hospital","GERMAIN","DAN","VP, Finance","$160,223.69","$7,078.55",2002,"Hospitals"
+"824",824,"The Credit Valley
+   Hospital","HILLEBRAND","NICOLETTE","Director, Pharmacy","$104,283.89","$351.66",2002,"Hospitals"
+"825",825,"The Credit Valley
+   Hospital","HODGES","SHARON","Nursing Director","$108,224.59","$355.32",2002,"Hospitals"
+"826",826,"The Credit Valley
+   Hospital","JOHNSON","WENDY","Director, Community Relations / Comm.","$104,868.58","$344.94",2002,"Hospitals"
+"827",827,"The Credit Valley
+   Hospital","KING","DOUGLAS","VP, Support Services","$180,811.70","$7,078.55",2002,"Hospitals"
+"828",828,"The Credit Valley
+   Hospital","LANG-BERKOWITZ","ANNE MARIE","Admin. Director, Program Management","$105,302.27","$355.32",2002,"Hospitals"
+"829",829,"The Credit Valley
+   Hospital","LO","VINCENT","Director, Psychology","$101,950.73","$335.07",2002,"Hospitals"
+"830",830,"The Credit Valley
+   Hospital","MERCURI","PAT","Admin. Director, Program Management","$109,258.21","$355.32",2002,"Hospitals"
+"831",831,"The Credit Valley
+   Hospital","NOBLE","RON","VP, Corporate Planning","$103,487.30","$4,709.93",2002,"Hospitals"
+"832",832,"The Credit Valley
+   Hospital","ROSS","JAMES","Director, Human Resources","$120,266.13","$794.29",2002,"Hospitals"
+"833",833,"The Credit Valley
+   Hospital","ROWE","DAVID","Senior Vice President","$197,808.25","$7,554.12",2002,"Hospitals"
+"834",834,"The Credit Valley
+   Hospital","SPEEVAK","MARSHA","Cytogeneticist","$112,401.22","$379.38",2002,"Hospitals"
+"835",835,"The Credit Valley
+   Hospital","SUE CHUE LAM","ANDREW","Pathologist","$182,922.00","$617.10",2002,"Hospitals"
+"836",836,"The Hospital for Sick
+   Children","ABDELHALEEM","MOHAMED","Div. Head, Haematopathology","$234,609.20","$2,058.90",2002,"Hospitals"
+"837",837,"The Hospital for Sick
+   Children","ACKERLEY","CAMERON A","Em Applications Specialis","$114,398.21","$0.00",2002,"Hospitals"
+"838",838,"The Hospital for Sick
+   Children","ADELI","KHOSROW","Head Division of Biochemi","$146,151.80","$1,063.90",2002,"Hospitals"
+"839",839,"The Hospital for Sick
+   Children","AHMED","KHWAJA SALAHUDDIN","Senior Project Director","$122,598.70","$0.00",2002,"Hospitals"
+"840",840,"The Hospital for Sick
+   Children","ALDIS","JOHN","Senior Project
+   Director","$132,598.71","$0.00",2002,"Hospitals"
+"841",841,"The Hospital for Sick
+   Children","ANDERSON","MICHAEL L","Lab Info Systems Administ","$104,707.62","$0.00",2002,"Hospitals"
+"842",842,"The Hospital for Sick
+   Children","ARMSTRONG","DEREK","Radiologist","$417,305.70","$1,063.90",2002,"Hospitals"
+"843",843,"The Hospital for Sick
+   Children","ASH","JUDITH","Radiologist","$245,002.94","$1,063.90",2002,"Hospitals"
+"844",844,"The Hospital for Sick
+   Children","BABYN","PAUL S","Radiologist In Chief","$423,502.80","$1,063.90",2002,"Hospitals"
+"845",845,"The Hospital for Sick
+   Children","BARBITA","JOSEANN","Director, Child Health Services","$107,862.00","$0.00",2002,"Hospitals"
+"846",846,"The Hospital for Sick
+   Children","BAZETT-JONES","DAVID","Senior Scientist","$133,240.10","$2,420.02",2002,"Hospitals"
+"847",847,"The Hospital for Sick
+   Children","BEAR","CHRISTINE","Senior Scientist","$108,884.30","$1,063.90",2002,"Hospitals"
+"848",848,"The Hospital for Sick
+   Children","BECKER","LAURENCE","Chief Paediatric Laborato","$247,190.61","$453.60",2002,"Hospitals"
+"849",849,"The Hospital for Sick
+   Children","BENSELER","SUSANNE","Clinical Fellow","$175,823.44","$0.00",2002,"Hospitals"
+"850",850,"The Hospital for Sick
+   Children","BLAIS","IRENE R","Financial
+   Director; CHS","$107,615.00","$0.00",2002,"Hospitals"
+"851",851,"The Hospital for Sick
+   Children","BLASER","SUSAN","Radiologist","$350,004.20","$1,063.90",2002,"Hospitals"
+"852",852,"The Hospital for Sick
+   Children","BOGGS","JOAN","Senior Scientist","$117,313.35","$1,063.90",2002,"Hospitals"
+"853",853,"The Hospital for Sick
+   Children","BOOTH","MARILYN","Director Child Health Sys","$150,780.50","$0.00",2002,"Hospitals"
+"854",854,"The Hospital for Sick
+   Children","BOULIANNE","GABRIELLE","Senior Scientist","$179,021.90","$1,063.90",2002,"Hospitals"
+"855",855,"The Hospital for Sick
+   Children","BUCHWALD","MANUEL","Chief, Research
+   Institute","$363,593.30","$4,830.96",2002,"Hospitals"
+"856",856,"The Hospital for Sick
+   Children","BURNS","JUDY","Director, Child Health Services + G1328","$112,772.46","$0.00",2002,"Hospitals"
+"857",857,"The Hospital for Sick
+   Children","CALLAHAN","JOHN","Neuroscientist","$116,468.80","$1,063.90",2002,"Hospitals"
+"858",858,"The Hospital for Sick
+   Children","CARR","DONNA","Director, Child Health Services","$102,414.80","$0.00",2002,"Hospitals"
+"859",859,"The Hospital for Sick
+   Children","CHAIT","PETER","Radiologist","$549,990.40","$1,063.90",2002,"Hospitals"
+"860",860,"The Hospital for Sick
+   Children","CHEYNE","DOUGLAS","Senior Scientist","$112,733.25","$10,517.92",2002,"Hospitals"
+"861",861,"The Hospital for Sick
+   Children","CHRISTIAN","ANNE M","Assoc Chief;
+   Research Op","$175,289.50","$0.00",2002,"Hospitals"
+"862",862,"The Hospital for Sick
+   Children","CHUANG","SYLVESTER","Radiologist","$350,004.20","$1,063.90",2002,"Hospitals"
+"863",863,"The Hospital for Sick
+   Children","COHEN","AMOS","Senior Scientist","$110,517.05","$1,063.90",2002,"Hospitals"
+"864",864,"The Hospital for Sick
+   Children","CONNOLLY","BAIRBRE L","Radiologist","$439,999.60","$1,063.90",2002,"Hospitals"
+"865",865,"The Hospital for Sick
+   Children","COREY","MARY","Senior Scientist","$108,185.00","$1,063.90",2002,"Hospitals"
+"866",866,"The Hospital for Sick
+   Children","CORTEZ","MIGUEL A","Neurophysiologist","$103,988.31","$0.00",2002,"Hospitals"
+"867",867,"The Hospital for Sick
+   Children","CRAIG","STEPHEN R","Sr. Project Manager","$102,776.20","$0.00",2002,"Hospitals"
+"868",868,"The Hospital for Sick
+   Children","CUTZ","ERNEST","Pathologist","$210,211.50","$1,063.90",2002,"Hospitals"
+"869",869,"The Hospital for Sick
+   Children","DANEMAN","ALAN","Radiologist","$350,004.20","$1,063.90",2002,"Hospitals"
+"870",870,"The Hospital for Sick
+   Children","DANSKA","JAYNE S","Senior Scientist","$110,608.05","$1,063.90",2002,"Hospitals"
+"871",871,"The Hospital for Sick
+   Children","DE GIUSTI","CYNDY R","Chief, Public
+   Affairs","$176,560.81","$6,781.48",2002,"Hospitals"
+"872",872,"The Hospital for Sick
+   Children","DEBER","CHARLES","Senior Scientist","$131,836.60","$1,063.90",2002,"Hospitals"
+"873",873,"The Hospital for Sick
+   Children","DENNIS","MAUREEN","Senior Scientist","$132,823.95","$1,063.90",2002,"Hospitals"
+"874",874,"The Hospital for Sick
+   Children","DICK","JOHN E","Senior Scientist","$124,865.18","$3,670.66",2002,"Hospitals"
+"875",875,"The Hospital for Sick
+   Children","DOSCH","HANS","Senior Scientist","$130,196.15","$1,063.90",2002,"Hospitals"
+"876",876,"The Hospital for Sick
+   Children","DOSWELL","MARGARET","Director, Child Health Services","$103,456.29","$0.00",2002,"Hospitals"
+"877",877,"The Hospital for Sick
+   Children","EDMONDS","JOHN","Clin Dir Medical Informat","$214,887.40","$1,063.90",2002,"Hospitals"
+"878",878,"The Hospital for Sick
+   Children","EGAN","SEAN E","Senior Scientist","$103,533.50","$1,063.90",2002,"Hospitals"
+"879",879,"The Hospital for Sick
+   Children","ELLIS","JAMES","Senior Scientist","$101,565.80","$1,063.90",2002,"Hospitals"
+"880",880,"The Hospital for Sick
+   Children","FARMER","IAN CAMERON","Financial Operations Dire","$111,387.20","$0.00",2002,"Hospitals"
+"881",881,"The Hospital for Sick
+   Children","FORMAN-KAY","JULIE D","Senior Scientist","$113,999.90","$1,063.90",2002,"Hospitals"
+"882",882,"The Hospital for Sick
+   Children","FORSTNER","JANET","Senior Scientist","$126,940.10","$1,063.90",2002,"Hospitals"
+"883",883,"The Hospital for Sick
+   Children","GAYER","ALAN","President & CEO","$318,749.94","$45,725.10",2002,"Hospitals"
+"884",884,"The Hospital for Sick
+   Children","GIBNEY","BRENDAN","Vice President","$223,787.04","$12,597.07",2002,"Hospitals"
+"885",885,"The Hospital for Sick
+   Children","GILDAY","DAVID L","Radiologist","$350,004.20","$1,063.90",2002,"Hospitals"
+"886",886,"The Hospital for Sick Children","GOLDBLOOM","ALAN","Executive Vice President,COO","$503,749.68","$26,098.65",2002,"Hospitals"
+"887",887,"The Hospital for Sick
+   Children","GRAVELINE","CHANTAL","Director; Rehab
+   Services","$127,340.27","$0.00",2002,"Hospitals"
+"888",888,"The Hospital for Sick
+   Children","GRINSTEIN","SERGIO","Senior Scientist","$204,342.00","$1,063.90",2002,"Hospitals"
+"889",889,"The Hospital for Sick
+   Children","GRUENWALD","COLLEEN","Director; Perfusion","$116,633.64","$0.00",2002,"Hospitals"
+"890",890,"The Hospital for Sick
+   Children","GUERIN","DANIEL","Director Information Services","$168,428.59","$0.00",2002,"Hospitals"
+"891",891,"The Hospital for Sick
+   Children","GUIDOS","CYNTHIA J","Senior Scientist","$108,580.15","$1,063.90",2002,"Hospitals"
+"892",892,"The Hospital for Sick
+   Children","HADDAD","MARY JO","Vice President, CHS","$222,595.66","$24,771.71",2002,"Hospitals"
+"893",893,"The Hospital for Sick
+   Children","HAJ-ASSAAD","LUTFI","Director, Child Health Services","$103,538.30","$0.00",2002,"Hospitals"
+"894",894,"The Hospital for Sick
+   Children","HALES","BEVERLEY J","Director Of Pharmacy","$111,770.87","$0.00",2002,"Hospitals"
+"895",895,"The Hospital for Sick
+   Children","HARRISON","ROBERT V","Senior Scientist","$139,032.54","$1,063.90",2002,"Hospitals"
+"896",896,"The Hospital for Sick
+   Children","HETHERINGTON","CAMERON ROSS","Senior Project
+   Director","$116,681.60","$0.00",2002,"Hospitals"
+"897",897,"The Hospital for Sick
+   Children","HINEK","ALEKSANDER","Senior Scientist","$113,135.75","$1,063.90",2002,"Hospitals"
+"898",898,"The Hospital for Sick
+   Children","HOLTHAM","ANGELA","CFO & VP Finance","$153,522.73","$24,001.20",2002,"Hospitals"
+"899",899,"The Hospital for Sick
+   Children","HOWE","STUART","Director Business Development","$144,784.90","$0.00",2002,"Hospitals"
+"900",900,"The Hospital for Sick
+   Children","HOWELL","P. LYNNE","Senior Scientist","$114,454.55","$1,063.90",2002,"Hospitals"
+"901",901,"The Hospital for Sick
+   Children","HU","JIM","Senior Scientist","$104,337.10","$0.00",2002,"Hospitals"
+"902",902,"The Hospital for Sick
+   Children","HUI","CHI-CHUNG","Senior Scientist","$112,088.90","$1,063.90",2002,"Hospitals"
+"903",903,"The Hospital for Sick
+   Children","HUMPHRIES","THOMAS","Psychologist Ph.D","$102,827.15","$0.00",2002,"Hospitals"
+"904",904,"The Hospital for Sick
+   Children","HYTONEN","TIMO","Vice President, HR","$211,355.66","$18,620.96",2002,"Hospitals"
+"905",905,"The Hospital for Sick
+   Children","JANKOV","ROBERT","Research Fellow","$104,808.76","$0.00",2002,"Hospitals"
+"906",906,"The Hospital for Sick
+   Children","JEFFERY","JULIANNA C","Director, Child Health Services","$107,863.10","$0.00",2002,"Hospitals"
+"907",907,"The Hospital for Sick
+   Children","JEWELL","SUSAN M","Managing Director","$133,748.20","$0.00",2002,"Hospitals"
+"908",908,"The Hospital for Sick
+   Children","JOHN","PHILIP","Radiologist","$275,964.85","$901.90",2002,"Hospitals"
+"909",909,"The Hospital for Sick
+   Children","JOHNSTON","DOUGLAS H","Dentist-In-Chief","$163,567.04","$1,063.90",2002,"Hospitals"
+"910",910,"The Hospital for Sick
+   Children","JUDD","PETER","Director,
+   Paediatric Den","$110,233.76","$1,063.90",2002,"Hospitals"
+"911",911,"The Hospital for Sick
+   Children","KEELEY","FREDERICK W","Senior Scientist","$155,398.12","$1,063.90",2002,"Hospitals"
+"912",912,"The Hospital for Sick
+   Children","KENNY","DAVID J","Director, Dental
+   Research","$150,011.68","$1,063.90",2002,"Hospitals"
+"913",913,"The Hospital for Sick
+   Children","KING-HRYCAJ","BRENDA D","Treasurer","$121,628.30","$0.00",2002,"Hospitals"
+"914",914,"The Hospital for Sick
+   Children","KLIP-DE GRINSTEIN","AMIRA","Senior Scientist","$171,843.80","$1,063.90",2002,"Hospitals"
+"915",915,"The Hospital for Sick
+   Children","LAU","WENDY WAI-CHE","Haematologist","$168,305.76","$1,063.90",2002,"Hospitals"
+"916",916,"The Hospital for Sick
+   Children","LETARTE","MICHELLE","Senior Scientist","$133,445.20","$1,063.90",2002,"Hospitals"
+"917",917,"The Hospital for Sick
+   Children","LEWIS","SUSANNA","Senior Scientist","$105,554.40","$1,063.90",2002,"Hospitals"
+"918",918,"The Hospital for Sick
+   Children","LINGWOOD","CLIFFORD","Senior Scientist","$120,791.65","$1,063.90",2002,"Hospitals"
+"919",919,"The Hospital for Sick
+   Children","LIPSHITZ","HOWARD","Senior Scientist","$168,167.50","$1,063.90",2002,"Hospitals"
+"920",920,"The Hospital for Sick
+   Children","LOVETT","MAUREEN","Senior Scientist","$120,512.00","$1,063.90",2002,"Hospitals"
+"921",921,"The Hospital for Sick
+   Children","LUKACS","GERGELY L.","Senior Scientist","$100,874.20","$0.00",2002,"Hospitals"
+"922",922,"The Hospital for Sick
+   Children","MACDONALD","CATHY E","Radiologist","$350,004.20","$1,063.90",2002,"Hospitals"
+"923",923,"The Hospital for Sick
+   Children","MACKIE","BRIAN","Financial Operations Director","$108,629.30","$0.00",2002,"Hospitals"
+"924",924,"The Hospital for Sick
+   Children","MACRAE","SEONAG","Director of Strategy","$133,875.60","$0.00",2002,"Hospitals"
+"925",925,"The Hospital for Sick
+   Children","MAHURAN","DON J","Senior Scientist","$117,568.85","$1,063.90",2002,"Hospitals"
+"926",926,"The Hospital for Sick
+   Children","MALENCH","SUSAN","Director; Finance - RI","$110,457.70","$0.00",2002,"Hospitals"
+"927",927,"The Hospital for Sick
+   Children","MANSON","DAVID E","Radiologist","$350,004.20","$1,063.90",2002,"Hospitals"
+"928",928,"The Hospital for Sick
+   Children","MASSIE","SPENCER","Managing Director","$158,114.10","$0.00",2002,"Hospitals"
+"929",929,"The Hospital for Sick
+   Children","MATLOW","ANNE","Chief Paediatric Laborato","$235,201.40","$1,063.90",2002,"Hospitals"
+"930",930,"The Hospital for Sick
+   Children","MCDONOUGH","JENNIFER H","Cardiovascular Perfusionist","$101,649.77","$0.00",2002,"Hospitals"
+"931",931,"The Hospital for Sick
+   Children","MCGLADE","CATHERINE JANE","Senior Scientist","$119,347.60","$1,063.90",2002,"Hospitals"
+"932",932,"The Hospital for Sick
+   Children","MCGRATH","PATRICIA","Psychologist PhD","$113,134.91","$0.00",2002,"Hospitals"
+"933",933,"The Hospital for Sick
+   Children","MCGUIRE","JOY LYNETTE","Director, Occ.
+   Health & Safety","$102,644.90","$0.00",2002,"Hospitals"
+"934",934,"The Hospital for Sick
+   Children","MCKERLIE","COLIN","Scientist","$110,282.20","$2,104.30",2002,"Hospitals"
+"935",935,"The Hospital for Sick
+   Children","MCNEILL","HAROLD E","Director Social Work","$101,405.40","$0.00",2002,"Hospitals"
+"936",936,"The Hospital for Sick
+   Children","MENDLOWITZ","SANDRA","Psychologist Ph.D","$102,992.01","$0.00",2002,"Hospitals"
+"937",937,"The Hospital for Sick
+   Children","MILLER","STEPHEN F","Radiologist","$366,348.85","$1,063.90",2002,"Hospitals"
+"938",938,"The Hospital for Sick
+   Children","MINASSIAN","BERGE","Senior Scientist","$134,989.40","$1,063.90",2002,"Hospitals"
+"939",939,"The Hospital for Sick
+   Children","MOREAU","SUE","Director, HRMS
+   & Payroll","$111,691.70","$0.00",2002,"Hospitals"
+"940",940,"The Hospital for Sick
+   Children","NAVARRO","OSCAR","Radiologist","$249,417.77","$1,063.90",2002,"Hospitals"
+"941",941,"The Hospital for Sick
+   Children","NGAN","BO-YEE","Pathologist","$211,631.40","$1,063.90",2002,"Hospitals"
+"942",942,"The Hospital for Sick
+   Children","O'BRIEN","WILLIAM","Senior Project
+   Director","$122,124.67","$0.00",2002,"Hospitals"
+"943",943,"The Hospital for Sick
+   Children","O'BRODOVICH","HUGH M","Paediatrician-In-Chief","$375,314.33","$60,843.52",2002,"Hospitals"
+"944",944,"The Hospital for Sick Children","O'CONNOR","DEBBIE","Director,Clinical Diete","$102,542.13","$0.00",2002,"Hospitals"
+"945",945,"The Hospital for Sick Children","OTSUBO","HIROSHI","Research Assistant","$140,777.18","$0.00",2002,"Hospitals"
+"946",946,"The Hospital for Sick
+   Children","OUDJHANE","KAMALDINE","Radiologist","$350,004.20","$1,063.90",2002,"Hospitals"
+"947",947,"The Hospital for Sick
+   Children","PACE-ASCIAK","CECIL","Senior Scientist","$132,739.25","$1,063.90",2002,"Hospitals"
+"948",948,"The Hospital for Sick
+   Children","PANG","CHO Y","Senior Scientist","$118,138.30","$1,063.90",2002,"Hospitals"
+"949",949,"The Hospital for Sick
+   Children","PARSAN","PETER","Director, Special
+   Projects","$129,581.50","$0.00",2002,"Hospitals"
+"950",950,"The Hospital for Sick
+   Children","PERRIN","DONALD G","Sr. Pathology
+   Assistant","$102,267.41","$0.00",2002,"Hospitals"
+"951",951,"The Hospital for Sick
+   Children","PLEINYS","RAMUNE","Dir. Admin. Serv.
+   Paeds.","$109,186.04","$0.00",2002,"Hospitals"
+"952",952,"The Hospital for Sick
+   Children","POST","MARTIN","Senior Scientist","$164,235.40","$1,063.90",2002,"Hospitals"
+"953",953,"The Hospital for Sick
+   Children","RAMIREZ","MARIO","Director, Medical
+   Engineering","$147,501.75","$0.00",2002,"Hospitals"
+"954",954,"The Hospital for Sick
+   Children","RANSON","MARILYN","Radiologist","$315,003.78","$1,063.90",2002,"Hospitals"
+"955",955,"The Hospital for Sick
+   Children","REIB","BONNIE","Managing Director","$147,800.00","$6,876.74",2002,"Hospitals"
+"956",956,"The Hospital for Sick
+   Children","RICHARDSON","SUSAN E","Division Head,
+   Microbiol","$217,109.40","$1,063.90",2002,"Hospitals"
+"957",957,"The Hospital for Sick
+   Children","ROBINSON","BRIAN","Senior Scientist","$170,103.60","$1,063.90",2002,"Hospitals"
+"958",958,"The Hospital for Sick
+   Children","ROMMENS","JOHANNA M","Senior Scientist","$115,185.00","$1,063.90",2002,"Hospitals"
+"959",959,"The Hospital for Sick
+   Children","ROTIN","DANIELA","Senior Scientist","$114,509.15","$1,063.90",2002,"Hospitals"
+"960",960,"The Hospital for Sick
+   Children","ROVET","JOANNE","Senior Scientist","$119,941.50","$1,063.90",2002,"Hospitals"
+"961",961,"The Hospital for Sick
+   Children","RUSH","JANET","Chief Nursing Officer","$208,185.60","$7,093.64",2002,"Hospitals"
+"962",962,"The Hospital for Sick
+   Children","SALTER","MICHAEL W","Senior Scientist","$143,986.85","$1,063.90",2002,"Hospitals"
+"963",963,"The Hospital for Sick
+   Children","SARKAR","BIBUDHENDR","Senior Scientist","$177,378.00","$532.00",2002,"Hospitals"
+"964",964,"The Hospital for Sick
+   Children","SASS-KORTSAK","CHRISTINA","Director, H.R. Programs","$107,609.39","$0.00",2002,"Hospitals"
+"965",965,"The Hospital for Sick
+   Children","SCHERER","STEPHEN W","Senior Scientist","$108,595.20","$1,875.66",2002,"Hospitals"
+"966",966,"The Hospital for Sick
+   Children","SEGUIN","CATHY","Vice President, CHS","$216,610.66","$21,224.52",2002,"Hospitals"
+"967",967,"The Hospital for Sick
+   Children","SHAW","BRIAN","Chief, Community Hlth & Kno.","$227,997.30","$4,830.96",2002,"Hospitals"
+"968",968,"The Hospital for Sick
+   Children","SHROFF","MANOHAR","Radiologist","$213,648.30","$675.10",2002,"Hospitals"
+"969",969,"The Hospital for Sick
+   Children","SMITH","CHARLES R","Pathologist","$192,108.00","$1,063.90",2002,"Hospitals"
+"970",970,"The Hospital for Sick
+   Children","SMITH","JOHN","Director, Technology Planning","$167,849.20","$0.00",2002,"Hospitals"
+"971",971,"The Hospital for Sick
+   Children","STEVENS","POLLY R","Director Quality Management","$120,186.00","$0.00",2002,"Hospitals"
+"972",972,"The Hospital for Sick
+   Children","STROFOLINO","MICHAEL","President & CEO","$394,787.00","$6,366.74",2002,"Hospitals"
+"973",973,"The Hospital for Sick
+   Children","TAIT","GORDON A","Director, Medical
+   Informatics","$122,598.70","$0.00",2002,"Hospitals"
+"974",974,"The Hospital for Sick
+   Children","TANNOCK","ROSEMARY","Senior Scientist","$112,469.55","$1,063.90",2002,"Hospitals"
+"975",975,"The Hospital for Sick
+   Children","TELLIER","RAYMOND","Microbiologist","$157,920.00","$1,063.90",2002,"Hospitals"
+"976",976,"The Hospital for Sick
+   Children","TEMPLE","MICHAEL","Radiologist","$308,096.39","$1,063.90",2002,"Hospitals"
+"977",977,"The Hospital for Sick
+   Children","TESHIMA","IKUKO E","Medical Specialist","$116,468.80","$1,063.90",2002,"Hospitals"
+"978",978,"The Hospital for Sick
+   Children","THOMAS","KAREN","Radiologist","$140,140.00","$575.66",2002,"Hospitals"
+"979",979,"The Hospital for Sick
+   Children","THORNER","PAUL S","Associate Health of Patho.","$153,936.94","$1,063.90",2002,"Hospitals"
+"980",980,"The Hospital for Sick
+   Children","TO","TERESA","Senior Scientist","$117,132.05","$1,063.90",2002,"Hospitals"
+"981",981,"The Hospital for Sick
+   Children","TOMPSON","BRYAN","Director; Orthodontics","$165,012.12","$1,063.90",2002,"Hospitals"
+"982",982,"The Hospital for Sick
+   Children","TRAUBICI","JEFFREY","Radiologist","$263,088.56","$366.18",2002,"Hospitals"
+"983",983,"The Hospital for Sick
+   Children","TRIMBLE","WILLIAM","Senior Scientist","$196,048.80","$1,063.90",2002,"Hospitals"
+"984",984,"The Hospital for Sick
+   Children","TSUI","LAP-CHEE","Senior Scientist","$192,652.70","$575.66",2002,"Hospitals"
+"985",985,"The Hospital for Sick
+   Children","VAN ALPHEN","JANE","Director, Child Health Services","$104,599.10","$0.00",2002,"Hospitals"
+"986",986,"The Hospital for Sick
+   Children","VAN KLAVEREN","CHRISTINE","Dir., Admin Services Surgery","$108,270.00","$0.00",2002,"Hospitals"
+"987",987,"The Hospital for Sick
+   Children","VERJEE","ZULFIKARALI H","Biochemist","$115,121.30","$1,063.90",2002,"Hospitals"
+"988",988,"The Hospital for Sick
+   Children","VIERO","SANDRA","Pathologist","$158,039.60","$2,651.26",2002,"Hospitals"
+"989",989,"The Hospital for Sick
+   Children","WEDGE","JOHN H","Surgeon-In-Chief","$283,243.00","$57,226.20",2002,"Hospitals"
+"990",990,"The Hospital for Sick
+   Children","WILSON","GREGORY J","Pathologist","$211,811.04","$1,063.90",2002,"Hospitals"
+"991",991,"The Hospital for Sick
+   Children","YE","CHARLES","Pathologist","$207,301.50","$1,063.90",2002,"Hospitals"
+"992",992,"The Hospital for Sick
+   Children","YEGER","HERMAN","Senior Scientist","$101,609.55","$0.00",2002,"Hospitals"
+"993",993,"The Hospital for Sick
+   Children","YOO","SHI-JOON","Radiologist","$300,008.80","$2,661.45",2002,"Hospitals"
+"994",994,"The Hospital for Sick
+   Children","ZAJAC","RICHARD","Dir, Facilities
+   Development","$123,325.10","$0.00",2002,"Hospitals"
+"995",995,"The Hospital for Sick
+   Children","ZIELENSKA","MARIA","Laboratory Scientist","$104,995.80","$0.00",2002,"Hospitals"
+"996",996,"The Ottawa Hospital","ACHARYA","DR. VIRBALA","Pathologist","$194,420.76","$650.58",2002,"Hospitals"
+"997",997,"The Ottawa Hospital","AYROUD","DR. YASMINE","Pathologist","$192,108.51","$650.58",2002,"Hospitals"
+"998",998,"The Ottawa Hospital","BORMANIS","DR. JANIS","Pathologist","$101,057.97","$0.00",2002,"Hospitals"
+"999",999,"The Ottawa Hospital","BRUNELLE","JEAN-FRANCOIS","Director","$107,403.82","$390.06",2002,"Hospitals"
+"1000",1000,"The Ottawa Hospital","BURNS","DR. KAREN LM","Pathologist","$177,946.28","$650.58",2002,"Hospitals"
+"1001",1001,"The Ottawa Hospital","CAKE","LORRAINE D","Registered Nurse","$100,845.56","$0.00",2002,"Hospitals"
+"1002",1002,"The Ottawa Hospital","CHRETIEN","DR. MICHEL","Program Director, OHRI","$245,266.37","$22,100.99",2002,"Hospitals"
+"1003",1003,"The Ottawa Hospital","COLASANTE","CONCETTINA","Vice President","$135,811.40","$12,605.06",2002,"Hospitals"
+"1004",1004,"The Ottawa Hospital","COLLETTA","DR. SALVATORE P","Chief","$102,628.08","$409.06",2002,"Hospitals"
+"1005",1005,"The Ottawa Hospital","COMMONS","DR. A. SUSAN","Pathologist","$149,674.28","$650.58",2002,"Hospitals"
+"1006",1006,"The Ottawa Hospital","CUDDIHY","MICHAEL","Vice President","$159,191.05","$17,196.23",2002,"Hospitals"
+"1007",1007,"The Ottawa Hospital","DANBROOK","CATHERINE","Vice President","$139,654.02","$16,034.77",2002,"Hospitals"
+"1008",1008,"The Ottawa Hospital","DIONNE","BERNARD G.","Director","$103,102.53","$435.06",2002,"Hospitals"
+"1009",1009,"The Ottawa Hospital","DOERING","PAULA RAE","Vice President","$128,745.25","$8,712.68",2002,"Hospitals"
+"1010",1010,"The Ottawa Hospital","FRENKEL","DR. VIVIEN","Pathologist","$126,626.68","$0.00",2002,"Hospitals"
+"1011",1011,"The Ottawa Hospital","GAMACHE-O'LEARY","VALERIE","Director","$115,999.00","$503.00",2002,"Hospitals"
+"1012",1012,"The Ottawa Hospital","GIULIVI","DR. ANTONIO","Pathologist","$181,001.60","$650.58",2002,"Hospitals"
+"1013",1013,"The Ottawa Hospital","GRAVEL","DR. DENIS","Pathologist","$172,469.29","$650.58",2002,"Hospitals"
+"1014",1014,"The Ottawa Hospital","GREENWAY","DR. DONALD C","Laboratory Scientist","$107,499.60","$466.25",2002,"Hospitals"
+"1015",1015,"The Ottawa Hospital","GRIMSHAW","DR. JEREMY","Program Director, OHRI","$180,019.62","$546.90",2002,"Hospitals"
+"1016",1016,"The Ottawa Hospital","HANLON","ROBERT T.","COO, OHRI","$142,730.55","$527.25",2002,"Hospitals"
+"1017",1017,"The Ottawa Hospital","HARTMAN","DR. NEIL G.","Scientist","$107,718.76","$422.27",2002,"Hospitals"
+"1018",1018,"The Ottawa Hospital","JANSEN","DR. GERARD","Pathologist","$121,827.98","$411.30",2002,"Hospitals"
+"1019",1019,"The Ottawa Hospital","JESSAMINE","DR. PETER G.","Pathologist","$181,001.60","$650.58",2002,"Hospitals"
+"1020",1020,"The Ottawa Hospital","JOHNSTON","DR. BRIAN","Pathologist","$181,001.60","$650.58",2002,"Hospitals"
+"1021",1021,"The Ottawa Hospital","KITTS","DR. JOHN B.","President","$315,954.89","$30,867.71",2002,"Hospitals"
+"1022",1022,"The Ottawa Hospital","KOTHARY","DR. RASHMI","Associate Director, OHRI","$107,652.62","$463.33",2002,"Hospitals"
+"1023",1023,"The Ottawa Hospital","LAMBA","DR. MANISHA","Pathologist","$181,001.58","$650.58",2002,"Hospitals"
+"1024",1024,"The Ottawa Hospital","LOGAN","DR. CECILE","Pathologist","$181,001.60","$650.58",2002,"Hospitals"
+"1025",1025,"The Ottawa Hospital","MAI","DR. TRUNG KIEN","Pathologist","$181,001.59","$650.58",2002,"Hospitals"
+"1026",1026,"The Ottawa Hospital","MARSHALL","BROCK","Director","$101,998.00","$442.50",2002,"Hospitals"
+"1027",1027,"The Ottawa Hospital","MORRIS","DR. CATHY","Scientist","$100,182.65","$432.97",2002,"Hospitals"
+"1028",1028,"The Ottawa Hospital","MOYANA","DR. TERENCE","Pathologist","$181,001.60","$650.58",2002,"Hospitals"
+"1029",1029,"The Ottawa Hospital","NAULT","JEAN-PIERRE","Director","$113,848.80","$494.46",2002,"Hospitals"
+"1030",1030,"The Ottawa Hospital","NICKLIN","WENDY M","Vice President","$197,612.19","$18,566.76",2002,"Hospitals"
+"1031",1031,"The Ottawa Hospital","OLBERG","DR. BERNHARD J","Pathologist","$181,001.60","$650.58",2002,"Hospitals"
+"1032",1032,"The Ottawa Hospital","OOI","DR. DAYLILY S","Pathologist","$181,001.59","$650.58",2002,"Hospitals"
+"1033",1033,"The Ottawa Hospital","PADMORE","DR. RUTH F","Pathologist","$154,000.60","$650.58",2002,"Hospitals"
+"1034",1034,"The Ottawa Hospital","PERKINS","DR. DONALD GARTH","Pathologist","$181,001.59","$650.58",2002,"Hospitals"
+"1035",1035,"The Ottawa Hospital","PERKINS","DR. SHERRY","Laboratory Scientist","$107,499.60","$466.25",2002,"Hospitals"
+"1036",1036,"The Ottawa Hospital","PICCIANO","GINO","COO & CIO","$262,692.23","$28,541.00",2002,"Hospitals"
+"1037",1037,"The Ottawa Hospital","RAMOTAR","DR. KARAMCHAND","Laboratory Scientist","$107,499.60","$466.25",2002,"Hospitals"
+"1038",1038,"The Ottawa Hospital","ROBERTSON","DR. SUSAN","Pathologist","$164,763.10","$383.88",2002,"Hospitals"
+"1039",1039,"The Ottawa Hospital","ROCK","DR. GAIL A","Pathologist","$181,001.60","$650.58",2002,"Hospitals"
+"1040",1040,"The Ottawa Hospital","RODIER","ANDRE","Vice President","$139,999.22","$11,084.30",2002,"Hospitals"
+"1041",1041,"The Ottawa Hospital","RUDNICKI","DR. MICHAEL","Program Director, OHRI","$121,686.00","$525.64",2002,"Hospitals"
+"1042",1042,"The Ottawa Hospital","SAIN-JEAN","DENIS","Vice President","$130,709.57","$15,695.24",2002,"Hospitals"
+"1043",1043,"The Ottawa Hospital","SCOTT","DR. FRASER","Scientist","$101,833.82","$440.94",2002,"Hospitals"
+"1044",1044,"The Ottawa Hospital","SENGAR","DR. DHARMENDRA P","Laboratory Scientist","$112,499.40","$466.25",2002,"Hospitals"
+"1045",1045,"The Ottawa Hospital","SILVER","DR. STEPHEN","Pathologist","$165,082.66","$598.74",2002,"Hospitals"
+"1046",1046,"The Ottawa Hospital","THOMAS","DR. JANE","Pathologist","$143,293.27","$0.00",2002,"Hospitals"
+"1047",1047,"The Ottawa Hospital","THOMPSON","PETER R","Vice President","$146,998.58","$16,290.51",2002,"Hospitals"
+"1048",1048,"The Ottawa Hospital","WANG","DR. DON","Pathologist","$186,653.62","$650.58",2002,"Hospitals"
+"1049",1049,"The Ottawa Hospital","WILSON","RICHARD","Vice President","$199,914.99","$18,724.32",2002,"Hospitals"
+"1050",1050,"The Ottawa Hospital","WORTHINGTON","DR. JAMES","Vice President","$122,767.70","$12,818.09",2002,"Hospitals"
+"1051",1051,"The Ottawa Hospital","WORTON","DR. RONALD","CEO, OHRI","$267,307.40","$1,084.30",2002,"Hospitals"
+"1052",1052,"The Ottawa Hospital","WOULFE","DR. JOHN","Pathologist","$172,909.72","$650.58",2002,"Hospitals"
+"1053",1053,"Tillsonburg District
+   Memorial","BUTTERS","BRENDA","President and CEO","$124,434.13","$827.76",2002,"Hospitals"
+"1054",1054,"Timmins and District
+   Hospital","GERHRKE","TIM","Director of Corporate Services","$123,734.00","$4,394.00",2002,"Hospitals"
+"1055",1055,"Timmins and District
+   Hospital","VAINIO","ESKO","Chief Executive Officer","$192,312.00","$8,498.00",2002,"Hospitals"
+"1056",1056,"Toronto East General","BEIS","ROSEMARIE","Emergency Nurse","$102,441.45","$564.81",2002,"Hospitals"
+"1057",1057,"Toronto East General","DAVIDSON","JANET","President & CEO","$291,749.60","$8,360.47",2002,"Hospitals"
+"1058",1058,"Toronto East General","DECAMARA","PAMELA","Chief Pathologist","$253,149.60","$2,040.26",2002,"Hospitals"
+"1059",1059,"Toronto East General","FERNANDO","RALPH","VP Finance and CFO","$172,829.92","$2,096.96",2002,"Hospitals"
+"1060",1060,"Toronto East General","FRYERS","MARLA","VP People Strategy & CNO","$156,487.51","$2,065.89",2002,"Hospitals"
+"1061",1061,"Toronto East General","HAWLEY","NANCY","Director - Public Affairs","$105,759.00","$840.23",2002,"Hospitals"
+"1062",1062,"Toronto East General","KLASSEN","WOLFGANG","VP, Corporate Services","$160,059.80","$6,072.85",2002,"Hospitals"
+"1063",1063,"Toronto East General","LENTZ","JOHN","Pathologist","$219,423.10","$1,739.14",2002,"Hospitals"
+"1064",1064,"Toronto East General","MCLAUGLIN","MARGARET","Emergency Nurse","$111,830.24","$0.00",2002,"Hospitals"
+"1065",1065,"Toronto East General","O'BRODOVICH","MILTON","VP, Patient Services","$171,008.40","$2,883.10",2002,"Hospitals"
+"1066",1066,"Toronto East General","OUELLET","DOREEN","Clinical Bioethicist","$108,477.04","$916.99",2002,"Hospitals"
+"1067",1067,"Toronto East General","RODGERS","LESLIE","Director - Human Resources","$110,812.05","$948.19",2002,"Hospitals"
+"1068",1068,"Toronto Rehabilitation
+   Institute","BOETTCHER","CAROL","VP, Human Resources","$129,837.66","$2,294.54",2002,"Hospitals"
+"1069",1069,"Toronto Rehabilitation
+   Institute","BOSCHEN","KATHRYN","Scientist","$102,191.12","$415.40",2002,"Hospitals"
+"1070",1070,"Toronto Rehabilitation
+   Institute","DAVIS","AILEEN","Scientist","$104,745.93","$426.81",2002,"Hospitals"
+"1071",1071,"Toronto Rehabilitation
+   Institute","ELLIOTT","JAMES","VP, Finance and Support Services","$182,685.85","$2,568.43",2002,"Hospitals"
+"1072",1072,"Toronto Rehabilitation
+   Institute","FERGUSON","JENNIFER","VP, Marketing and Public Affairs","$113,950.14","$3,071.80",2002,"Hospitals"
+"1073",1073,"Toronto Rehabilitation
+   Institute","FREEDMAN","STEPHEN","Staff Physician","$120,830.50","$0.00",2002,"Hospitals"
+"1074",1074,"Toronto Rehabilitation
+   Institute","GERRING","GEORGIA","VP Programs","$182,685.84","$2,568.43",2002,"Hospitals"
+"1075",1075,"Toronto Rehabilitation
+   Institute","MATOSEVIC","VIKTOR","Physician Assistant","$104,682.22","$274.28",2002,"Hospitals"
+"1076",1076,"Toronto Rehabilitation
+   Institute","NYTKO","BARBARA","Project Consultant","$106,365.42","$0.00",2002,"Hospitals"
+"1077",1077,"Toronto Rehabilitation
+   Institute","ROCHON","MARK","President and CEO","$345,173.18","$14,691.71",2002,"Hospitals"
+"1078",1078,"Toronto Rehabilitation
+   Institute","TARDIF","GAETAN","VP,
+   Medicine / Physician - in - Chief","$261,577.75","$3,874.61",2002,"Hospitals"
+"1079",1079,"Toronto Rehabilitation
+   Institute","WILLIAMS","JACK","VP, Research","$173,762.08","$2,637.25",2002,"Hospitals"
+"1080",1080,"Trillium Health Centre","ALLEN","DAVID","VP, Comm. & Allianc.","$163,615.34","$1,629.54",2002,"Hospitals"
+"1081",1081,"Trillium Health Centre","ARORA","ALEYAMMA","Registered Nurse - Emergency","$100,154.66","$26.08",2002,"Hospitals"
+"1082",1082,"Trillium Health Centre","BARTON","SHELLEY","Director, Project Management","$120,106.61","$480.10",2002,"Hospitals"
+"1083",1083,"Trillium Health Centre","BEAZLEY","DAVID","Director, Capital Projects","$118,546.32","$603.62",2002,"Hospitals"
+"1084",1084,"Trillium Health Centre","BEAZLEY","JANICE D.A","Associate to the President","$105,966.41","$1,054.17",2002,"Hospitals"
+"1085",1085,"Trillium Health Centre","BICKERTON","MARGARET JOAN","Health Systems Director","$107,191.58","$519.31",2002,"Hospitals"
+"1086",1086,"Trillium Health Centre","BRERETON","CAROLINE","Associate Vice President","$113,245.15","$596.86",2002,"Hospitals"
+"1087",1087,"Trillium Health Centre","COIRE","CLAIRE I DR.","Anatomical Pathologist","$112,156.62","$343.60",2002,"Hospitals"
+"1088",1088,"Trillium Health Centre","EDMONDS","BRIAN","VP, Finance","$156,576.91","$1,629.54",2002,"Hospitals"
+"1089",1089,"Trillium Health Centre","GRYFE","ARTHUR DR.","Pathologist - General","$133,692.93","$0.00",2002,"Hospitals"
+"1090",1090,"Trillium Health Centre","HUTTON","HELENA J.","Health Systems Director","$106,614.45","$539.61",2002,"Hospitals"
+"1091",1091,"Trillium Health Centre","LANG","ARNOLD PATRICK","Anatomical Pathologist","$199,800.00","$1,006.32",2002,"Hospitals"
+"1092",1092,"Trillium Health Centre","LEWIS","SUSAN A.","VP, Legal","$163,846.02","$1,006.32",2002,"Hospitals"
+"1093",1093,"Trillium Health Centre","MANOWSKI","ZBIGNIEW J.","Anatomical Pathologist","$199,800.00","$1,006.32",2002,"Hospitals"
+"1094",1094,"Trillium Health Centre","MARTIN","DEAN R.","Director, Finance","$108,426.14","$542.01",2002,"Hospitals"
+"1095",1095,"Trillium Health Centre","MCLELLAN","HELEN E.","Director, Corporate Services","$108,721.03","$555.22",2002,"Hospitals"
+"1096",1096,"Trillium Health Centre","MILLS","WAYNE L.","Vice President, Information Services","$120,106.68","$0.00",2002,"Hospitals"
+"1097",1097,"Trillium Health Centre","NAIDOO","JAY A. DR.","Medical Director Lab","$234,994.37","$1,181.64",2002,"Hospitals"
+"1098",1098,"Trillium Health Centre","NELSON","WENDY J.","Senior Vice President","$219,422.10","$1,885.68",2002,"Hospitals"
+"1099",1099,"Trillium Health Centre","NGUYEN-HUU","MINH","Registered Nurse ICU","$102,371.39","$0.00",2002,"Hospitals"
+"1100",1100,"Trillium Health Centre","OSTROWSKA","KRYSTYNA I","Microbiologist / Infectious Dis. Spec.","$149,374.87","$1,604.73",2002,"Hospitals"
+"1101",1101,"Trillium Health Centre","SANDILANDS","CHARLENE J.","Director - Emergency","$106,614.45","$538.02",2002,"Hospitals"
+"1102",1102,"Trillium Health Centre","SOARES","MARK DR.","Anatomical Pathologist","$199,800.00","$1,006.32",2002,"Hospitals"
+"1103",1103,"Trillium Health Centre","VANDEWALL","ERIC J.","VP, Corporate Services","$163,846.06","$1,629.54",2002,"Hospitals"
+"1104",1104,"Trillium Health Centre","WHITE","KENNETH","President and CEO","$379,544.55","$1,885.68",2002,"Hospitals"
+"1105",1105,"University Health
+   Network","ABERMAN","ARNOLD","Program Director","$238,333.32","$0.00",2002,"Hospitals"
+"1106",1106,"University Health
+   Network","AFARIAN","ASDGHIG","Nurse, Registered","$114,318.55","$184.46",2002,"Hospitals"
+"1107",1107,"University Health
+   Network","ALASTI-HAMED","HAMIDEH","Physicist","$145,826.09","$405.06",2002,"Hospitals"
+"1108",1108,"University Health
+   Network","ALCIA","LISA","Executive Director, Research Operations","$115,029.75","$338.25",2002,"Hospitals"
+"1109",1109,"University Health
+   Network","ALLEN","LYNN","Lab PhD","$107,844.67","$316.29",2002,"Hospitals"
+"1110",1110,"University Health
+   Network","ANDERSON","MATTHEW","VP & Chief Information Officer","$227,705.01","$16,464.26",2002,"Hospitals"
+"1111",1111,"University Health
+   Network","ARCHER","DENISE","Director, Human Resources","$104,797.12","$292.62",2002,"Hospitals"
+"1112",1112,"University Health
+   Network","ARROWSMITH","CHERYL","Scientist","$110,812.04","$319.96",2002,"Hospitals"
+"1113",1113,"University Health
+   Network","ASA","SYLVIA","Lab Department Head, MD","$293,612.38","$861.87",2002,"Hospitals"
+"1114",1114,"University Health
+   Network","BAILEY","DENIS JOHN","Lab MD","$211,504.10","$614.57",2002,"Hospitals"
+"1115",1115,"University Health
+   Network","BAKER","KIMBERLEY LYNN","Secondment","$108,505.07","$311.34",2002,"Hospitals"
+"1116",1116,"University Health
+   Network","BAKER","MICHAEL","Physician-In-Chief","$349,119.96","$22,960.08",2002,"Hospitals"
+"1117",1117,"University Health
+   Network","BARNARD","MAJA","Lab MD","$199,291.52","$571.02",2002,"Hospitals"
+"1118",1118,"University Health
+   Network","BAUTISTA","EVA","Nurse, Registered","$105,570.01","$184.46",2002,"Hospitals"
+"1119",1119,"University Health
+   Network","BAYLEY","ANDREW","Oncologist, Radiation","$122,869.21","$289.32",2002,"Hospitals"
+"1120",1120,"University Health
+   Network","BEED","JANET","TGH, VP & Chief Operating Officer","$318,490.05","$17,276.43",2002,"Hospitals"
+"1121",1121,"University Health
+   Network","BELL","ROBERT","PMH, VP & Chief Operating Officer","$284,222.48","$20,569.83",2002,"Hospitals"
+"1122",1122,"University Health
+   Network","BENCHIMOL","SAMUEL","Scientist","$143,427.27","$369.52",2002,"Hospitals"
+"1123",1123,"University Health
+   Network","BERGERON DR.","CATHERINE","Lab MD","$127,106.70","$372.72",2002,"Hospitals"
+"1124",1124,"University Health
+   Network","BEZJAK","ANDREA","Oncologist, Radiation","$150,028.20","$324.12",2002,"Hospitals"
+"1125",1125,"University Health
+   Network","BISHOP","GLORIA","VP, Public Affairs & Communications","$165,004.71","$9,629.33",2002,"Hospitals"
+"1126",1126,"University Health
+   Network","BOECKER","STEWART","Comptroller","$108,649.28","$7.32",2002,"Hospitals"
+"1127",1127,"University Health
+   Network","BOERNER","SCOTT L.","Lab Division Head, MD","$220,920.70","$648.15",2002,"Hospitals"
+"1128",1128,"University Health
+   Network","BOYD","NORMAN","Head, Bio - Research","$210,576.84","$438.72",2002,"Hospitals"
+"1129",1129,"University Health
+   Network","BRIEN","WILLIAM FRANCIS","Lab MD","$179,180.12","$525.66",2002,"Hospitals"
+"1130",1130,"University Health
+   Network","BRIERLEY","JAMES","Oncologist, Radiation","$178,145.03","$392.64",2002,"Hospitals"
+"1131",1131,"University Health
+   Network","BRISTOW","ROBERT","Oncologist, Radiation","$151,491.80","$313.32",2002,"Hospitals"
+"1132",1132,"University Health
+   Network","BRUNTON","JAMES LAVDER","Lab Department Head, MD","$184,561.16","$541.74",2002,"Hospitals"
+"1133",1133,"University Health
+   Network","BUTANY","JAGDISH","Lab Division Head, MD","$220,920.70","$648.15",2002,"Hospitals"
+"1134",1134,"University Health
+   Network","CAMPBELL","IIVI","Lab MD","$143,732.40","$0.00",2002,"Hospitals"
+"1135",1135,"University Health
+   Network","CAPCO","ZENAIDA","Nurse, Registered","$108,712.59","$0.00",2002,"Hospitals"
+"1136",1136,"University Health
+   Network","CATTON","CHARLES","Oncologist, Radiation","$175,455.90","$379.56",2002,"Hospitals"
+"1137",1137,"University Health
+   Network","CATTON","PAMELA","MD, Radiation Oncology & Director, Educ.","$250,266.10","$437.64",2002,"Hospitals"
+"1138",1138,"University Health
+   Network","CHAMBERLAIN","DEAN","Lab Division Head, MD","$256,003.80","$750.24",2002,"Hospitals"
+"1139",1139,"University Health
+   Network","CHANG","HONG","Lab Division Head, MD","$215,737.53","$627.63",2002,"Hospitals"
+"1140",1140,"University Health
+   Network","CHAPMAN","WILLIAM","Lab MD","$211,855.00","$621.39",2002,"Hospitals"
+"1141",1141,"University Health
+   Network","CHEUNG","FREDERICK","Physicist","$122,376.04","$347.18",2002,"Hospitals"
+"1142",1142,"University Health
+   Network","CHUN","KATHY","Lab Division Head, PHD","$127,094.10","$372.87",2002,"Hospitals"
+"1143",1143,"University Health
+   Network","CLOSSON","THOMAS","President & Chief Executive Officer","$601,733.32","$25,045.56",2002,"Hospitals"
+"1144",1144,"University Health
+   Network","COLE","DAVID","MD: Biochemistry","$133,211.05","$330.16",2002,"Hospitals"
+"1145",1145,"University Health
+   Network","CONNER","SUSAN","VP, Real Estate Solutions","$276,863.23","$14,945.25",2002,"Hospitals"
+"1146",1146,"University Health
+   Network","COSTELLO","JUDY","Director, Nursing","$108,437.16","$293.91",2002,"Hospitals"
+"1147",1147,"University Health
+   Network","CRANDALL","IAN EDWARD","Lab PHD","$108,162.88","$317.40",2002,"Hospitals"
+"1148",1148,"University Health
+   Network","CRAWFORD","LINDSEY","Director, Professional Practice","$103,200.62","$285.12",2002,"Hospitals"
+"1149",1149,"University Health
+   Network","CROOK","JUANITA","Oncologist, Radiation","$182,123.70","$518.64",2002,"Hospitals"
+"1150",1150,"University Health
+   Network","CRUZ","LUCY LYNNE","Nurse, Registered","$104,623.07","$184.46",2002,"Hospitals"
+"1151",1151,"University Health
+   Network","CUFARO","MARILYN","Nurse, Registered","$107,237.97","$184.46",2002,"Hospitals"
+"1152",1152,"University Health
+   Network","CUMMINGS","BERNARD","Oncologist, Radiation","$268,798.40","$604.80",2002,"Hospitals"
+"1153",1153,"University Health
+   Network","CYBULSKY","MYRON","Lab MD","$211,855.00","$621.39",2002,"Hospitals"
+"1154",1154,"University Health
+   Network","DAMILATIS","PENNY","Nurse, Registered: NRU","$113,468.35","$0.00",2002,"Hospitals"
+"1155",1155,"University Health
+   Network","DE BARROS","LUIS","Senior Technical Specialist: SIMS","$101,186.56","$242.64",2002,"Hospitals"
+"1156",1156,"University Health
+   Network","DEN HOLLANDER","NEAL","Lab Division Head, PHD","$102,461.00","$303.30",2002,"Hospitals"
+"1157",1157,"University Health
+   Network","DEVINS","GERALD","Director, Psychosocial Oncology Research","$139,563.85","$412.44",2002,"Hospitals"
+"1158",1158,"University Health
+   Network","DONE","SUSAN","Lab MD","$176,758.99","$621.39",2002,"Hospitals"
+"1159",1159,"University Health
+   Network","DOWNEY","SARAH","Executive Director, Operations","$114,811.28","$317.27",2002,"Hospitals"
+"1160",1160,"University Health
+   Network","EAGAN","DAVID","Architect: SIMS","$100,491.03","$295.26",2002,"Hospitals"
+"1161",1161,"University Health
+   Network","EASTY","ANTHONY","Director, Medical Engineering","$146,269.84","$399.11",2002,"Hospitals"
+"1162",1162,"University Health
+   Network","EBIDIA","ALBERT","Senior Technical Specialist: SIMS","$100,105.22","$245.82",2002,"Hospitals"
+"1163",1163,"University Health
+   Network","EMPEY","KEVIN","VP Finance & Corporate Services","$280,987.46","$18,841.07",2002,"Hospitals"
+"1164",1164,"University Health
+   Network","ESCAF","MARNIE","Executive Director, Operations","$103,272.56","$392.99",2002,"Hospitals"
+"1165",1165,"University Health
+   Network","EVANS","ANDREW","Lab MD","$186,815.72","$546.29",2002,"Hospitals"
+"1166",1166,"University Health
+   Network","EYSENBACH","GUNTHER","Scientist","$126,604.22","$0.00",2002,"Hospitals"
+"1167",1167,"University Health
+   Network","FELD","RONALD","Oncologist, Medical","$111,573.54","$239.64",2002,"Hospitals"
+"1168",1168,"University Health
+   Network","FERGUSON-PARE","MARY","VP & Chief Nursing Officer","$188,587.51","$11,105.34",2002,"Hospitals"
+"1169",1169,"University Health
+   Network","FISH","ELEANOR","Scientist","$126,787.95","$318.26",2002,"Hospitals"
+"1170",1170,"University Health
+   Network","FLEMMING","CARA E.","Director, Information Management","$119,389.21","$7.32",2002,"Hospitals"
+"1171",1171,"University Health
+   Network","FORD","ANN M.","Director, Strategic Dev / Facilities Mgmt","$114,541.98","$311.52",2002,"Hospitals"
+"1172",1172,"University Health
+   Network","FRANKE","NORMAN","Associate, Clinical","$137,634.00","$404.01",2002,"Hospitals"
+"1173",1173,"University Health
+   Network","FRIAS","MARIA AURORA","Nurse, Registered","$108,024.24","$184.46",2002,"Hospitals"
+"1174",1174,"University Health
+   Network","FYLES","ANTHONY","Oncologist, Radiation","$192,614.50","$425.52",2002,"Hospitals"
+"1175",1175,"University Health
+   Network","GALBRAITH","DUNCAN","Physicist","$144,460.72","$395.35",2002,"Hospitals"
+"1176",1176,"University Health
+   Network","GALLIE","BRENDA","Scientific Division Head: Research","$206,538.21","$586.08",2002,"Hospitals"
+"1177",1177,"University Health
+   Network","GARDAM","MICHAEL","Lab MD","$167,084.48","$7.32",2002,"Hospitals"
+"1178",1178,"University Health
+   Network","GARIEPY","JEAN","Scientist","$104,491.43","$302.07",2002,"Hospitals"
+"1179",1179,"University Health
+   Network","GHAZARIAN","DANNY","Lab MD","$211,855.00","$621.39",2002,"Hospitals"
+"1180",1180,"University Health
+   Network","GIESBRECHT","RICHARD","President, SHSS","$218,400.00","$16,194.72",2002,"Hospitals"
+"1181",1181,"University Health
+   Network","GOLDTHORPE","THOMAS ANTHONY","Director, Research Information Technolog","$138,123.50","$405.69",2002,"Hospitals"
+"1182",1182,"University Health
+   Network","GOSPODAROWICZ","MARIA","Director, Radiation Medicine","$263,998.80","$594.00",2002,"Hospitals"
+"1183",1183,"University Health
+   Network","GUINDI","MAHA","Lab MD","$211,855.00","$607.75",2002,"Hospitals"
+"1184",1184,"University Health
+   Network","HALLIDAY","WILLIAM","Lab Division Head, MD","$235,001.00","$673.28",2002,"Hospitals"
+"1185",1185,"University Health
+   Network","HANSON","TENNYS","VP & Chief Development Officer","$160,136.24","$7,900.92",2002,"Hospitals"
+"1186",1186,"University Health
+   Network","HEATON","ROBERT","Physicist","$114,774.40","$321.81",2002,"Hospitals"
+"1187",1187,"University Health
+   Network","HESLEGRAVE","RONALD JAMES","Chair, Research","$116,528.89","$272.18",2002,"Hospitals"
+"1188",1188,"University Health
+   Network","HEYDARIAN","MOSTAFA","Physicist","$125,286.95","$356.79",2002,"Hospitals"
+"1189",1189,"University Health
+   Network","HILL","RICHARD","Scientist","$130,581.03","$377.19",2002,"Hospitals"
+"1190",1190,"University Health
+   Network","HODGSON","DAVID","Oncologist, Radiation","$123,414.15","$316.44",2002,"Hospitals"
+"1191",1191,"University Health
+   Network","HOLT","ANDREW J.","Director, Administrative: Med. Imaging","$107,890.40","$298.50",2002,"Hospitals"
+"1192",1192,"University Health
+   Network","HUNER","OZGUR","Director, Research Informatics","$104,629.90","$307.35",2002,"Hospitals"
+"1193",1193,"University Health
+   Network","HUNG","HELEN HEUNG LAN","Nurse, Registered","$161,364.97","$184.46",2002,"Hospitals"
+"1194",1194,"University Health
+   Network","HUTCHISON","WILLIAM DUNCAN","Scientist","$100,001.20","$293.04",2002,"Hospitals"
+"1195",1195,"University Health
+   Network","IKURA","MITSUHIKO","Scientist","$139,452.53","$400.64",2002,"Hospitals"
+"1196",1196,"University Health
+   Network","IOLOVA","ZDRAVKA","Nurse, Registered","$101,804.93","$184.46",2002,"Hospitals"
+"1197",1197,"University Health
+   Network","ISCOVE","NORMAN","Scientist","$118,169.42","$340.47",2002,"Hospitals"
+"1198",1198,"University Health
+   Network","ISLAM","MOHAMMAD","Head, Radiation Physics","$169,181.87","$440.00",2002,"Hospitals"
+"1199",1199,"University Health
+   Network","JABANOSKI","JEANNE","Executive Director, Operations","$124,264.44","$340.65",2002,"Hospitals"
+"1200",1200,"University Health
+   Network","JACKSON","JUSTINE","Comptroller","$120,691.90","$329.34",2002,"Hospitals"
+"1201",1201,"University Health
+   Network","JADAD","ALEJANDRO","Head, Program: Research","$320,836.40","$884.61",2002,"Hospitals"
+"1202",1202,"University Health
+   Network","JAPP","BARBARA","Physicist","$126,853.06","$353.85",2002,"Hospitals"
+"1203",1203,"University Health
+   Network","JEZIORANSKI","JOHN","Physicist","$121,007.11","$337.72",2002,"Hospitals"
+"1204",1204,"University Health
+   Network","JOVANOVICH","DIMITRA","Nurse, Registered","$109,001.55","$0.00",2002,"Hospitals"
+"1205",1205,"University Health
+   Network","KAMEL-REID","SUZANNE","Lab Division Head, PHD","$137,964.30","$405.00",2002,"Hospitals"
+"1206",1206,"University Health
+   Network","KANE","DR. GABRIELLE","Oncologist, Radiation","$122,438.30","$345.84",2002,"Hospitals"
+"1207",1207,"University Health
+   Network","KELVIN","DAVID","Scientist","$139,774.69","$288.44",2002,"Hospitals"
+"1208",1208,"University Health
+   Network","KHOKHA","RAMA","Scientific PHD","$106,162.93","$296.98",2002,"Hospitals"
+"1209",1209,"University Health
+   Network","KIM","JOON-HYUNG JOHN","Oncologist, Radiation","$134,412.98","$384.60",2002,"Hospitals"
+"1210",1210,"University Health
+   Network","KING","JOHN","Deputy Director Special Projects","$165,479.36","$337.75",2002,"Hospitals"
+"1211",1211,"University Health
+   Network","KWAN","CONNIE","Nurse, Registered","$108,803.21","$184.46",2002,"Hospitals"
+"1212",1212,"University Health
+   Network","LAJOIE-STARKELL","GINETTE","Lab Division Head:MD","$220,920.70","$948.15",2002,"Hospitals"
+"1213",1213,"University Health
+   Network","LAPERRIERE","NORMAN","Oncologist, Radiation","$189,217.95","$411.96",2002,"Hospitals"
+"1214",1214,"University Health
+   Network","LEE","LINDA","Dentist","$105,229.84","$308.40",2002,"Hospitals"
+"1215",1215,"University Health
+   Network","LEPOCK","JAMES","Head, Program: Research","$122,806.90","$264.95",2002,"Hospitals"
+"1216",1216,"University Health
+   Network","LEVIN","WILFRED","Oncologist, Radiation","$172,714.71","$375.96",2002,"Hospitals"
+"1217",1217,"University Health
+   Network","LIPTON","JEFFREY","Oncologist, Medical","$106,703.41","$239.64",2002,"Hospitals"
+"1218",1218,"University Health
+   Network","LIU","FEI-FEI","Oncologist, Radiation","$189,999.30","$419.16",2002,"Hospitals"
+"1219",1219,"University Health
+   Network","LOACH","DAVID","Associate, Clinical","$131,950.47","$366.53",2002,"Hospitals"
+"1220",1220,"University Health
+   Network","LUTYNSKI","ANDRZEJ","Associate, Clinical","$123,026.86","$359.40",2002,"Hospitals"
+"1221",1221,"University Health
+   Network","MAETZEL","ANDREAS","Scientist","$130,000.00","$349.25",2002,"Hospitals"
+"1222",1222,"University Health
+   Network","MAK","TAK","Director, Research Institute","$134,614.20","$366.30",2002,"Hospitals"
+"1223",1223,"University Health
+   Network","MAMDANI","KARIM","Corporate Controller","$135,078.76","$373.40",2002,"Hospitals"
+"1224",1224,"University Health
+   Network","MANCHUL","LEE","Oncologist, Radiation","$142,496.76","$310.44",2002,"Hospitals"
+"1225",1225,"University Health
+   Network","MARR","JO-ANNE A","Executive Director, Operations","$126,369.46","$346.71",2002,"Hospitals"
+"1226",1226,"University Health
+   Network","MARTIN","BELLA","General Counsel & Chief Risk Officer","$175,113.29","$7,325.60",2002,"Hospitals"
+"1227",1227,"University Health
+   Network","MAXYMIW","WALTER","Chief, Dental Clinic","$131,467.93","$387.60",2002,"Hospitals"
+"1228",1228,"University Health
+   Network","MCARTHUR","BOB","Director, Technology Transfer : Research","$113,475.75","$333.30",2002,"Hospitals"
+"1229",1229,"University Health
+   Network","MCCUMBER","TREVA","Director, Hemodialysis Services","$103,540.54","$293.01",2002,"Hospitals"
+"1230",1230,"University Health
+   Network","MCINTAGGART","SCOTT","Executive Director, Operations","$112,560.27","$315.05",2002,"Hospitals"
+"1231",1231,"University Health
+   Network","MCLEAN","MICHAEL","Oncologist, Radiation","$150,023.20","$327.00",2002,"Hospitals"
+"1232",1232,"University Health
+   Network","MEDIN","JEFFREY","Scientist","$100,070.81","$272.14",2002,"Hospitals"
+"1233",1233,"University Health
+   Network","MEFFE","DOMENIC A.","Director, Real Estate Solutions","$100,862.98","$0.00",2002,"Hospitals"
+"1234",1234,"University Health
+   Network","MESSNER","HANS","Oncologist, Medical","$106,498.60","$239.64",2002,"Hospitals"
+"1235",1235,"University Health
+   Network","MICKLE","DONALD A","Lab Department Head, MD","$221,596.90","$648.18",2002,"Hospitals"
+"1236",1236,"University Health
+   Network","MILLER","NAOMI","Lab Division Head, MD","$233,044.60","$683.49",2002,"Hospitals"
+"1237",1237,"University Health
+   Network","MILOSEVIC","MICHAEL","Oncologist, Radiation","$150,246.26","$324.48",2002,"Hospitals"
+"1238",1238,"University Health
+   Network","MINDEN","MARK","Oncologist, Medical","$106,797.19","$239.64",2002,"Hospitals"
+"1239",1239,"University Health
+   Network","MOLOO","BADRU","Director, Animal Resources Centre","$112,070.17","$284.94",2002,"Hospitals"
+"1240",1240,"University Health
+   Network","MONTGOMERY","FAYE","Director, Ops: Radiation Services (PMH)","$110,593.56","$299.61",2002,"Hospitals"
+"1241",1241,"University Health
+   Network","MOORE","MALCOLM","Oncologist, Medical","$106,498.60","$239.64",2002,"Hospitals"
+"1242",1242,"University Health
+   Network","MORRISON","LYNDA","Director, Executive: Wellspring Centre","$125,480.70","$366.32",2002,"Hospitals"
+"1243",1243,"University Health
+   Network","MOSER","JANE","Director, Nursing","$118,130.42","$319.98",2002,"Hospitals"
+"1244",1244,"University Health
+   Network","MOSSERI","ALLEN","Physicist","$121,881.04","$349.93",2002,"Hospitals"
+"1245",1245,"University Health
+   Network","MURPHY","FRANCES","Director, Information Management","$102,478.88","$300.75",2002,"Hospitals"
+"1246",1246,"University Health
+   Network","MUSING","EMILY","Director, Pharmacy","$117,843.32","$319.59",2002,"Hospitals"
+"1247",1247,"University Health
+   Network","NAG","SUKRITI","Lab MD","$211,855.00","$621.39",2002,"Hospitals"
+"1248",1248,"University Health
+   Network","NAVAL","TONY","Senior Technical Specialist: SIMS","$102,278.77","$221.40",2002,"Hospitals"
+"1249",1249,"University Health
+   Network","OHASHI","PAM","Scientist","$119,079.66","$336.93",2002,"Hospitals"
+"1250",1250,"University Health
+   Network","OLMSTED","MARION","Director, Eating Disorders Day Centre","$108,340.80","$318.51",2002,"Hospitals"
+"1251",1251,"University Health
+   Network","O'SULLIVAN","BRIAN","Oncologist, Radiation","$227,129.05","$502.20",2002,"Hospitals"
+"1252",1252,"University Health
+   Network","OTTENSMEYER","PETER","Scientist","$133,360.40","$386.31",2002,"Hospitals"
+"1253",1253,"University Health
+   Network","PAIGE","CHRISTOPHER","VP Research","$355,345.98","$18,038.85",2002,"Hospitals"
+"1254",1254,"University Health
+   Network","PATTERSON","BRUCE","Lab MD","$211,855.00","$621.39",2002,"Hospitals"
+"1255",1255,"University Health
+   Network","PAVLOV","EMMA","VP, Human Resources & Organiz. Dev.","$250,850.00","$18,331.86",2002,"Hospitals"
+"1256",1256,"University Health
+   Network","PAYNE","DAVID","Oncologist, Radiation","$192,180.60","$419.40",2002,"Hospitals"
+"1257",1257,"University Health
+   Network","PECKHAM","KENNETH","Associate, Clinical","$136,120.30","$399.66",2002,"Hospitals"
+"1258",1258,"University Health
+   Network","PENN","LINDA","Scientist","$104,346.93","$301.30",2002,"Hospitals"
+"1259",1259,"University Health
+   Network","PEREZ-ORDONEZ","BAYARDO","Lab MD","$151,121.50","$312.99",2002,"Hospitals"
+"1260",1260,"University Health
+   Network","PILLON","SHARON THERESA","Executive Director, Operations","$145,638.64","$299.43",2002,"Hospitals"
+"1261",1261,"University Health
+   Network","QUIRT","IAN","Oncologist, Medical","$106,498.60","$239.64",2002,"Hospitals"
+"1262",1262,"University Health
+   Network","RAMASESHAN","RAMANI","Physicist","$121,811.07","$332.22",2002,"Hospitals"
+"1263",1263,"University Health
+   Network","RAYMOND","MARY","Nursing Administration Coordinator","$126,912.50","$220.50",2002,"Hospitals"
+"1264",1264,"University Health
+   Network","REED","WILLIAM CRAIG","Director, SIMA","$131,843.05","$253.44",2002,"Hospitals"
+"1265",1265,"University Health
+   Network","REGEHR","GLENN","Associate Director: Research Education","$116,322.12","$341.16",2002,"Hospitals"
+"1266",1266,"University Health
+   Network","REZNICK","RICHARD","VP Education","$230,679.99","$16,667.06",2002,"Hospitals"
+"1267",1267,"University Health
+   Network","RINGASH","JOLIE","Oncologist, Radiation","$130,646.30","$340.68",2002,"Hospitals"
+"1268",1268,"University Health
+   Network","ROBERTS","TIMOTHY","Scientific Associate","$104,308.04","$234.40",2002,"Hospitals"
+"1269",1269,"University Health
+   Network","ROGERS","SHARON","Director, Patient Relations","$119,781.40","$324.93",2002,"Hospitals"
+"1270",1270,"University Health
+   Network","ROMASCHIN","ALEXANDER","Lab PHD","$108,181.08","$317.40",2002,"Hospitals"
+"1271",1271,"University Health
+   Network","ROSE","DAVID","Scientist","$108,472.42","$313.36",2002,"Hospitals"
+"1272",1272,"University Health
+   Network","RYDLEWSKI","ANNA","Associate, Clinical","$134,105.24","$393.60",2002,"Hospitals"
+"1273",1273,"University Health
+   Network","SABO","KATHERINE","Director, Nursing","$112,933.81","$307.11",2002,"Hospitals"
+"1274",1274,"University Health
+   Network","SHANNON","PATRICK","Lab MD","$207,513.50","$607.92",2002,"Hospitals"
+"1275",1275,"University Health
+   Network","SHAW","PATRICIA","Lab MD","$211,875.26","$621.57",2002,"Hospitals"
+"1276",1276,"University Health
+   Network","SHERAR","MICHAEL","Scientist","$189,980.90","$502.56",2002,"Hospitals"
+"1277",1277,"University Health
+   Network","SIU","LILLIAN","Oncologist, Medical","$106,498.60","$312.12",2002,"Hospitals"
+"1278",1278,"University Health
+   Network","SMITH","COLIN D.","Director, Information Management","$123,545.30","$341.12",2002,"Hospitals"
+"1279",1279,"University Health
+   Network","SQUIRE","JEREMY","Scientific PHD","$133,928.60","$383.88",2002,"Hospitals"
+"1280",1280,"University Health
+   Network","STANLEY","ELISE","Scientific Division Head: Research","$165,330.13","$431.90",2002,"Hospitals"
+"1281",1281,"University Health
+   Network","STURGEON","JEREMY","Oncologist, Medical","$106,498.60","$239.64",2002,"Hospitals"
+"1282",1282,"University Health
+   Network","SUN","ALEXANDER","Oncologist, Radiation","$132,204.90","$383.16",2002,"Hospitals"
+"1283",1283,"University Health
+   Network","SUTTON","DAVID","Lab Division Head, MD","$190,604.96","$559.38",2002,"Hospitals"
+"1284",1284,"University Health
+   Network","SWEET","JOAN","Lab MD","$211,855.00","$621.39",2002,"Hospitals"
+"1285",1285,"University Health
+   Network","TANNOCK","IAN","Oncologist, Medical","$138,772.40","$312.24",2002,"Hospitals"
+"1286",1286,"University Health
+   Network","TAYLOR","BRYCE","Surgeon-In-Chief","$299,139.99","$21,401.61",2002,"Hospitals"
+"1287",1287,"University Health
+   Network","TEJPAR","ISMET","Associate, Clinical","$102,925.52","$312.90",2002,"Hospitals"
+"1288",1288,"University Health
+   Network","TKACHUK","DOUGLAS","Lab MD","$151,160.89","$364.57",2002,"Hospitals"
+"1289",1289,"University Health
+   Network","TONG","JEFFREY","Lab PHD","$102,962.58","$302.19",2002,"Hospitals"
+"1290",1290,"University Health
+   Network","TOURNEUR","FRANCIS","Director, Radiation Safety","$117,531.00","$334.38",2002,"Hospitals"
+"1291",1291,"University Health
+   Network","TRITCHLER","DAVID","Scientist","$101,889.32","$294.40",2002,"Hospitals"
+"1292",1292,"University Health
+   Network","TROTMAN","VICTOR","Director, Human Resources","$114,030.54","$309.36",2002,"Hospitals"
+"1293",1293,"University Health
+   Network","TSANG","RICHARD","Oncologist, Radiation","$177,275.10","$384.72",2002,"Hospitals"
+"1294",1294,"University Health
+   Network","TSAO","MING-SOUND","Lab MD","$211,855.00","$621.39",2002,"Hospitals"
+"1295",1295,"University Health
+   Network","UNDERWOOD","AILEEN","Executive Director, Operations","$135,158.10","$396.69",2002,"Hospitals"
+"1296",1296,"University Health
+   Network","VALLIS","KATHERINE","Oncologist, Radiation","$154,395.64","$416.88",2002,"Hospitals"
+"1297",1297,"University Health
+   Network","VITKIN","ALEX","Physicist","$112,856.73","$285.18",2002,"Hospitals"
+"1298",1298,"University Health
+   Network","WALDRON","JOHN","Oncologist, Radiation","$155,354.81","$314.76",2002,"Hospitals"
+"1299",1299,"University Health
+   Network","WANLESS","IAN","Lab MD","$211,855.00","$621.39",2002,"Hospitals"
+"1300",1300,"University Health
+   Network","WARDE","PADRAIG","Deputy Chief: Radiation Oncology","$229,693.25","$502.20",2002,"Hospitals"
+"1301",1301,"University Health
+   Network","WARR","DAVID","Oncologist, Medical","$106,498.60","$239.64",2002,"Hospitals"
+"1302",1302,"University Health
+   Network","WELLS","WOODROW","Oncologist, Radiation","$173,922.90","$362.88",2002,"Hospitals"
+"1303",1303,"University Health
+   Network","WILSON","BRIAN","Division Head I, Research Scientist","$177,763.80","$468.39",2002,"Hospitals"
+"1304",1304,"University Health
+   Network","WONG","PUI-YUEN","Lab Division Head, PHD","$137,983.58","$404.73",2002,"Hospitals"
+"1305",1305,"University Health
+   Network","WONG","REBECCA","Oncologist, Radiation","$149,022.86","$430.80",2002,"Hospitals"
+"1306",1306,"University Health
+   Network","WOODGETT","JAMES","Scientist","$187,951.62","$497.97",2002,"Hospitals"
+"1307",1307,"University Health
+   Network","YEO","ERIK","Lab Department Head, MD","$199,630.91","$672.15",2002,"Hospitals"
+"1308",1308,"University Health
+   Network","YEO","INHWAN","Physicist","$103,042.97","$303.27",2002,"Hospitals"
+"1309",1309,"University Health
+   Network","YEUNG","IVAN W T","Physicist","$120,726.60","$339.22",2002,"Hospitals"
+"1310",1310,"University Health
+   Network","YEWCHYN","WALTER N.","Sr. Director, Real Estate Operations","$133,569.10","$7.32",2002,"Hospitals"
+"1311",1311,"University Health
+   Network","YOUNGSON","BRUCE","Lab MD","$211,855.00","$621.39",2002,"Hospitals"
+"1312",1312,"University Health
+   Network","ZAHN","CATHERINE","Twh, VP & Chief Operating Officer","$327,960.01","$16,176.72",2002,"Hospitals"
+"1313",1313,"University Health
+   Network","ZHANG","LI","Scientific PHD","$113,226.25","$322.95",2002,"Hospitals"
+"1314",1314,"West Nipissing General
+   Hospital","CAMPEAU","YVES","C.E.O","$121,442.52","$835.70",2002,"Hospitals"
+"1315",1315,"West Parry Sound Health
+   Centre","MACIVER","NORMAN","Chief Executive Officer","$150,356.44","$821.70",2002,"Hospitals"
+"1316",1316,"Westpark Healthcare
+   Centre","BERGE","CATHERINE","Director, Human Resources","$104,249.45","$842.22",2002,"Hospitals"
+"1317",1317,"Westpark Healthcare
+   Centre","BONNAH","MICHAEL","Director, Operations and Logistics","$108,970.34","$917.60",2002,"Hospitals"
+"1318",1318,"Westpark Healthcare
+   Centre","COGHLAN","DAN","Vice President, Corporate and CFO","$165,750.00","$4,529.00",2002,"Hospitals"
+"1319",1319,"Westpark Healthcare
+   Centre","MALEK","ANNE-MARIE","Vice President Programs","$174,000.00","$4,608.73",2002,"Hospitals"
+"1320",1320,"Westpark Healthcare
+   Centre","MONAGHAN","BARRY","President and CEO","$275,000.14","$14,171.08",2002,"Hospitals"
+"1321",1321,"Westpark Healthcare
+   Centre","STARKMAN-MENDELSOHN","JODI","Director, Assessment Centre","$103,958.26","$681.82",2002,"Hospitals"
+"1322",1322,"William Osler Health
+   Centre","ALEXANDER","KUNNIPARAMPIL","Pathologist","$206,249.32","$921.60",2002,"Hospitals"
+"1323",1323,"William Osler Health
+   Centre","BECK","RUTH","Director","$118,763.79","$541.98",2002,"Hospitals"
+"1324",1324,"William Osler Health
+   Centre","BELL","ROBERT","President & CEO","$136,101.11","$1,891.58",2002,"Hospitals"
+"1325",1325,"William Osler Health
+   Centre","CERNY","DAVID","Project Manager","$103,934.50","$447.30",2002,"Hospitals"
+"1326",1326,"William Osler Health
+   Centre","COCK","DEBBIE","Director","$101,829.66","$466.48",2002,"Hospitals"
+"1327",1327,"William Osler Health
+   Centre","DENNY","LINDA","Director","$108,016.17","$495.09",2002,"Hospitals"
+"1328",1328,"William Osler Health
+   Centre","ELSBURY","BRENDA","VP, Patient Programs","$183,795.47","$3,825.27",2002,"Hospitals"
+"1329",1329,"William Osler Health
+   Centre","FLEMING","CINDY","Director","$117,513.80","$541.98",2002,"Hospitals"
+"1330",1330,"William Osler Health
+   Centre","FOREMAN","STEPHEN","VP, HR & Change Mgmt","$175,363.40","$3,763.42",2002,"Hospitals"
+"1331",1331,"William Osler Health
+   Centre","GRAY","NANCY","Director","$118,913.80","$541.98",2002,"Hospitals"
+"1332",1332,"William Osler Health
+   Centre","HENDERSON","NANCY","Director","$108,554.61","$495.09",2002,"Hospitals"
+"1333",1333,"William Osler Health
+   Centre","LACKIE","YOLANDA","Director","$107,916.12","$495.09",2002,"Hospitals"
+"1334",1334,"William Osler Health
+   Centre","MACKINNON","ANN","Director","$118,613.78","$541.98",2002,"Hospitals"
+"1335",1335,"William Osler Health
+   Centre","MASON","DAVE","Project Manager","$103,934.50","$447.30",2002,"Hospitals"
+"1336",1336,"William Osler Health
+   Centre","MCCAUGHAN","WILLA","Director","$107,316.14","$495.09",2002,"Hospitals"
+"1337",1337,"William Osler Health
+   Centre","MCGILLIS","HEATHER","Director","$118,563.79","$541.98",2002,"Hospitals"
+"1338",1338,"William Osler Health
+   Centre","MEDLINE","PAUL","Pathologist","$206,256.88","$921.60",2002,"Hospitals"
+"1339",1339,"William Osler Health
+   Centre","MIDDLETON","JUDY","Director","$117,863.79","$541.98",2002,"Hospitals"
+"1340",1340,"William Osler Health
+   Centre","MILADINOVIC","MIRKO","Pathologist","$175,323.00","$808.41",2002,"Hospitals"
+"1341",1341,"William Osler Health
+   Centre","MOLOO","ZAHIR","Pathologist","$248,553.11","$921.60",2002,"Hospitals"
+"1342",1342,"William Osler Health
+   Centre","PALMER","LANA","Director","$108,366.14","$495.09",2002,"Hospitals"
+"1343",1343,"William Osler Health
+   Centre","PENNY","ROSALIE","VP, Public Affairs","$153,048.31","$3,736.44",2002,"Hospitals"
+"1344",1344,"William Osler Health
+   Centre","PURDY","NANCY","Director","$118,663.80","$541.98",2002,"Hospitals"
+"1345",1345,"William Osler Health
+   Centre","RAYCRAFT","CHERYL","Director","$118,563.78","$541.98",2002,"Hospitals"
+"1346",1346,"William Osler Health
+   Centre","RUIJS","THEODORA","Pathologist","$185,618.28","$855.66",2002,"Hospitals"
+"1347",1347,"William Osler Health
+   Centre","SCHNEIDER","SUE","Director","$106,663.48","$486.74",2002,"Hospitals"
+"1348",1348,"William Osler Health
+   Centre","SCHRAUWERS","MERCEDES","Registered Nurse","$112,378.89","$0.00",2002,"Hospitals"
+"1349",1349,"William Osler Health
+   Centre","SHIOZAKI","DOUG","Director","$118,563.81","$541.98",2002,"Hospitals"
+"1350",1350,"William Osler Health
+   Centre","SHIOZAKI","LISA","Director","$118,913.81","$541.98",2002,"Hospitals"
+"1351",1351,"William Osler Health
+   Centre","SMITH","JANET","Registered Nurse","$103,555.00","$290.02",2002,"Hospitals"
+"1352",1352,"William Osler Health
+   Centre","SPENCER","GARY","Director","$109,016.11","$8,295.09",2002,"Hospitals"
+"1353",1353,"William Osler Health
+   Centre","STATIONWALA","ALTAF","VP, Patient Programs","$181,223.27","$4,255.90",2002,"Hospitals"
+"1354",1354,"William Osler Health
+   Centre","STEVEN","LEO","President & CEO","$239,011.71","$1,782.70",2002,"Hospitals"
+"1355",1355,"William Osler Health
+   Centre","STRONG","S. MARTHA","Director","$119,113.80","$541.98",2002,"Hospitals"
+"1356",1356,"William Osler Health
+   Centre","TRANT","DONALD","VP, Patient Programs","$183,933.47","$2,659.35",2002,"Hospitals"
+"1357",1357,"William Osler Health
+   Centre","TRIMBLE","GLEN DAVID","Director","$108,516.13","$495.09",2002,"Hospitals"
+"1358",1358,"William Osler Health
+   Centre","TRUMAN","VICKI","VP, Finance & Corporate Services","$187,646.47","$2,889.71",2002,"Hospitals"
+"1359",1359,"William Osler Health
+   Centre","WEISBROD","JOANNE","Director","$107,620.94","$491.83",2002,"Hospitals"
+"1360",1360,"William Osler Health
+   Centre","WOLFSON","LAURENCE","Director","$117,221.10","$536.79",2002,"Hospitals"
+"1361",1361,"William Osler Health
+   Centre","YATES","RUTH","VP, Patient Programs","$182,543.43","$2,848.60",2002,"Hospitals"
+"1362",1362,"Windsor Regional
+   Hospital","DICKIE","CAMERON","Vice President, Finance & Administration","$126,418.00","$783.00",2002,"Hospitals"
+"1363",1363,"Windsor Regional
+   Hospital","GIRASH","MARTIN","President and CEO","$212,500.00","$13,200.00",2002,"Hospitals"
+"1364",1364,"Windsor Regional
+   Hospital","GRUNDNER","AL","VP, Western Campus & Exec. Director","$118,500.00","$760.00",2002,"Hospitals"
+"1365",1365,"Windsor Regional
+   Hospital","MARSHALL","KEVIN","VP, Facilities, Environment & Planning","$106,629.00","$4,314.00",2002,"Hospitals"
+"1366",1366,"Windsor Regional
+   Hospital","MCKINNON","MICHAEL","Vice President Human Resources","$122,683.00","$760.00",2002,"Hospitals"
+"1367",1367,"Windsor Regional
+   Hospital","MUSYJ","DAVID","General
+   Counsel, Medical / Legal Issues","$116,274.00","$2,271.00",2002,"Hospitals"
+"1368",1368,"Woodstock General
+   Hospital","ENGBERS","PETER","Pathologist","$184,360.09","$861.00",2002,"Hospitals"
+"1369",1369,"Woodstock General
+   Hospital","VELJOVIC","NATASA","CEO","$143,653.30","$8,825.11",2002,"Hospitals"
+"1370",1370,"Woodstock General
+   Hospital","VINSON","ROBERT","Radiologist","$377,000.38","$1,809.46",2002,"Hospitals"
+"1371",1371,"York Central","ALLDRED-JOHNSON","LINDA","Director, Medicine","$107,549.84","$459.09",2002,"Hospitals"
+"1372",1372,"York Central","CHANG","MAY","CFO","$118,161.75","$514.22",2002,"Hospitals"
+"1373",1373,"York Central","COBER","CAROL","Director, Continuing Care","$108,375.48","$473.79",2002,"Hospitals"
+"1374",1374,"York Central","CRISTANTE","ROSEMARIE","Director, Redevelopment","$104,510.32","$516.89",2002,"Hospitals"
+"1375",1375,"York Central","D'AGOSTINO-ROSE","DINA","Director, Surgery","$107,549.82","$459.09",2002,"Hospitals"
+"1376",1376,"York Central","DOUCET","JOHN","Clinical, Director Lab","$299,076.12","$1,049.24",2002,"Hospitals"
+"1377",1377,"York Central","GILLANI","ASMITA","COO","$167,015.30","$6,767.46",2002,"Hospitals"
+"1378",1378,"York Central","INGLEDEW","BRENDA","Director, Emergency","$108,093.47","$468.83",2002,"Hospitals"
+"1379",1379,"York Central","JOHNSON","CLARE","Director, Diagnostic Services","$102,078.48","$296.58",2002,"Hospitals"
+"1380",1380,"York Central","LEE","AINSLEY","Director, Dialysis","$128,386.97","$562.11",2002,"Hospitals"
+"1381",1381,"York Central","LUSSING","FRANK","President and CEO","$208,103.78","$10,018.14",2002,"Hospitals"
+"1382",1382,"York Central","MANUEL","URSULA","Director, Woman and Child","$107,549.85","$459.09",2002,"Hospitals"
+"1383",1383,"York Central","ROBINSON","JILL","Director, Mental Health","$107,549.85","$459.09",2002,"Hospitals"
+"1384",1384,"York Central","SALOIS-SWALLOW","DIANE","CIO","$104,727.00","$509.98",2002,"Hospitals"
+"1385",1385,"York Central","WALDNER","AGNES","Pathologist","$165,488.31","$455.70",2002,"Hospitals"
+"1386",1386,"York Central","YATES","MARY","Director, Org and HR Dev.","$100,834.50","$503.60",2002,"Hospitals"
