@@ -132,7 +132,7 @@ summary_city = rawData_universities_dt[, list(Median.Salary = median(Salary.Paid
 summary_city = summary_city[order(Median.Salary)]
 barplot(height = summary_city$Median.Salary, names.arg = summary_city$City, las=2, ylab = "Median Salary for City ($)")
 rawData_universities_dt$City = with(rawData_universities_dt, reorder(City, Salary.Paid, median))
-city_vs_salary_plot = ggplot(rawData_universities_dt, aes(x=factor(City), y=Salary.Paid, fill=factor(City)))+ geom_boxplot() + theme(axis.text.x  = element_text(angle=90, vjust=0.5)) + ylim(0,500000)
+city_vs_salary_plot = ggplot(rawData_universities_dt, aes(x=factor(City), y=Salary.Paid, fill=factor(City)))+ geom_boxplot() + theme(axis.text.x  = element_text(angle=90, vjust=0.5)) + ylim(0,500000) + xlab("City") + ylab("Salary Paid") + ggtitle("Distribution of salaries for university locations")
 ggplotly(city_vs_salary_plot)
 
 
@@ -173,18 +173,36 @@ for (i in 2:length(years)){
 data_total$Salary.Paid = as.numeric(gsub("[$,]","", data_total$Salary.Paid))
 data_total$Taxable.Benefits = as.numeric(gsub("[$,]","", data_total$Taxable.Benefits))
 data_total$Total.Compensation = data_total$Salary.Paid + data_total$Taxable.Benefits
-data_total = data_total[data_total$Sector == "Universities", ]  # Universities only for now
-compensation_over_time_plot = ggplot(data_total, aes(x=factor(Calendar.Year), y=Total.Compensation, fill=factor(Calendar.Year))) + geom_boxplot() + theme(axis.text.x  = element_text(angle=90, vjust=0.5)) + ylim(0,1500000)
-ggplotly(compensation_over_time_plot)
-compensation_over_time_plot_zoomed = ggplot(data_total, aes(x=factor(Calendar.Year), y=Total.Compensation, fill=factor(Calendar.Year))) + geom_boxplot() + theme(axis.text.x  = element_text(angle=90, vjust=0.5)) + ylim(0,1500000) +  coord_cartesian(ylim=c(0,300000))
+
+# Over time (entire public sectors)
+compensation_over_time_plot = ggplot(data_total, aes(x=factor(Calendar.Year), y=Total.Compensation, fill=factor(Calendar.Year))) + geom_boxplot() + theme(axis.text.x  = element_text(angle=90, vjust=0.5)) + ylim(0,1500000) + xlab("Calendar Year") + ylab("Total Compensation") + ggtitle("Salaries over time for all sectors")
+ggplotly(compensation_over_time_plot) 
+compensation_over_time_plot_zoomed = ggplot(data_total, aes(x=factor(Calendar.Year), y=Total.Compensation, fill=factor(Calendar.Year))) + geom_boxplot() + theme(axis.text.x  = element_text(angle=90, vjust=0.5)) + ylim(0,1500000) +  coord_cartesian(ylim=c(0,300000)) + xlab("Calendar Year") + ylab("Total Compensation") + ggtitle("Salaries over time for all sectors")
 ggplotly(compensation_over_time_plot_zoomed)
+
+
+# Different sectors over time
+#sectors = unique(data_total$Sector)
+sectors = c("Colleges", "Universities", "Electricity", "Hospitals", "Municipalities", "Other", "SchoolBoards", "Ministries", "Legislative")# Stick with the well curated sectors for now
+for(i in 1:length(sectors)){
+  compensation_over_time_plot = ggplot(data_total[data_total$Sector == sectors[i], ], aes(x=factor(Calendar.Year), y=Total.Compensation, fill=factor(Calendar.Year))) + geom_boxplot() + theme(axis.text.x  = element_text(angle=90, vjust=0.5)) + ylim(0,1500000) +  coord_cartesian(ylim=c(0,300000)) + xlab("Calendar Year") + ylab("Total Compensation") + ggtitle(paste0("Salaries over time for ", sectors[i]))
+  print(compensation_over_time_plot)
+  #ggplotly(compensation_over_time_plot)
+}
+
+
+
+# data_total = data_total[data_total$Sector == "Universities", ]  # Universities only for now
+# compensation_over_time_plot = ggplot(data_total, aes(x=factor(Calendar.Year), y=Total.Compensation, fill=factor(Calendar.Year))) + geom_boxplot() + theme(axis.text.x  = element_text(angle=90, vjust=0.5)) + ylim(0,1500000)
+# ggplotly(compensation_over_time_plot)
+
 
 for (i in 1:length(years)){
   hist(data_total[data_total$Calendar.Year==years[i], ]$Total.Compensation, breaks = 100, xlim = c(0,300000))
 }
 
 a= hist(data_total[data_total$Calendar.Year==years[i], ]$Total.Compensation, breaks = 100, xlim = c(0,300000))
-b = data.frame(x=a$mids, r=a$counts)
+# b = data.frame(x=a$mids, r=a$counts)
 #(b <- nls( r ~ k*exp(-1/2*(x-mu)^2/sigma^2), start=c(mu=120000,sigma=5,k=1) , data = b))
 #v <- summary(b)$parameters[,"Estimate"]
 
